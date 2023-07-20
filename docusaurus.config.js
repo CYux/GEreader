@@ -11,15 +11,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://cyux.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/GEreader/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'CYux', // Usually your GitHub org/user name.
+  projectName: 'GEreader', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -39,11 +39,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath:'/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          routeBasePath: '/', // Serve the docs at the site's root
+            'https://github.com/CYux/GEreader/tree/main',
             /* other docs plugin options */
           // docItemComponent: require.resolve('./src/pages/index.js'),
         },
@@ -59,12 +59,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar:{
         logo: {
           alt: 'ARCHIVE',
           src: 'img/logo.png',
-          href: 'https://georgeeliotarchive.org/' 
+          href: 'https://georgeeliotarchive.org/'
         },
         hideOnScroll: true,
         items: [
@@ -81,6 +80,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'theMillOnTheFlossSidebar',
+            position: 'left',
+            label: 'The Mill on the Floss',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'romolaSidebar',
             position: 'left',
             label: 'Romola',
@@ -92,10 +97,6 @@ const config = {
           hideable: true,
         },
       },
-      // footer: {
-      //   style: 'dark',
-      //   copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

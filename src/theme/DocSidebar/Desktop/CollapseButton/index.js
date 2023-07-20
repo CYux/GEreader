@@ -4,9 +4,6 @@ import {translate} from '@docusaurus/Translate';
 import IconClose from '@theme/Icon/Close';
 import styles from './styles.module.css';
 export default function CollapseButton({onClick}) {
-  const btn = document.getElementById('close_sider');
-  // btn.innerHTML = 'test'
-  // btn.onclick = onClick;
   return (
     <div style={{marginTop: 20 + 'px', marginRight: 20 + 'px', marginBottom: -30 + 'px'}}>
     <button
