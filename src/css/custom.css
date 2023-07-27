@@ -34,6 +34,7 @@
 .book-title {
   margin-top: 30px;
   font-weight:800;
+  text-align: center;
 }
 .mdx-wrapper{
   background-color: red;
@@ -56,7 +57,7 @@
   --ifm-color-primary-darker: #d4d4d4;
   --ifm-color-primary-darkest: #afafaf;
   --ifm-color-primary-light: #ffffff;
-  --ifm-color-primary-lighter: #ffffff;
+  --ifm-color-primary-lighter: #edeeeee;
   --ifm-color-primary-lightest: #ffffff;
   --ifm-background-color: ##0E1117;
   --secondaryBackgroundColor: #262730;

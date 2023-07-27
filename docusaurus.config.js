@@ -90,6 +90,18 @@ const config = {
             position: 'left',
             label: 'Romola',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'impressionsOfTheophrastusSuchSidebar',
+            position: 'left',
+            label: 'Impressions of Theophrastus Such',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'danielDerondaSidebar',
+            position: 'left',
+            label: 'Daniel Deronda',
+          }
         ],
       },
       docs: {

@@ -1,6 +1,82 @@
 ---
 title: Table Of Contents
 ---
-# 🏗️ Building...
-# Romola 
-
+# Romola
+## Table Of Contents
+- Prologue.
+### BOOK I
+- CHAPTER I. The Shipwrecked Stranger
+- CHAPTER II. Breakfast for Love
+- CHAPTER III. The Barber’s Shop
+- CHAPTER IV. First Impressions
+- CHAPTER V. The Blind Scholar and his Daughter
+- CHAPTER VI. Dawning Hopes
+- CHAPTER VII. A Learned Squabble
+- CHAPTER VIII. A Face in the- Crowd
+- CHAPTER IX. A Man’s Ransom
+- CHAPTER X. Under the Plane-Tree
+- CHAPTER XI. Tito’s Dilemma
+- CHAPTER XII. The Prize is nearly Grasped
+- CHAPTER XIII. The Shadow of Nemesis
+- CHAPTER XIV. The Peasants’ Fair
+- CHAPTER XV. The Dying Message
+- CHAPTER XVI. A Florentine Joke
+- CHAPTER XVII. Under the Loggia
+- CHAPTER XVIII. The Portrait
+- CHAPTER XIX. The Old Man’s Hope
+- CHAPTER XX. The Day of the Betrothal
+### BOOK II
+- CHAPTER XXI. Florence expects a Guest
+- CHAPTER XXII. The Prisoners
+- CHAPTER XXIII. After-Thoughts
+- CHAPTER XXIV. Inside the Duomo
+- CHAPTER XXV. Outside the Duomo
+- CHAPTER XXVI. The Garment of Fear
+- CHAPTER XXVII. The Young Wife
+- CHAPTER XXVIII. The Painted Record
+- CHAPTER XXIX. A Moment of Triumph
+- CHAPTER XXX. The Avenger’s Secret
+- CHAPTER XXXI. Fruit is Seed
+- CHAPTER XXXII. A Revelation
+- CHAPTER XXXIII. Baldassarre makes an Acquaintance
+- CHAPTER XXXIV. No Place for Repentance
+- CHAPTER XXXV. What Florence was thinking of
+- CHAPTER XXXVI. Ariadne discrowns herself
+- CHAPTER XXXVII. The Tabernacle Unlocked
+- CHAPTER XXXVIII. The Black Marks become Magical
+- CHAPTER XXXIX. A Supper in the Rucellai Gardens
+- CHAPTER XL. An Arresting Voice
+- CHAPTER XLI.- Coming Back
+### BOOK III
+- CHAPTER XLII. Romola in her Place
+- CHAPTER XLIII. The Unseen Madonna
+- CHAPTER XLIV. The Visible Madonna
+- CHAPTER XLV. At the Barber’s Shop
+- CHAPTER XLVI. By a Street Lamp
+- CHAPTER XLVII.- Check
+- CHAPTER XLVIII.- Counter-Check
+- CHAPTER XLIX. The Pyramid of Vanities
+- CHAPTER L. Tessa Abroad and at Home
+- CHAPTER LI. Monna Brigida’s- Conversion
+- CHAPTER LII. A Prophetess
+- CHAPTER LIII. On San Miniato
+- CHAPTER LIV. The Evening and the Morning
+- CHAPTER LV. Waiting
+- CHAPTER LVI. The Other Wife
+- CHAPTER LVII. Why Tito was Safe
+- CHAPTER LVIII. A Final Understanding
+- CHAPTER LIX. Pleading
+- CHAPTER LX. The Scaffold
+- CHAPTER LXI. Drifting Away
+- CHAPTER LXII. The Benediction
+- CHAPTER LXIII. Ripening Schemes
+- CHAPTER LXIV. The Prophet in his- Cell
+- CHAPTER LXV. The Trial by Fire
+- CHAPTER LXVI. A Masque of the Furies
+- CHAPTER LXVII. Waiting by the River
+- CHAPTER LXVIII. Romola’s waking
+- CHAPTER LXIX. Homeward
+- CHAPTER LXX. Meeting Again
+- CHAPTER LXXI. The- Confession
+- CHAPTER LXXII. The Last Silence
+ Epilogue. 
