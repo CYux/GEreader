@@ -67,11 +67,7 @@ const config = {
         },
         hideOnScroll: true,
         items: [
-          {to: 'https://georgeeliotarchive.org/', label: 'Archive', position: 'left', className: 'archive'},
-          { type: 'html',
-            value: "<strong>/</strong>",
-            position: 'left'},
-          {to: '/', label: 'Reader', position: 'left'},
+          {to: '/', label: 'All novels', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'middleMarchSidebar',
@@ -92,16 +88,17 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'danielDerondaSidebar',
+            position: 'left',
+            label: 'Daniel Deronda',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'impressionsOfTheophrastusSuchSidebar',
             position: 'left',
             label: 'Impressions of Theophrastus Such',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'danielDerondaSidebar',
-            position: 'left',
-            label: 'Daniel Deronda',
-          }
+
         ],
       },
       docs: {
