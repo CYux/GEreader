@@ -98,7 +98,25 @@ const config = {
             position: 'left',
             label: 'Impressions of Theophrastus Such',
           },
-
+          {
+            type: 'docSidebar',
+            sidebarId: 'adamBedeSidebar',
+            position: 'left',
+            label: 'Adam Bede',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'scenesOfClericalLifeSidebar',
+            position: 'left',
+            label: 'Scenes of Clerical Life',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'silasMarnerSidebar',
+            position: 'left',
+            label: 'Silas Marner',
+          },
+        //Chat with GE
         ],
       },
       docs: {
