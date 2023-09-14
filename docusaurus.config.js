@@ -67,54 +67,59 @@ const config = {
         },
         hideOnScroll: true,
         items: [
-          {to: '/', label: 'All novels', position: 'left'},
           {
-            type: 'docSidebar',
-            sidebarId: 'middleMarchSidebar',
+            type: 'dropdown',
             position: 'left',
-            label: 'Middlemarch',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'theMillOnTheFlossSidebar',
-            position: 'left',
-            label: 'The Mill on the Floss',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'romolaSidebar',
-            position: 'left',
-            label: 'Romola',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'danielDerondaSidebar',
-            position: 'left',
-            label: 'Daniel Deronda',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'impressionsOfTheophrastusSuchSidebar',
-            position: 'left',
-            label: 'Impressions of Theophrastus Such',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'adamBedeSidebar',
-            position: 'left',
-            label: 'Adam Bede',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'scenesOfClericalLifeSidebar',
-            position: 'left',
-            label: 'Scenes of Clerical Life',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'silasMarnerSidebar',
-            position: 'left',
-            label: 'Silas Marner',
+            label: 'All novels',
+            to: '/',
+            items:
+            [
+              {
+                type: 'docSidebar',
+                sidebarId: 'middleMarchSidebar',
+                label: 'Middlemarch',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'theMillOnTheFlossSidebar',
+                label: 'The Mill on the Floss',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'romolaSidebar',
+                label: 'Romola',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'danielDerondaSidebar',
+                label: 'Daniel Deronda',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'impressionsOfTheophrastusSuchSidebar',
+                label: 'Impressions of Theophrastus Such',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'adamBedeSidebar',
+                label: 'Adam Bede',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'scenesOfClericalLifeSidebar',
+                label: 'Scenes of Clerical Life',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'silasMarnerSidebar',
+                label: 'Silas Marner',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'felixHoltTheRadicalSidebar',
+                label: 'Felix Holt, the Radical'
+              }
+            ],
           },
         //Chat with GE
         ],

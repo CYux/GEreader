@@ -8,7 +8,7 @@ function SecondaryMenuBackButton(props) {
       <Translate
         id="theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel"
         description="The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)">
-        ← Back to main menu
+        ← Back to all novels
       </Translate>
     </button>
   );
@@ -21,9 +21,9 @@ export default function NavbarMobileSidebarSecondaryMenu() {
   return (
     <>
       {/* edge-case: prevent returning to the primaryMenu when it's empty */}
-      {/* {!isPrimaryMenuEmpty && (
+      {!isPrimaryMenuEmpty && (
         <SecondaryMenuBackButton onClick={() => secondaryMenu.hide()} />
-      )} */}
+      )}
       {secondaryMenu.content}
     </>
   );
