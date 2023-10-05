@@ -13,7 +13,7 @@ Esther, feeling anxious and wanting to see Felix, decides to visit him at Mrs. H
 **Location**:
 Mrs. Holt's house and Mr. Lyon's house
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mrs. Holt's house and Mr. Lyon's house
 ** Plot Points**:
 ["Esther's visit to Felix's home", "Esther's emotional confession to Felix", "Felix's interaction with Job", "Felix's visit to Mr. Lyon"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I wanted to tell you that I was not offended--that I am not ungenerous--I thought you might think--but you have not thought of it.', "That's true, mother, said Felix, sitting down, snatching up little Job, and finding a vent for some unspeakable feeling in the pretence of worrying him."]
 
 ** Chapter Keywords**:

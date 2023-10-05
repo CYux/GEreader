@@ -13,7 +13,7 @@ In this chapter, the town of Middlemarch begins to gossip about the bad reputati
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Gossip about Dr. Lydgate's reputation spreads in Middlemarch", "Mrs. Bulstrode becomes increasingly worried about her husband's behavior", 'Mrs. Bulstrode confronts her brother and learns about the scandal surrounding her husband', 'Mrs. Bulstrode decides to stand by her husband']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

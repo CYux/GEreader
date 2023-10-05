@@ -15,7 +15,7 @@ In this chapter, Hetty's feelings of despair over her impending marriage to Adam
 **Location**:
 Loamshire, Treddleston, Stoniton
 
-**Time_period**:
+**Time Period**:
 Late 18th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th Century
 ** Plot Points**:
 ["Hetty's feelings of despair increase due to her secret pregnancy and impending marriage to Adam.", 'Hetty decides to run away and seek help from Arthur.', 'Using the excuse of visiting Dinah, Hetty leaves home.', 'Adam accompanies Hetty to the coach, unaware of her plans.', 'Hetty leaves with a mix of dread and hope about her future with Arthur.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['No, she has not courage to jump into that cold watery bed, and if she had, they might find her—they might find out why she had drowned herself. There is but one thing left to her: she must go away, go where they can’t find her.', 'But Hetty’s tears were not for Adam—not for the anguish that would come upon him when he found she was gone from him for ever. They were for the misery of her own lot, which took her away from this brave tender man who offered up his whole life to her, and threw her, a poor helpless suppliant, on the man who would think it a misfortune that she was obliged to cling to him.']
 
 ** Chapter Keywords**:

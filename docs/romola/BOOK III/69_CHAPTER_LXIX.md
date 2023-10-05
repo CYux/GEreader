@@ -13,7 +13,7 @@ In Chapter 69, Romola reflects on her experiences in the valley, and her thought
 **Location**:
 ['a secluded valley', 'Florence']
 
-**Time_period**:
+**Time Period**:
 Renaissance Italy
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance Italy
 ** Plot Points**:
 ["Romola's reflection on her past and future", "Romola's decision to leave the valley", "The villagers' farewell to Romola", 'Romola sets off with Jacopo and the Padre']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['If everything else is doubtful, this suffering that I can help is certain; if the glory of the cross is an illusion, the sorrow is only the truer.', 'That rare possibility of self-contemplation which comes in any complete severance from our wonted life made her judge herself as she had never done before.']
 
 ** Chapter Keywords**:

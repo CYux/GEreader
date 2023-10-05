@@ -14,7 +14,7 @@ This chapter provides an overview of the lives of the main characters in the nov
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -23,7 +23,7 @@ Unknown
 ** Plot Points**:
 ['Fred Vincy becomes a successful farmer and writer', 'Mary Garth publishes a book', 'Will Ladislaw becomes a public man and gets elected to Parliament', 'Dorothea and Will have a strong and loving marriage']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Every limit is a beginning as well as an ending'", "'Marriage, which has been the bourne of so many narratives, is still a great beginning'", "'No life would have been possible to Dorothea which was not filled with emotion'"]
 
 ** Chapter Keywords**:

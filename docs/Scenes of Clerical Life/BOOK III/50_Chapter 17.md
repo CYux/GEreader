@@ -13,7 +13,7 @@ This chapter revolves around the morning after a violent incident between Dempst
 **Location**:
 Dempster's house and the town
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Dempster's house and the town
 ** Plot Points**:
 ["Dempster wakes up to find Janet gone and assumes she has gone to her mother's.", "Dempster instructs the servants that Janet is at her mother's and not to wait up for him that evening.", 'Dempster has a violent confrontation with his man, Dawes, who is late with the gig.', 'Dempster fires Dawes after hitting him with a whip.', 'Dempster drives off alone.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'What, you impudent scoundrel,' said Dempster, getting into the gig, 'you think you’re necessary to me, do you? As if a beastly bucket-carrying idiot like you wasn’t to be got any day. Look out for a new master, then, who’ll pay you for not doing as you’re bid.'", "Dawe’s blood was now fairly up. 'I’ll look out for a master as has got a better charicter nor a lyin’, bletherin’ drunkard, an’ I shouldn’t hev to go fur.'", "'Why, there’s your friend Dempster driving out without his man again,' said Mr. Luke Byles, who was chatting with Mr. Budd in the Bridge Way. 'What a fool he is to drive that two-wheeled thing! he’ll get pitched on his head one of these days.'"]
 
 ** Chapter Keywords**:

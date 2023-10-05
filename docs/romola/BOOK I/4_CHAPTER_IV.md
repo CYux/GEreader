@@ -13,7 +13,7 @@ In Chapter IV of "Romola," set in 15th-century Florence, a young Greek man named
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In Chapter IV of "Romola," set in 15th-century Florence, a young Greek man named
 ** Plot Points**:
 ['Tito Melema, a young Greek scholar, meets the barber Nello and seeks his help in pawning a valuable ring.', "Nello introduces Tito to goldsmith Domenico Cennini, who is interested in the ring's history and its alleged protective powers.", 'Cennini suggests that Tito might find work with his brother Pietro, a scholar.', "Piero di Cosimo, a painter, expresses his desire to use Tito's face for a painting of the Greek traitor Sinon, causing Tito to feel uneasy.", "Nello dismisses Piero's words as jokes and plans to learn more about Tito's past before introducing him to Bardo Bardi, a potential employer."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['A perfect traitor should have a face which vice can write no marks on—lips that will lie with a dimpled smile—eyes of such agate-like brightness and depth that no infamy can dull them—cheeks that will rise from a murder and not look haggard. (Piero di Cosimo)', 'You are to do me a great service:—that is the most positive security for your seeing me again. (Tito Melema)']
 
 ** Chapter Keywords**:

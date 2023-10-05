@@ -13,7 +13,7 @@ Dorothea plans to visit Rosamond to offer sympathy and support, but is shocked t
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Dorothea's surprise at finding Will with Rosamond", "Dorothea's decision to visit Sir James and her uncle", "Dorothea's determination to help Lydgate"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

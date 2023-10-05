@@ -13,7 +13,7 @@ In this chapter, Daniel Deronda and Mirah are married in a Jewish ceremony. Thei
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Daniel and Mirah get married in a Jewish ceremony.', 'Mordecai expresses his wish to travel with Daniel and Mirah to the East.', 'Mordecai passes away, comforted by the presence of Daniel and Mirah.', 'Gwendolen sends a heartfelt letter to Daniel on his wedding day.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Among the blessings of love there is hardly one more exquisite than the sense that in uniting the beloved life to ours we can watch over its happiness, bring comfort where hardship was, and over memories of privation and suffering open the sweetest fountains of joy.', 'Do not think of me sorrowfully on your wedding-day. I have remembered your words—that I may live to be one of the best of women, who make others glad that they were born.']
 
 ** Chapter Keywords**:

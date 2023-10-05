@@ -14,7 +14,7 @@ In this chapter, Mr. and Mrs. Glegg are introduced in their home in the town of 
 **Location**:
 St Ogg's
 
-**Time_period**:
+**Time Period**:
 Past
 
 **Themes**:
@@ -23,7 +23,7 @@ Past
 ** Plot Points**:
 ['Quarrel between Mr. and Mrs. Glegg', 'Reconciliation between Mr. and Mrs. Glegg']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

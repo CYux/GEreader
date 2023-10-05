@@ -13,7 +13,7 @@ In this chapter, Mr. Bambridge stands under the archway of the Green Dragon and 
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Mr. Bambridge shares gossip about Bulstrode's past", 'Rumors spread throughout Middlemarch', 'Bulstrode is accused of dishonest practices', 'Lydgate helps Bulstrode leave the meeting']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“By jingo! that reminds me,” he began, lowering his voice a little, “I picked up something else at Bilkley besides your gig-horse, Mr. Hawley. I picked up a fine story about Bulstrode. Do you know how he came by his fortune? Any gentleman wanting a bit of curious information, I can give it him free of expense.']
 
 ** Chapter Keywords**:

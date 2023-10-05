@@ -13,7 +13,7 @@ In Chapter II of Middlemarch, the main characters are introduced and their inter
 **Location**:
 The Brooke family home
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Brooke family home
 ** Plot Points**:
 ["Dorothea's interest in Mr. Casaubon", "Sir James Chettam's pursuit of Dorothea", 'Discussion of religion and science']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Everything I see in him corresponds to his pamphlet on Biblical Cosmology.' - Dorothea", "'I have documents at my back.' - Mr. Brooke", "'We must keep the germinating grain away from the light.' - Mr. Casaubon"]
 
 ** Chapter Keywords**:

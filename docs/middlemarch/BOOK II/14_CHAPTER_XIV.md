@@ -13,7 +13,7 @@ In Chapter XIV, Fred delivers a letter from Mr. Bulstrode to Mr. Featherstone, d
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Fred delivers a letter from Mr. Bulstrode to Mr. Featherstone', 'Mr. Featherstone dismisses Fred and gives him some money', 'Fred confesses his love to Mary and expresses his desire to marry her', "Mary rejects Fred's advances due to their financial differences and her father's disapproval", 'Fred gives some money to his mother to hold for him', "Fred realizes that his creditor has a bill signed by Mary's father"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

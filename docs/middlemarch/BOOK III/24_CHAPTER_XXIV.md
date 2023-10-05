@@ -13,7 +13,7 @@ Fred Vincy falls into worse spirits after his horse, Diamond, becomes vicious an
 **Location**:
 The Garth house
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Fred confesses his financial troubles to Mrs. Garth', "Mrs. Garth suggests using her savings and Mary's salary to pay the bill"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I suppose you have asked your father for the rest of the money and he has refused you.”', '“I shall certainly pay it all, Mrs. Garth—ultimately,” he stammered out.']
 
 ** Chapter Keywords**:

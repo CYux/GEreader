@@ -13,7 +13,7 @@ Dorothea returns to Lowick Manor and decides to leave Freshitt. She expresses he
 **Location**:
 Lowick Manor
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Dorothea returns to Lowick Manor', 'Dorothea expresses her desire to know the Farebrothers better', 'Dorothea meets with Will Ladislaw and there is tension between them', 'Will confesses his love for Dorothea and expresses his fear of poverty', 'Sir James Chettam enters the room and Dorothea maintains her composure', 'Will leaves and Sir James becomes a barrier between Dorothea and Will']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Sorrow comes in so many ways. Two years ago I had no notion of that—Imean of the unexpected way in which trouble comes, and ties our hands, and makes us silent when we long to speak.', '“The thing one most longs for may be surrounded with conditions that would be intolerable.”']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Harold Transome meets with his mother and his uncle, the Revere
 **Location**:
 Transome Court, Treby Magna
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Transome Court, Treby Magna
 ** Plot Points**:
 ['Harold reveals his plans to run as a Radical candidate', 'Tensions arise between Harold and his mother over his political choice', 'Harold meets with Mr. Jermyn to discuss his campaign strategy and the state of the estate']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I shall just cross the park to the parsonage to see my uncle Lingon.'", "'I shall know what to do, sir, never fear,' said Harold, much offended.", "'You shall have a new carriage and a pair of bays all to yourself; you shall have the house done up in first-rate style.'"]
 
 ** Chapter Keywords**:

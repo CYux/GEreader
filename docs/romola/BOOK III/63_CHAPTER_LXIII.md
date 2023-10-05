@@ -13,7 +13,7 @@ In this chapter, Tito is up to his usual scheming, trying to manipulate various 
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Late 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 15th century
 ** Plot Points**:
 ['Tito observes the crowd gathered around the placard announcing the trial by fire.', 'Tito manipulates the crowd by sowing doubt about Fra Girolamo and the trial by fire.', 'Tito meets with Dolfo Spini and tries to convince him to defeat Fra Girolamo through strategy rather than violence.', "Tito is concerned about Ser Ceccone's grudge against him, but believes he can win him over."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The Frate, wanting to be master, and to carry out his projects against the Pope, requires the lever of a foreign power, and requires Florence as a fulcrum.']
 
 ** Chapter Keywords**:

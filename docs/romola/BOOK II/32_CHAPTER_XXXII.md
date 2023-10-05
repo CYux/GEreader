@@ -13,7 +13,7 @@ In this chapter, Romola and Tito have a heated argument over Tito's decision to 
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 15th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Romola and Tito have a heated argument over Tito's decision to 
 ** Plot Points**:
 ["Romola learns that Tito has sold her father's library.", 'Romola and Tito argue over the sale of the library, with Romola feeling betrayed and Tito defending his actions.', 'Tito agrees to give Romola the portion of the money that belongs to her godfather so she can repay him.', "Romola promises not to reveal Tito's actions to anyone."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"You are a treacherous man!" (Romola)', '"I will do you no harm. I shall disclose nothing. I will say nothing to pain him or you. You say truly, the event is irrevocable." (Romola)']
 
 ** Chapter Keywords**:

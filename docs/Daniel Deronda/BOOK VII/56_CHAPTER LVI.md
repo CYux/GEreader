@@ -13,7 +13,7 @@ Gwendolen confesses to Daniel Deronda about her role in her husband's death. She
 **Location**:
 Hotel room
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Gwendolen confesses to Deronda about her role in Grandcourt's death", 'She admits to her hatred towards Grandcourt and her wish for his death', 'Gwendolen is overwhelmed with guilt and remorse', 'Deronda offers his support and asks her to rest']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You know I am a guilty woman?'", "'I saw my wish outside me.'", "'It is done—I am wicked, I am lost!—and I had the rope in my hand—I don’t know what I thought—I was leaping away from myself—I would have saved him then.'", "'It can never be altered.'"]
 
 ** Chapter Keywords**:

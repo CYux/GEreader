@@ -13,7 +13,7 @@ Mr. Bulstrode learns that Raffles, a former employee, is seriously ill and asks 
 **Location**:
 Stone Court
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Stone Court
 ** Plot Points**:
 ["Raffles is seriously ill and tells Caleb Garth about Bulstrode's past", 'Caleb informs Bulstrode and decides to stop working for him', 'Bulstrode goes to Stone Court and finds Raffles in a terrified state', 'Lydgate examines Raffles and determines that he may recover', 'Rosamond decides to stay with her parents due to the strained relationship with Lydgate']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I must give it up.” - Caleb Garth', '“I am sorry. I don’t judge you and say, he is wicked, and I am righteous. God forbid. I don’t know everything. A man may do wrong, and his will may rise clear out of it, though he can’t get his life clear. That’s a bad punishment.“ - Caleb Garth', '“Forgive me for this misery, my poor Rosamond! Let us only love one another.” - Lydgate']
 
 ** Chapter Keywords**:

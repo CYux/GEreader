@@ -13,7 +13,7 @@ The chapter opens with a conversation between Felix Holt and Mr. Lyon regarding 
 **Location**:
 Mr. Lyon's house
 
-**Time_period**:
+**Time Period**:
 The era of the Reform Act of 1832
 
 **Themes**:
@@ -22,7 +22,7 @@ The era of the Reform Act of 1832
 ** Plot Points**:
 ['Harold Transome visits Mr. Lyon to gain his support in the election.', "Felix Holt confronts Harold about his agents' corrupt practices.", 'Harold denies knowledge of these practices and agrees to investigate.', 'Mr. Lyon arranges a private meeting with Mr. Jermyn.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I\'m a Radical myself, and mean to work all my life long against privilege, monopoly, and oppression. But I would rather be a livery-servant proud of my master\'s title, than I would seem to make common cause with scoundrels who turn the best hopes of men into by-words for cant and dishonesty." - Felix Holt', '"I have too much respect for the freedom of the voter to oppose anything which offers a chance of making that freedom more complete." - Harold Transome', '"I would fain," said the minister, looking uneasy--"I would fain have had a further opportunity of considering that question of the ballot with you."']
 
 ** Chapter Keywords**:

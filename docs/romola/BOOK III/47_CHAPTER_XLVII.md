@@ -13,7 +13,7 @@ In this chapter, Romola is unable to sleep due to her anxiety about Tito's plans
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Renaissance Italy
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance Italy
 ** Plot Points**:
 ["Romola spends the night worried about Tito's plans and Savonarola's safety.", "She goes out to find Tito and confront him about Savonarola's whereabouts.", 'Tito assures her that the Frate has not left the city, and their mutual distrust and animosity grow.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['She hurried straight on to the Piazza del Duomo. It was already full of movement: there were worshippers passing up and down the marble steps, there were men pausing for chat, and there were market-people carrying their burdens.', 'A slight shock passed through Tito’s frame as he felt himself face to face with his wife.']
 
 ** Chapter Keywords**:

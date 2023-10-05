@@ -14,7 +14,7 @@ This chapter discusses the life of Saint Theresa and reflects on the struggles a
 **Location**:
 Avila, Spain
 
-**Time_period**:
+**Time Period**:
 Three hundred years ago
 
 **Themes**:
@@ -23,7 +23,7 @@ Three hundred years ago
 ** Plot Points**:
 ["Saint Theresa's desire for an epic life", 'Her search for a suitable outlet for her passions', 'The challenges faced by exceptional women']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

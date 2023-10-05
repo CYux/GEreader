@@ -15,7 +15,7 @@ In this chapter, Adam Bede is in his room, anxiously awaiting the trial of Hetty
 **Location**:
 Adam's room and the courtroom
 
-**Time_period**:
+**Time Period**:
 Early 19th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Early 19th Century
 ** Plot Points**:
 ["Adam anxiously waits for news about Hetty's trial", 'Bartle Massey visits Adam and updates him on the trial', 'Adam decides to attend the trial and stand by Hetty']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"O God," Adam groaned, as he leaned on the table and looked blankly at the face of the watch, "and men have suffered like this before... and poor helpless young things have suffered like her...."', '"There\'s one man as ought to be there," said Adam bitterly.', '"I\'ll go back with you. I\'ll go into court. It\'s cowardly of me to keep away. I\'ll stand by her—I\'ll own her—for all she\'s been deceitful. They oughtn\'t to cast her off—her own flesh and blood."']
 
 ** Chapter Keywords**:

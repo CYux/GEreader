@@ -13,7 +13,7 @@ The chapter involves a heated confrontation between Romola and Savonarola. Romol
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century (Renaissance)
 
 **Themes**:
@@ -22,7 +22,7 @@ The chapter involves a heated confrontation between Romola and Savonarola. Romol
 ** Plot Points**:
 ['Romola pleads with Savonarola to save her godfather from death.', 'Savonarola argues that he cannot interfere in matters of the state.', 'Romola accuses Savonarola of putting his own political interests above mercy and justice.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Romola: "Father, you know that there is private hatred concerned here: will it not dishonour you not to have interposed on the side of mercy, when there are many who hold that it is also the side of law and justice?"', 'Savonarola: "The cause of my party _is_ the cause of God\'s kingdom."', 'Romola: "I do not believe it! God\'s kingdom is something wider—else, let me stand outside it with the beings that I love."']
 
 ** Chapter Keywords**:

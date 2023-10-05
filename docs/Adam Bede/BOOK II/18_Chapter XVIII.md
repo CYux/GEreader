@@ -15,7 +15,7 @@ In this chapter, the characters prepare for Thias Bede's funeral and attend chur
 **Location**:
 Hayslope Church
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -24,7 +24,7 @@ Unknown
 ** Plot Points**:
 ['Hetty is disappointed when Arthur Donnithorne does not show up at church', 'Adam reflects on his relationship with his father and feels regret for not being kinder', 'Mr. Craig offers his gardening services to the Poyser family', 'Hetty longs to see Arthur again']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Ah, I was always too hard,” Adam said to himself.', '“Why, what could come truer nor that pictur o’ the cock wi’ the big spurs, as has got its head knocked down wi’ th’ anchor, an’ th’ firin’, an’ the ships behind? Why, that pictur was made afore Christmas, and yit it’s come as true as th’ Bible.', '“I should like to know what them grasshoppers are to do against such fine fellows as our young Captain Arthur.']
 
 ** Chapter Keywords**:

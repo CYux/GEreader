@@ -13,7 +13,7 @@ During a gathering at the Red House, Godfrey spots his child, brought by Silas M
 **Location**:
 The Red House
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Red House
 ** Plot Points**:
 ['Godfrey spots his child with Silas', 'Silas announces the death of a woman and his intention to keep the child', 'Godfrey feels relief that his secret is still safe', "Godfrey gives Silas money for the child's clothes"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It’s a woman,' said Silas, speaking low, and half-breathlessly, just as Godfrey came up. 'She’s dead, I think—dead in the snow at the Stone-pits—not far from my door.'", "'Till anybody shows they’ve a right to take her away from me,' said Marner. 'The mother’s dead, and I reckon it’s got no father: it’s a lone thing—and I’m a lone thing. My money’s gone, I don’t know where—and this is come from I don’t know where. I know nothing—I’m partly mazed.'"]
 
 ** Chapter Keywords**:

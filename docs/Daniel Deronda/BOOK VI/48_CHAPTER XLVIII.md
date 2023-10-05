@@ -13,7 +13,7 @@ Gwendolen is increasingly unhappy in her marriage to Grandcourt and seeks solace
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ London
 ** Plot Points**:
 ['Gwendolen seeks advice from Deronda but is unable to express her true feelings', "Grandcourt's past with Mrs. Glasher continues to haunt Gwendolen", 'Gwendolen tries to find a way out of her marriage but realizes she is trapped', 'Gwendolen is forced to go yachting with Grandcourt']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I should like to be what you wish. There are people who are good and enjoy great things—I know there are'", "'I am a contemptible creature. I feel as if I should get wicked with hating people'", "'You will wonder why I begged you to come. I wanted to ask you something'", "'My only regret is, that I can be of so little use to you'"]
 
 ** Chapter Keywords**:

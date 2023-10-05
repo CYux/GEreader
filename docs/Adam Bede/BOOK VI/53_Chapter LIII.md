@@ -15,7 +15,7 @@ In this chapter, Adam Bede is on his way home when he hears the chant of 'Harves
 **Location**:
 The Hall Farm
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ The Hall Farm
 ** Plot Points**:
 ["Adam hears the chant of 'Harvest Home'", 'Adam hopes to see Dinah', 'Adam joins the harvest supper and engages in conversation', 'Adam leaves with Bartle Massey']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It’s wonderful,' he thought, 'how that sound goes to one’s heart almost like a funeral bell'", "'...there’s a parting at the root of all our joys'", "'I should never ha’ come to know that her love ’ud be the greatest o’ blessings to me, if what I counted a blessing hadn’t been wrenched and torn away from me'", "'I mean her voice, man—I meant her voice, that was all'", "'Aye, aye!' said Mrs. Poyser, 'one ’ud think, an’ hear some folks talk, as the men war ’cute enough to count the corns in a bag o’ wheat wi’ only smelling at it'"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Caterina is told by Sir Christopher to consider marrying Maynar
 **Location**:
 Cheverel Manor
 
-**Time_period**:
+**Time Period**:
 18th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Cheverel Manor
 ** Plot Points**:
 ["Sir Christopher's insistence on Caterina marrying Maynard", "Miss Assher revealing Captain Wybrow's denial of his feelings for Caterina", "Caterina's decision to kill Captain Wybrow", 'Caterina finding Captain Wybrow collapsed in the Rookery']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'No, no, dear Padroncello, do not say so; I could not marry him.’", "'These are things I do not like to talk of, Miss Sarti. I cannot even understand how a woman can indulge a passion for a man who has never given her the least ground for it, as Captain Wybrow assures me is the case.’", "'Anthony, Anthony! speak to me--it is Tina--speak to me! O God, he is dead!’"]
 
 ** Chapter Keywords**:

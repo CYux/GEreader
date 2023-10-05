@@ -13,7 +13,7 @@ The chapter starts with Mrs. Sharp's concern about Caterina's well-being. Upon d
 **Location**:
 The Manor
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Manor
 ** Plot Points**:
 ["Mrs. Sharp finds Caterina's bed untouched and her belongings missing", 'She informs Mr. Gilfil about this', "Mr. Gilfil starts searching for Caterina in the Manor's grounds", 'He asks Mr. Bates to search the gardens, park and waters around the Manor', 'Despite their efforts, they are unable to find Caterina']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘Mr. Gilfil,’ she said, as soon as she had closed the door behind her, ‘my mind misgives me dreadful about Miss Sarti.’', '‘She’s not in her room, an’ her bed’s not been slept in this night, an’ her hat an’ cloak’s gone.’', '‘No, no, you were quite right.’', '‘God forbid it should be so, Bates, but we shall be the easier for having searched everywhere.’']
 
 ** Chapter Keywords**:

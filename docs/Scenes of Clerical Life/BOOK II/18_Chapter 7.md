@@ -13,7 +13,7 @@ Caterina, still emotional from her encounter with Anthony, decides to take a wal
 **Location**:
 The Mosslands and Mr. Bates's cottage
 
-**Time_period**:
+**Time Period**:
 Not specified, but likely 18th or 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified, but likely 18th or 19th century
 ** Plot Points**:
 ["Caterina's walk to the Mosslands", 'Her conversation with Mr. Bates about the upcoming wedding', "Her increasing despair over Anthony's behavior"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Animals are such agreeable friends--they ask no questions, they pass no criticisms.', 'She moved through all this joy and beauty like a poor wounded leveret painfully dragging its little body through the sweet clover-tufts--for it, sweet in vain.', 'To snatch a caress when she justly claimed an expression of penitence, of regret, of sympathy, was to make more light of her than ever.']
 
 ** Chapter Keywords**:

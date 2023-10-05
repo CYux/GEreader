@@ -13,7 +13,7 @@ In this chapter, Mr. Tryan, a beloved preacher, is settled in Holly Mount and is
 **Location**:
 Holly Mount
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Mr. Tryan's health declines", 'Janet and her mother frequently visit Mr. Tryan', "Mr. Tryan expresses hope for Janet's future", "Janet becomes Mr. Tryan's primary caregiver", 'Mr. Tryan and Janet share a final moment of affection']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Janet,’ he said again, ‘you will have a long while to live after I am gone.’", "'Let us kiss each other before we part.'"]
 
 ** Chapter Keywords**:

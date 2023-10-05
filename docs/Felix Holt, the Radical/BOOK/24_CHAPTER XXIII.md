@@ -13,7 +13,7 @@ Philip Debarry, upon reading a letter from Mr. Lyon, decides to discuss it with 
 **Location**:
 The Rectory
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Rectory
 ** Plot Points**:
 ['Philip receives a letter from Mr. Lyon challenging the Rector to a public debate', 'The Rector refuses to participate in the debate', 'Philip considers taking up the challenge himself', 'The Rector suggests that Mr. Sherlock, the curate, should take up the challenge', 'Mr. Sherlock agrees to prepare for the debate']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You don't suppose I'm going to hold a public debate with a schismatic of that sort?'", "'I think if you refuse, I shall be obliged to offer myself.'", "'It would do no harm for him to hold the debate--a curate and a young man--he'll gain by it; and it would release you from any awkwardness, Phil.'"]
 
 ** Chapter Keywords**:

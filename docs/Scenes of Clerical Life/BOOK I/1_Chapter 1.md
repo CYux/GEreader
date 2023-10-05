@@ -13,7 +13,7 @@ This chapter introduces the character of the Rev. Amos Barton, who is serving as
 **Location**:
 Shepperton
 
-**Time_period**:
+**Time Period**:
 Mid 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid 19th century
 ** Plot Points**:
 ['Introduction of Rev. Amos Barton and his financial struggles.', 'Discussion about the changes in the church brought about by Rev. Barton.', "Revelation of the townsfolk's mixed opinions about Rev. Barton.", 'Insight into the social dynamics of the town through the conversation at Cross Farm.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Well,' she remarked, 'I've heared of no good from interfering with one’s neighbours, poor or rich. And I hate the sight o’ women going about trapesing from house to house in all weathers, wet or dry, and coming in with their petticoats dagged and their shoes all over mud.'", "'But Mr. Barton is all for th’ hymns, and a sort o’ music as I can’t join in at all.'", "'I don’t know how they make both ends meet, I’m sure, now her aunt has left ’em.'"]
 
 ** Chapter Keywords**:

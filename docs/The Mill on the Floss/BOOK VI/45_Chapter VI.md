@@ -14,7 +14,7 @@ The chapter illustrates Maggie's new life in the higher society of St Ogg’s an
 **Location**:
 St Ogg's
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -23,7 +23,7 @@ Victorian era
 ** Plot Points**:
 ["Maggie's introduction to the higher society of St Ogg's", "Stephen's growing attraction towards Maggie", "Maggie's growing comfort in her new life", "Mention of Philip Wakem's return", "Stephen's decision to distance himself from Maggie"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'We shall have a new voice to-morrow night,' said Stephen. 'Will you tell your cousin that our friend Philip Wakem is come back?'", "'Take care of this step,' said Stephen at last.", "'Oh, Philip, Philip, I wish we were together again—so quietly—in the Red Deeps.'"]
 
 ** Chapter Keywords**:

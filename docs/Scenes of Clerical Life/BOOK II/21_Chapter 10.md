@@ -13,7 +13,7 @@ The chapter focuses on the internal turmoil of Captain Wybrow as he deals with t
 **Location**:
 Cheverel Manor
 
-**Time_period**:
+**Time Period**:
 Not specified
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified
 ** Plot Points**:
 ['Captain Wybrow is dealing with the affections of two women, Miss Assher and Caterina, while grappling with his failing health.', 'Caterina is suffering silently from her unrequited love for Captain Wybrow and resentment towards Miss Assher.', "Miss Assher is seemingly in high spirits, unaware of Caterina's feelings.", 'Captain Wybrow contemplates the idea of Caterina marrying Mr. Gilfil for her own happiness.', "The preparations for Captain Wybrow's and Miss Assher's wedding are progressing smoothly."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It’s a devil of a position this for a man to be in,’ was the train of his thought, as he kept his eyes fixed on the glass, while he leaned back in his chair, and crossed his hands behind his head; ‘between two jealous women, and both of them as ready to take fire as tinder.'", "'And in my state of health, too! I should be glad enough to run away from the whole affair, and go off to some lotos-eating place or other where there are no women, or only women who are too sleepy to be jealous.'", "'Those full deep notes she sent forth seemed to be lifting the pain from her heart--seemed to be carrying away the madness from her brain.'"]
 
 ** Chapter Keywords**:

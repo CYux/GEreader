@@ -13,7 +13,7 @@ The chapter begins with Janet deciding to visit her mother, although her friends
 **Location**:
 Janet's house and the town
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Janet's house and the town
 ** Plot Points**:
 ["Janet's decision to visit her mother", "Janet's visit to the Lakins family", 'Janet seeing Mr. Pilgrim rush into her house', 'Janet finding her husband in a state of delirium', "Janet deciding to stay by her husband's side"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘O, Robert will be shut up at the office now, if he’s not gone out of the town. I must go--I feel I must be doing something for some one--not be a mere useless log any longer.', '‘No, Robert,’ Janet cried, in tones of yearning pity, rushing to the side of the bed, and stretching out her arms towards him, ‘no, here is Janet. She is not dead--she forgives you.’', '‘Yes, I will send for mother. But you must not object to my being in the room. I shall be very quiet now, only just at first the shock was so great; I knew nothing about it. I can help the nurses a great deal; I can put the cold things to his head. He may be sensible for a moment and know me. Pray do not say any more against it: my heart is set on being with him.’']
 
 ** Chapter Keywords**:

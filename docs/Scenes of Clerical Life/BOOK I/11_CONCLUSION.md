@@ -13,7 +13,7 @@ In this chapter, Reverend Amos Barton and his adult daughter Patty visit the gra
 **Location**:
 Grave of Milly
 
-**Time_period**:
+**Time Period**:
 Late 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 19th century
 ** Plot Points**:
 ["Reverend Amos Barton and Patty visit Milly's grave", 'It is revealed that all the other children have grown up and moved away', 'Dickey has become a successful engineer', "Patty remains by her father's side"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Only once again in his life has Amos Barton visited Milly’s grave.', 'Amos himself was much changed. His thin circlet of hair was nearly white, and his walk was no longer firm and upright.', 'Milly did not take all her love from the earth when she died. She had left some of it in Patty’s heart.', 'Patty alone remains by her father’s side, and makes the evening sunshine of his life.']
 
 ** Chapter Keywords**:

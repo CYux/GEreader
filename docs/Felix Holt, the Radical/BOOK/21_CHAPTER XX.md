@@ -13,7 +13,7 @@ The chapter takes place at a local dinner at 'the Marquis' where the townsmen di
 **Location**:
 'the Marquis' - a local dinner place in Treby
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ The chapter takes place at a local dinner at 'the Marquis' where the townsmen di
 ** Plot Points**:
 ['The townsmen discuss the political divisions and prospects of the upcoming election.', 'Christian is asked by Jermyn to deliver a message to Mr. Philip Debarry.', 'Jermyn discusses a land deal with Mr. Wace.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'The prosperity of the country is one web.' - Mr. Nolan", "'If a man's got a bit of property, a stake in the country, he'll want to keep things square. Where Jack isn't safe, Tom's in danger.' - Mr. Wace", "'It's my belief he does it only to get into Parliament; he'll turn round when he gets there.' - Mr. Wace on Mr. Transome"]
 
 ** Chapter Keywords**:

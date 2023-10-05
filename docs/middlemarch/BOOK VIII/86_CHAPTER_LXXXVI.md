@@ -13,7 +13,7 @@ In this chapter, Mr. Garth tells his daughter Mary that Fred is going to live at
 **Location**:
 The Garth's house and garden
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Mr. Garth informs Mary that Fred will be living at Stone Court and managing the land', 'Mary expresses her happiness and love for Fred', 'They discuss the potential future and responsibilities', 'Ben interrupts their conversation']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I have always loved him. I should never like scolding any one else so well; and that is a point to be thought of in a husband.”', '“It would make too great a difference to us—like seeing all the old places altered, and changing the name for everything.”', '“Mary, if you’ve got something discouraging to tell me, I shall bolt; I shall go into the house to Mr. Garth. I am out of spirits. My father is so cut up—home is not like itself. I can’t bear any more bad news.”', '“That is what my father has just told me of as what may happen, and he never talks nonsense,”']
 
 ** Chapter Keywords**:

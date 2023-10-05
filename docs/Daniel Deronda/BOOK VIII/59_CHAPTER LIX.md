@@ -13,7 +13,7 @@ In this chapter, Daniel Deronda and Sir Hugo Mallinger meet at the Genoa station
 **Location**:
 Genoa station
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Deronda and Sir Hugo meet at the Genoa station', "They discuss Grandcourt's will and his treatment of his wife and illegitimate son", 'Deronda reveals his Jewish heritage', "Deronda plans to travel to Mainz to collect his grandfather's chest"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I have long expected something remarkable from you, Dan; but, for God\'s sake, don\'t go into any eccentricities! I can tolerate any man\'s difference of opinion, but let him tell it me without getting himself up as a lunatic."', '"I desire to meet your goodness by perfect confidence, sir. But I can\'t answer those questions truly by a simple yes or no. Much that I have heard about the past has pained me."']
 
 ** Chapter Keywords**:

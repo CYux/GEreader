@@ -15,7 +15,7 @@ In this chapter, Hetty, a beautiful young woman, anxiously awaits a meeting with
 **Location**:
 The woods near the house
 
-**Time_period**:
+**Time Period**:
 18th century
 
 **Themes**:
@@ -24,7 +24,7 @@ The woods near the house
 ** Plot Points**:
 ['Hetty anxiously awaits Arthur in the woods', 'Arthur and Hetty share a passionate kiss', 'Arthur feels guilt and regret after their encounter', 'Arthur decides to confide in Irwine about his feelings for Hetty']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He is going to see Hetty again: that is the longing which has been growing through the last three hours to a feverish thirst.', 'As for Arthur, he rushed back through the wood, as if he wanted to put a wide space between himself and Hetty.', 'He would go and tell Irwine—tell him everything. The mere act of telling it would make it seem trivial; the temptation would vanish, as the charm of fond words vanishes when one repeats them to the indifferent.']
 
 ** Chapter Keywords**:

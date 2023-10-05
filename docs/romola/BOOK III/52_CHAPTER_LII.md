@@ -13,7 +13,7 @@ In this chapter, Romola is struggling with her beliefs and faith, as she becomes
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Romola is struggling with her beliefs and faith, as she becomes
 ** Plot Points**:
 ["Romola becomes increasingly disillusioned with Savonarola's teachings and her faith is tested.", 'She receives a message from Camilla Rucellai, who claims to have had a vision about her godfather, Bernardo del Nero, being involved in a plot against the Republic.', 'Romola seeks solace in a church but finds no peace.', 'As she leaves the church, she encounters Baldassarre.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['God grant you are mad! else you are detestably wicked! (Romola to Camilla Rucellai)', 'And still surmounting every other thought was the dread inspired by Tito’s hints, lest that presentiment should be converted into knowledge, in such a way that she would be torn by irreconcilable claims.']
 
 ** Chapter Keywords**:

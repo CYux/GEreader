@@ -13,7 +13,7 @@ In this chapter, Deronda meets Joseph Kalonymos, a close friend of his grandfath
 **Location**:
 Banking-house in the Schuster Strasse at Mainz
 
-**Time_period**:
+**Time Period**:
 Victorian Era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian Era
 ** Plot Points**:
 ['Deronda meets Joseph Kalonymos in Mainz.', "Kalonymos shares details about Deronda's grandfather and his Jewish heritage.", "Deronda expresses gratitude for Kalonymos's help in uncovering his roots and promises to uphold the Jewish tradition.", 'Kalonymos hands over to Deronda a chest that his grandfather left for him.', 'Deronda promises to contribute to the betterment of the Jewish community.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"As thy goodness has been great to the former generations, even so may it be to the latter." - Joseph Kalonymos', '"I am the grandson of Daniel Charisi." - Daniel Deronda', '"Be worthy of him, young man. What is your vocation?" - Joseph Kalonymos']
 
 ** Chapter Keywords**:

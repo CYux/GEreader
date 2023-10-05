@@ -13,7 +13,7 @@ In this chapter, Caterina Sarti, a young girl living at Cheverel Manor, deals wi
 **Location**:
 Cheverel Manor
 
-**Time_period**:
+**Time Period**:
 1788
 
 **Themes**:
@@ -22,7 +22,7 @@ Cheverel Manor
 ** Plot Points**:
 ["Caterina's jealousy of Miss Assher", "Caterina's observation of Captain Wybrow's affection for Miss Assher", "Caterina's retreat to her room to cope with her emotions"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'O, I cannot bear it, I cannot bear it!' the poor thing burst out aloud, clasping her little fingers, and pressing them back against her forehead, as if she wanted to break them.", "'O, I cannot help it, I cannot help it!' she said in a loud whisper between her sobs. 'O God, have pity upon me!'"]
 
 ** Chapter Keywords**:

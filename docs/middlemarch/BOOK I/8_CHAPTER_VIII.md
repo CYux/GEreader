@@ -13,7 +13,7 @@ Sir James Chettam continues to visit the Grange, despite his discomfort with Dor
 **Location**:
 The Grange, the Rectory
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Grange, the Rectory
 ** Plot Points**:
 ["Sir James is uncomfortable with Dorothea's engagement to Mr. Casaubon", 'He confides in Mr. Cadwallader, hoping to delay the marriage', 'Mr. Cadwallader sees no harm in the match and believes Dorothea may be happier with Mr. Casaubon', "Sir James remains determined to carry out Dorothea's plans for the cottages"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Oh, rescue her! I am her brother now, And you her father. Every gentle maid Should have a guardian in each gentleman.”']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Romola anxiously awaits Tito's return after a long day of festi
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century (Renaissance period)
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Romola anxiously awaits Tito's return after a long day of festi
 ** Plot Points**:
 ['Romola waits for Tito to return home after a long day.', 'When Tito arrives, he seems cold and distant, worrying Romola.', "Romola tries to engage Tito in conversation about the day's events and shares her experience attending a sermon by Fra Girolamo.", 'Tito is preoccupied with his own concerns and fears, including the threat posed by Baldassarre.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['It was clear that their natures differed widely; but perhaps it was no more than the inherent difference between man and woman, that made her affections more absorbing.', "Romola was labouring, as a loving woman must, to subdue her nature to her husband's."]
 
 ** Chapter Keywords**:

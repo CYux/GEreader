@@ -13,7 +13,7 @@ In this chapter, Tito visits Savonarola in his cell to inform him that a courier
 **Location**:
 ['The monastery of San Marco', 'Florence']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Tito visits Savonarola in his cell to inform him that a courier
 ** Plot Points**:
 ['Tito visits Savonarola to inform him about the courier to France.', 'Savonarola gives Tito the letter to the French king.', "Tito secretly informs Ludovico Sforza's agents about the letter."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The politics of Florence, father, are worthy to occupy the greatest mind—to occupy yours—when a man is in a position to execute his own ideas; but when, like me, he can only hope to be the mere instrument of changing schemes, he requires to be animated by the minor attachments of a born Florentine.']
 
 ** Chapter Keywords**:

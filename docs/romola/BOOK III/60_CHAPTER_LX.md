@@ -13,7 +13,7 @@ The chapter describes the execution of Romola's godfather, Bernardo del Nero, an
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance
 ** Plot Points**:
 ['The council decides to execute Bernardo del Nero and four other men accused of treason.', 'Romola, who has been allowed to say a final farewell to her godfather, watches the execution with a heavy heart.', 'Despite her grief, she remains strong and determined.', 'After the execution, Romola resolves to move on and escape the grasp of those who have caused her so much pain.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['It is but a short space of life that my fellow-citizens have taken from me.', 'My poor Romola, I have only to die, but thou hast to live - and I shall not be there to help thee.', 'Yes, you will help me - always - because I shall remember you.']
 
 ** Chapter Keywords**:

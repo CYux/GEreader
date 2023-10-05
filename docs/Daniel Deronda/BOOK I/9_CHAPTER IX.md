@@ -13,7 +13,7 @@ The chapter revolves around the rumors of Mr. Mallinger Grandcourt's arrival, wh
 **Location**:
 Offendene, Diplow Hall, and the surrounding area
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Offendene, Diplow Hall, and the surrounding area
 ** Plot Points**:
 ["Rumors circulate about Mr. Grandcourt's arrival and his potential interest in marriage.", "Gwendolen's family hopes she might attract Mr. Grandcourt's attention.", 'Gwendolen teases her mother about the prospect of marrying Mr. Grandcourt.', "Gwendolen's flippant attitude distresses her mother."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Gwendolen, we know, was far from holding that supremacy in the minds of all observers.', 'Mr. and Mrs. Arrowpoint, for example, having no anxiety that Miss Harleth should make a brilliant marriage, had quite a different likelihood in their minds.']
 
 ** Chapter Keywords**:

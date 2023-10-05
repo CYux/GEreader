@@ -13,7 +13,7 @@ In this chapter of the novel, Gwendolen and her family arrive at their new home,
 **Location**:
 Offendene
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Gwendolen expresses her desire to have a horse', 'Gwendolen meets her uncle and aunt', "Gwendolen's uncle agrees to look into getting her a horse"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I think it is charming,” said Gwendolen, quickly. “A romantic place; anything delightful may happen in it; it would be a good background for anything. No one need be ashamed of living here.”', '“I intend to have a horse and ride a great deal now,” said Gwendolen, in a tone of decision.', '“I shall like going out with you very much,” said Gwendolen, well disposed toward this naïve cousin.', '“The dear child has had no indulgences, no pleasures,” said Mrs. Davilow, in a pleading undertone. “I feel the expense is rather imprudent in this first year of our settling. But she really needs the exercise—she needs cheering.']
 
 ** Chapter Keywords**:

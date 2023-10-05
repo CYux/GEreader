@@ -15,7 +15,7 @@ Hetty prepares for bed and reflects on her appearance and the possibility of a f
 **Location**:
 Hetty's bedroom
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -24,7 +24,7 @@ Unknown
 ** Plot Points**:
 ['Hetty prepares for bed and admires her appearance', "Dinah senses Hetty's troubles and reaches out to offer support", 'Hetty resists at first but eventually breaks down and cries', 'Dinah leaves, feeling sad but hopeful']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I desire for you, that while you are young you should seek for strength from your Heavenly Father, that you may have a support which will not fail you in the evil day."']
 
 ** Chapter Keywords**:

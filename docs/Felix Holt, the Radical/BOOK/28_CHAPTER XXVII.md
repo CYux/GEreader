@@ -13,7 +13,7 @@ In this chapter, Felix Holt and Esther Lyon share a deep conversation during a w
 **Location**:
 Rural English town
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Rural English town
 ** Plot Points**:
 ["Felix Holt's dedication to a life of poverty and struggle", "Esther Lyon's growing feelings for Felix Holt", "Esther's internal conflict regarding her lifestyle and desires"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I\'m determined never to go about making my face simpering or solemn, and telling professional lies for profit; or to get tangled in affairs where I must wink at dishonesty and pocket the proceeds, and justify that knavery as part of a system that I can\'t alter."', '"That is not my inward vocation: I have no fellow-feeling with the rich as a class; the habits of their lives are odious to me."']
 
 ** Chapter Keywords**:

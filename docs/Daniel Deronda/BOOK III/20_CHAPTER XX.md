@@ -13,7 +13,7 @@ In this chapter, Mirah recounts her past to Mrs. Meyrick, revealing that she was
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Mirah recounts her past and how she was taken away from her mother at a young age', 'She talks about her life as an actress and her growing discontent', 'Mirah runs away and ends up in London, where she meets Mrs. Meyrick', "Deronda expresses his desire to help find Mirah's mother"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘It will hardly be denied that even in this frail and corrupted world, we sometimes meet persons who, in their very mien and aspect, as well as in the whole habit of life, manifest such a signature and stamp of virtue, as to make our judgment of them a matter of intuition rather than the result of continued examination.’—ALEXANDER KNOX: quoted in Southey’s Life of Wesley.', '“She’s just a pearl; the mud has only washed her,”', '“I suppose he is too great a person to want anything,” said Mirah, smiling at Mab, and appealing to the graver Amy. “He is perhaps very high in the world?”', '“Because I have always disliked men of high rank before.”']
 
 ** Chapter Keywords**:

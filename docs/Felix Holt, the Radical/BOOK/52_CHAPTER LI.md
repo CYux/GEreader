@@ -13,7 +13,7 @@ In this chapter, Felix Holt, a radical political idealist, visits Esther Lyon, t
 **Location**:
 Esther's home in Treby Magna
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Esther's home in Treby Magna
 ** Plot Points**:
 ['Felix visits Esther at her home.', 'Esther reveals she has chosen not to marry Harold Transome or accept his wealth.', 'Felix and Esther confess their love for each other and share a kiss.', 'They discuss their future life together.', 'Felix and Esther get married the following May.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"Could you share the life of a poor man, then, Esther?"', '"I did not wish to marry him, or to be rich."', '"I\'m a rough, severe fellow, Esther. Shall you never repent?--never be inwardly reproaching me that I was not a man who could have shared your wealth? Are you quite sure?"', '"Quite sure!" said Esther, shaking her head; "for then I should have honored you less. I am weak--my husband must be greater and nobler than I am."']
 
 ** Chapter Keywords**:

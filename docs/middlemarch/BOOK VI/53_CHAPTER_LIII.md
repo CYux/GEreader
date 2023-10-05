@@ -13,7 +13,7 @@ In this chapter, Mr. Bulstrode finds himself face to face with his past when an 
 **Location**:
 Stone Court
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Mr. Raffles shows up unexpectedly at Stone Court', 'Bulstrode tries to distance himself from Raffles', "Raffles reveals he knows a secret about Bulstrode's step-daughter"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'If you insist on remaining here, even for a short time, you will get nothing from me. I shall decline to know you.' - Mr. Bulstrode"]
 
 ** Chapter Keywords**:

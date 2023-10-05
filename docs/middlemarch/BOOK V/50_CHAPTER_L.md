@@ -13,7 +13,7 @@ Dorothea considers her husband's will and her responsibilities as the owner of L
 **Location**:
 Freshitt Hall, Lowick
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Freshitt Hall, Lowick
 ** Plot Points**:
 ["Dorothea discovers the codicil in her husband's will", "She decides to go to Lowick to examine her husband's papers", 'Lydgate suggests Mr. Farebrother for the living at Lowick']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I wonder whether he suffers in his conscience because of that habit', 'It is surely better to pardon too much, than to condemn too much', 'An Italian with white mice!—on the contrary, he was a creature who entered into everyone’s feelings, and could take the pressure of their thought instead of urging his own with iron resistance.']
 
 ** Chapter Keywords**:

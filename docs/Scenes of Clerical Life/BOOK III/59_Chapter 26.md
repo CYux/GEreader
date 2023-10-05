@@ -13,7 +13,7 @@ In this chapter, Janet's life is getting back to normal and she is regaining pop
 **Location**:
 The town of Milby, Holly Mount, and Paddiford Common
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ The town of Milby, Holly Mount, and Paddiford Common
 ** Plot Points**:
 ["Janet's return to social life and charitable works", "Janet's efforts to settle Mrs. Pettifer in Holly Mount", 'Janet convincing Mr. Tryan to move to Holly Mount', "Mr. Tryan's deteriorating health"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You _will_ go and live with her? I know you will. You will come back with me now and see the house.'", "'No,' he answered quietly, 'I think people attach more importance to such measures than is warranted. I don’t see any good end that is to be served by going to die at Nice, instead of dying amongst one’s friends and one’s work. I cannot leave Milby--at least I will not leave it voluntarily.'"]
 
 ** Chapter Keywords**:

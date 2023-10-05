@@ -15,7 +15,7 @@ In this chapter, Adam Bede, unable to bear his longing for Dinah Morris, decides
 **Location**:
 Snowfield
 
-**Time_period**:
+**Time Period**:
 Early 19th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Early 19th Century
 ** Plot Points**:
 ['Adam decides to visit Dinah in Snowfield', 'Adam reflects on his past love for Hetty and his current love for Dinah', 'Adam arrives in Snowfield and waits for Dinah to return from preaching', 'Dinah returns and Adam reveals his feelings', "Dinah reciprocates Adam's feelings and they agree never to part"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['It’s like as if it was a new strength to me, to love her and know as she loves me.', "Adam paused and looked into her sincere eyes. 'Then we’ll never part any more, Dinah, till death parts us.'", 'What greater thing is there for two human souls than to feel that they are joined for life—to strengthen each other in all labour, to rest on each other in all sorrow, to minister to each other in all pain, to be one with each other in silent unspeakable memories at the moment of the last parting?']
 
 ** Chapter Keywords**:

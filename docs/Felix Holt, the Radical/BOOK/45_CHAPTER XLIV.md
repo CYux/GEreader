@@ -13,7 +13,7 @@ The chapter focuses on Esther's growing anxiety about Felix Holt's trial and her
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 Mid 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid 19th Century
 ** Plot Points**:
 ["Esther decides to attend Felix Holt's trial", 'Esther expresses a desire to see Felix before his trial', 'Mr. Lyon agrees to arrange a meeting between Esther and Felix', 'Esther reflects on her feelings for Harold Transome and the possibility of a life with him']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Tis a great and mysterious gift, this clinging of the heart, my Esther, whereby it hath often seemed to me that even in the very moment of suffering our souls have the keenest foretaste of heaven.", "And 'tis a strange truth that only in the agony of parting we look into the depths of love.", 'It seemed to her a cruel misfortune of her young life that her best feeling, her most precious dependence, had been called forth just where the conditions were hardest']
 
 ** Chapter Keywords**:

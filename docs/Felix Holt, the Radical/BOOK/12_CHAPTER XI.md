@@ -13,7 +13,7 @@ Felix Holt is walking to Sproxton when he comes across Mr. Chubb, the publican. 
 **Location**:
 Sproxton
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Felix walks to Sproxton and encounters Mr. Chubb', 'Mr. Johnson arrives and announces his support for Harold Transome', 'Felix interrupts the speech and argues for supporting other workingmen', 'Felix leaves and Mr. Johnson continues to rally support']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I'll lay hold of them by their fatherhood'", "'What's the reason Debarry gets returned? Because people are frightened at the Debarrys. What's that to you? You don't care for the Debarrys.'"]
 
 ** Chapter Keywords**:

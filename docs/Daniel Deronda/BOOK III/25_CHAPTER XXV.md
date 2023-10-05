@@ -13,7 +13,7 @@ In this chapter, Grandcourt and Lush discuss the possibility of Grandcourt propo
 **Location**:
 Diplow
 
-**Time_period**:
+**Time Period**:
 Victorian Era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian Era
 ** Plot Points**:
 ['Grandcourt orders Lush to find out if Gwendolen is at Offendene.', 'Lush warns Grandcourt about the serious implications of proposing to Gwendolen.', 'Lush reveals that Gwendolen knows about Lydia Glasher.', "Despite Lush's warnings, Grandcourt sends a letter to Gwendolen."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I knew before that you had an objection to my marrying Miss Harleth. But I never considered that a reason against it."', '"She saw Lydia in Cardell Chase and heard the whole story."', '"Just tell me the truth, will you?"']
 
 ** Chapter Keywords**:

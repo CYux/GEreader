@@ -13,7 +13,7 @@ In this chapter, Romola struggles with the confessions of Fra Girolamo Savonarol
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 late 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ late 15th century
 ** Plot Points**:
 ["The publication of Savonarola's confessions", "Romola's struggle to reconcile the inconsistencies in Savonarola's character", "Savonarola's reflections and writings in prison"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['That blending of ambition with belief in the supremacy of goodness made no new tone to Romola, who had been used to hear it in the voice that rang through the Duomo.', 'It was impossible, she said now, that the negative disbelieving thoughts which had made her soul arid of all good, could be founded in the truth of things: impossible that it had not been a living spirit, and no hollow pretence, which had once breathed in the Frate’s words, and kindled a new life in her.']
 
 ** Chapter Keywords**:

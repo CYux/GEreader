@@ -13,7 +13,7 @@ In Chapter LXIV, Lydgate's financial troubles continue to worsen, and he realize
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ['Lydgate plans to sell their house and furniture to pay off debts', 'Rosamond opposes this plan and revokes the order to the auctioneer', 'Lydgate and Rosamond argue about their financial situation', 'Rosamond writes a letter to Sir Godwin Lydgate seeking financial assistance', 'Lydgate considers visiting his uncle for help']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I think you ought to try every other means rather than take a step which is so painful to me.” - Rosamond', '“These would be very strong considerations if I did not happen to be in debt.” - Lydgate']
 
 ** Chapter Keywords**:

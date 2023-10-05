@@ -15,7 +15,7 @@ In this chapter, Adam discovers that Arthur Donnithorne has been secretly courti
 **Location**:
 Loamshire, the Grove
 
-**Time_period**:
+**Time Period**:
 Mid-19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Mid-19th century
 ** Plot Points**:
 ["Adam discovers Arthur's secret courtship with Hetty.", 'Adam confronts Arthur about his deceitful behavior.', 'The confrontation between Adam and Arthur escalates into a physical fight.', 'Adam strikes Arthur, causing him to fall unconscious.', 'Adam believes he has killed Arthur and is left in a state of horror and despair.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I mean, sir, that you don\'t deceive me by your light words. This is not the first time you\'ve met Hetty Sorrel in this grove, and this is not the first time you\'ve kissed her."', '"What!" he said, "won\'t you fight me like a man? You know I won\'t strike you while you stand so."', '"No," said Adam, with a convulsed voice, "I swear I won\'t go away without fighting you. Do you want provoking any more? I tell you you\'re a coward and a scoundrel, and I despise you."']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ The chapter presents a day in the life of the Debarrys and their servants. Chris
 **Location**:
 Treby Manor and its surrounding park
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Treby Manor and its surrounding park
 ** Plot Points**:
 ["Christian is sent on a mission to deliver Mr. Debarry's pocket-book", 'Christian takes opium for his health issues and falls asleep in the park', "Scales cuts off Christian's coat pocket as a prank, unknowingly discarding the pocket-book", 'Both Christian and Scales confess to their actions but the pocket-book is not found']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["Oh, sir, 'twas that mixture of spite and over-fed merriment which passes for humor with the vulgar.", 'He did what he could: he took doses of opium when he had an access of nervous pains.', 'In no way could the cause of the accident be so represented to Mr. Philip Debarry as to prevent him from viewing his hitherto unimpeachable factotum in a new and unfavorable light.']
 
 ** Chapter Keywords**:

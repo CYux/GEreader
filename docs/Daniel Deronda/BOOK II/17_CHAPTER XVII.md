@@ -13,7 +13,7 @@ In this chapter, Daniel Deronda, an accomplished young man living in London, tak
 **Location**:
 Thames River, London
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Deronda's solitary rowing trip", 'Encounter with the distressed woman', "Deronda's attempt to save her", 'Decision to take her to a safe place']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I cannot see how I shall live.'", "'I will put you in perfect safety at once; with a lady, a good woman; I am sure she will be kind.'", "'I am English-born. But I am a Jewess.'"]
 
 ** Chapter Keywords**:

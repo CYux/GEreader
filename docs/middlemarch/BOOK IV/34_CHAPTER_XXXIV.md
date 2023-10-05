@@ -13,7 +13,7 @@ In this chapter, Peter Featherstone is buried and his funeral is attended by a d
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Peter Featherstone's funeral", "Dorothea's surprise at Ladislaw's return", "Mr. Casaubon's dislike of Ladislaw", "Mr. Brooke's invitation to Ladislaw"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'This funeral seems to me the most dismal thing I ever saw. It is a blot on the morning. I cannot bear to think that any one should die and leave no love behind.'", "'He is just like a miniature of Mr. Casaubon’s aunt that hangs in Dorothea’s boudoir—quite nice-looking.'", "'One who can write speeches.'"]
 
 ** Chapter Keywords**:

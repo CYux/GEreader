@@ -14,7 +14,7 @@ In this chapter, Maggie is feeling miserable and fearful due to her father's ang
 **Location**:
 Outside Maggie's house
 
-**Time_period**:
+**Time Period**:
 Not specified
 
 **Themes**:
@@ -23,7 +23,7 @@ Not specified
 ** Plot Points**:
 ['Maggie receives a pack of books from Bob as a kind gesture', 'She is moved by the teachings in Thomas à Kempis and decides to live a life of humility', 'Her relationship with Tom remains strained', "Mr. Tulliver worries about Maggie's future"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I’m so glad to see you.”', '“I’m very thankful to you for thinking of me, and being so good to me and Tom. I don’t think any one ever did such a kind thing for me before. I haven’t many friends who care for me.”', '“Why dost thou here gaze about, since this is not the place of thy rest? In heaven ought to be thy dwelling, and all earthly things are to be looked on as they forward thy journey thither.']
 
 ** Chapter Keywords**:

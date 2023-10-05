@@ -14,7 +14,7 @@ In this chapter, Maggie visits Tom at Bob Jakin's house where he lodges. Bob Jak
 **Location**:
 Bob Jakin's house
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Bob Jakin's house
 ** Plot Points**:
 ["Maggie visits Tom at Bob Jakin's house", 'They discuss their feelings about Philip Wakem', "Tom criticizes Maggie's lack of self-control", 'They agree that Maggie can see Philip in a group setting']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['You think I am not kind; but my kindness can only be directed by what I believe to be good for you.', 'I can’t make you think better of me, Tom, by anything I can say. But I am not so shut out from all your feelings as you believe me to be.', 'I wish to be as good a brother to you as you will let me.']
 
 ** Chapter Keywords**:

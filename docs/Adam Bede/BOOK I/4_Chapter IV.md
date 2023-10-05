@@ -15,7 +15,7 @@ In this chapter, Adam Bede and his brother Seth are seen carrying a coffin to a 
 **Location**:
 A small village in England
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ A small village in England
 ** Plot Points**:
 ['Adam and Seth carry a coffin to a nearby village', 'Lisbeth worries about their father and pleads with Adam to eat his supper', "Adam is frustrated with his father's drinking", 'Seth suggests that Adam take a break, but Adam refuses', 'Lisbeth prays with Seth and urges him to pray for their father', 'Adam and Seth complete the coffin and deliver it to Broxton', "They find their father's body in the brook", "Adam rushes to get their mother while Seth stays with their father's body", 'Lisbeth is devastated by the news', "They bring their father's body home and prepare for his funeral"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Well, my lad, it’s gone seven by th’ clock. Thee’t allays stay till the last child’s born. Thee wants thy supper, I’ll warrand.', 'What’s th’ use o’ telling me things as I only think too much on every day? If I didna think on ’em, why should I do as I do, for the sake o’ keeping things together here?', '“What signifies how long it takes me? Isn’t the coffin promised? Can they bury the man without a coffin? I’d work my right hand off sooner than deceive people with lies i’ that way. It makes me mad to think on’t. I shall overrun these doings before long. I’ve stood enough of ’em.”', '“Those are the words o’ the Bible, Mother,” said Seth. “They don’t mean as we should be idle. They mean we shouldn’t be overanxious and worreting ourselves about what’ll happen to-morrow, but do our duty and leave the rest to God’s will.”', '“I’ll run to Mother,” he said, in a loud whisper. “I’ll be back to thee in a minute.”']
 
 ** Chapter Keywords**:

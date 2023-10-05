@@ -13,7 +13,7 @@ In this chapter, the question of whether Mr. Tyke should be appointed as the sal
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Discussion of Mr. Tyke's appointment", 'Introduction of Rosamond Vincy', "Lydgate's admiration for Rosamond"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“All that in woman is adored\nIn thy fair self I find—\nFor the whole sex can but afford\nThe handsome and the kind.”—SIR CHARLES SEDLEY', '“Hang your reforms!” said Mr. Chichely. “There’s no greater humbug in the world. You never hear of a reform, but it means some trick to put in new men.', '“You mean the rides towards Tipton and Lowick; every one is pleased with those,” said Rosamond, with simplicity.']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Deronda meets Mordecai at the bridge and they have a conversati
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Deronda meets Mordecai at the bridge and they have a conversation', 'Mordecai shares his hopes and expectations with Deronda', 'Deronda is unsure about his own origins and hesitant to make any promises', 'Deronda agrees to meet with Mordecai again to learn more']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You will be my life: it will be planted afresh; it will grow.' - Mordecai", "'I will be faithful. I will come the first evening I can after seven: on Saturday or Monday, if possible. Trust me.' - Deronda"]
 
 ** Chapter Keywords**:

@@ -14,7 +14,7 @@ Maggie is staying at her Aunt Moss's farm when Stephen Guest, a man she is attra
 **Location**:
 Aunt Moss's farm
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Aunt Moss's farm
 ** Plot Points**:
 ["Stephen Guest arrives unexpectedly at Aunt Moss's farm where Maggie is staying", 'Stephen confesses his love for Maggie and pleads with her to be with him', 'Maggie feels torn between her feelings for Stephen and her loyalty to Lucy and Philip', "Maggie rejects Stephen's proposal, choosing to stay loyal to Lucy and Philip"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I would rather die than fall into that temptation,' said Maggie, with deep, slow distinctness.", "'I must not, cannot, seek my own happiness by sacrificing others. Love is natural; but surely pity and faithfulness and memory are natural too. And they would live in me still, and punish me if I did not obey them.'"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ Mr. Farebrother tells Mary that Fred Vincy wants to become a clergyman and asks 
 **Location**:
 Lowick parsonage
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Lowick parsonage
 ** Plot Points**:
 ['Fred asks Mr. Farebrother to consult Mary about his desire to become a clergyman', 'Mary expresses her dislike for the idea and says she could never love a clergyman', "Mr. Farebrother asks if Fred can count on winning Mary's hand if he pursues a different career", 'Mary admits she has strong feelings for Fred but cannot promise to marry him until he proves himself worthy', 'Mr. Farebrother accepts her answer and leaves']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ The chapter opens with a philosophical discussion about the value of human suffe
 **Location**:
 Mrs. Pettifer's house
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mrs. Pettifer's house
 ** Plot Points**:
 ['Dempster has an accident', "Mr. Tryan decides to delay telling Janet about Dempster's accident", 'Janet expresses her uncertainty about her future with her husband', "Mr. Tryan advises Janet to wait and trust in God's guidance", "Janet agrees to stay at her mother's house and pray for guidance"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The best of us are but poor wretches just saved from shipwreck: can we feel anything but awe and pity when we see a fellow-passenger swallowed by the waves?', 'Cast yourself on God, and trust that He will direct you; he will make your duty clear to you, if you wait submissively on Him.']
 
 ** Chapter Keywords**:

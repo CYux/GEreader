@@ -13,7 +13,7 @@ In this chapter, Daniel Deronda and Mordecai have a profound conversation about 
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Mordecai reveals his past and his relationship with his lost sister Mirah', "Deronda realizes that Mordecai is Mirah's lost brother", 'Mordecai expresses his belief that Deronda is destined to continue his work', 'Deronda feels a sense of responsibility towards Mordecai']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['In the doctrine of the Cabbala, souls are born again and again in new bodies till they are perfected and purified', 'You will take up my life where it was broken', 'I shall live in you']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Janet reflects on her newfound hope and peace after seeking hel
 **Location**:
 Janet's mother's house
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Janet's mother's house
 ** Plot Points**:
 ["Janet's reflection on her newfound hope and peace", "Janet's desire to seek help from Mr. Tryan", "Janet's mother suggesting Mr. Benjamin Landor as a mediator", 'Janet expressing a wish to return to her husband', "Janet's desire to attend Paddiford Church"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["‘I see God’s goodness now, mother, in ordering it so that we should meet in that way, to overcome my prejudice against him, and make me feel that he was good, and then bringing it back to my mind in the depth of my trouble.'", "‘Something seems to tell me that I must go back to Robert some time--after a little while. I loved him once better than all the world, and I have never had any children to love.'"]
 
 ** Chapter Keywords**:

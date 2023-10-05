@@ -14,7 +14,7 @@ In this chapter, Maggie encounters Philip Wakem in the mill-yard, and they have 
 **Location**:
 The Red Deeps
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -23,7 +23,7 @@ Unknown
 ** Plot Points**:
 ['Maggie sees Philip in the mill-yard', 'They have a conversation about their friendship', 'Maggie is torn between her desire to see Philip and her sense of duty', 'They agree to meet again and discuss their friendship', 'Maggie decides to seek guidance and postpone a decision', 'Maggie and Philip part ways']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I must wait, lest I should decide wrongly. I must seek for guidance.'", "'I’m very grateful to you for thinking of me all those years. It is very sweet to have people love us.'", "'Not if I were free,' said Maggie; 'but I am not, I must submit.'"]
 
 ** Chapter Keywords**:

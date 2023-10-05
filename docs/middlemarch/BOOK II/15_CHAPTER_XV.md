@@ -13,7 +13,7 @@ In Chapter XV, the focus shifts to the character of Lydgate, a new settler in Mi
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Lydgate's ambition to contribute to the scientific and rational basis of his profession", 'His past romantic involvement with an actress', 'His determination to make a difference despite past failures']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'He was a vigorous animal with a ready understanding, but no spark had yet kindled in him an intellectual passion; knowledge seemed to him a very superficial affair, easily mastered.'", "'No matter! It was the one thing which he was resolved to do.'"]
 
 ** Chapter Keywords**:

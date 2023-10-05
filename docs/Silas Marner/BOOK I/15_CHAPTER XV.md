@@ -13,7 +13,7 @@ In this chapter, the unnamed character watches Eppie's growth with hidden intere
 **Location**:
 The village, Godfrey's home
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ The village, Godfrey's home
 ** Plot Points**:
 ["An unnamed character watches Eppie's growth with a hidden interest.", "Godfrey Cass is living a prosperous life, free from his brother Dunsey's influence.", 'Godfrey Cass envisions a happy future with Nancy and their children.', 'Godfrey Cass promises to provide for his other child.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He dared not do anything that would imply a stronger interest in a poor man’s adopted child than could be expected from the kindliness of the young Squire.', 'Godfrey had ceased to see the shadow of Dunsey across his path.', 'He saw himself with all his happiness centred on his own hearth, while Nancy would smile on him as he played with the children.', 'And that other child—not on the hearth—he would not forget it; he would see that it was well provided for. That was a father’s duty.']
 
 ** Chapter Keywords**:

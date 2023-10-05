@@ -13,7 +13,7 @@ Fred and Rosamond ride to Stone Court, where they encounter Mr. Featherstone and
 **Location**:
 Stone Court, Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Stone Court, Middlemarch
 ** Plot Points**:
 ['Fred denies the rumors of borrowing money and gambling', 'Rosamond is attracted to Mr. Lydgate', 'Fred contemplates whether to tell his father about the rumors']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘You must be joking, sir. Mr. Bulstrode, like other men, believes scores of things that are not true, and he has a prejudice against me. I could easily get him to write that he knew no facts in proof of the report you speak of, though it might lead to unpleasantness. But I could hardly ask him to write down what he believes or does not believe about me.’', "'I rather like a haughty manner. I cannot endure a rattling young man.'", "'I think my life is pleasanter than your Miss Morgan’s.'"]
 
 ** Chapter Keywords**:

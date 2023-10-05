@@ -13,7 +13,7 @@ This chapter sees Gwendolen's interest in Deronda growing. She attempts to have 
 **Location**:
 Offendene, England
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Gwendolen's growing interest in Deronda", "Revelation of Deronda's parentage", "Grandcourt's journey to Gadsmere"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I think it would be better for men not to gamble. It is a besotting kind of taste, likely to turn into a disease. And, besides, there is something revolting to me in raking a heap of money together, and internally chuckling over it, when others are feeling the loss of it.' - Daniel Deronda", "'Clearly. Because of that, we should help it where we can.' - Daniel Deronda"]
 
 ** Chapter Keywords**:

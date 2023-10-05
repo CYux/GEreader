@@ -13,7 +13,7 @@ In this chapter from the novel 'Romola' by George Eliot, Romola encounters Fra G
 **Location**:
 ['On the road away from Florence']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter from the novel 'Romola' by George Eliot, Romola encounters Fra G
 ** Plot Points**:
 ["Romola meets Fra Girolamo Savonarola; Savonarola convinces Romola to return to Florence and her marriage; Romola agrees to be guided by Savonarola's teachings."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['You are fleeing from the lot God has laid upon you. You wish your true name and your true place in life to be hidden, that you may choose for yourself a new name and a new place, and have no rule but your own will. (Savonarola to Romola) My daughter, you are a child of Florence; fulfill the duties of that great inheritance. Live for Florence—for your own people, whom God is preparing to bless the earth. Bear the anguish and the smart. (Savonarola to Romola)']
 
 ** Chapter Keywords**:

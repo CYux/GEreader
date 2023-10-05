@@ -13,7 +13,7 @@ In this chapter of "Daniel Deronda," Gwendolen and Grandcourt are on a yachting 
 **Location**:
 A yacht
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Gwendolen feels trapped in her marriage to Grandcourt', 'Gwendolen longs for freedom and is tempted to make impulsive decisions', 'Gwendolen hopes for an opportunity to speak with Deronda', 'Grandcourt tries to assert his dominance over Gwendolen', 'Gwendolen feels a sense of dread']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I will not mind if I can keep from getting wicked." - Gwendolen', '"Just be quiet and listen, will you?" - Grandcourt', '"God help me!" - Gwendolen']
 
 ** Chapter Keywords**:

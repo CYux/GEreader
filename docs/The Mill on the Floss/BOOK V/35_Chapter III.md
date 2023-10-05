@@ -14,7 +14,7 @@ In this chapter, Maggie and Philip are at the Red Deeps, where they discuss thei
 **Location**:
 The Red Deeps
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ The Red Deeps
 ** Plot Points**:
 ['Maggie decides to part ways with Philip', 'Philip offers to provide Maggie with books and intellectual stimulation', "Maggie remains firm in her decision despite Philip's attempts to persuade her", 'Philip asks for permission to occasionally visit the Red Deeps']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Philip, I have made up my mind; it is right that we should give each other up, in everything but memory.', 'I shall have strength given me.', 'No, you will not, Maggie; no one has strength given to do what is unnatural.', 'Do you banish me from this place forever, then, Maggie? Surely I may come and walk in it sometimes?']
 
 ** Chapter Keywords**:

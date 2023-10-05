@@ -13,7 +13,7 @@ In this chapter, Daniel Deronda reveals his newfound Jewish identity to Mordecai
 **Location**:
 Mordecai and Mirah's home in London
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Daniel Deronda reveals his Jewish heritage to Mordecai and Mirah', 'Daniel commits to their shared cause of uniting the Jewish people', "Hints at a distressing event related to Mirah's father", 'Daniel leaves his family records with Mordecai', "Mirah is left with mixed feelings and suspicions about Daniel's relationship with Mrs. Grandcourt"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It is through your inspiration that I have discerned what may be my life's task. It is you who have given shape to what, I believe, was an inherited yearning—the effect of brooding, passionate thoughts in many ancestors—thoughts that seem to have been intensely present in my grandfather.'", "'Even as my brother that fed at the breasts of my mother,' said Mordecai, falling back in his chair with a look of exultant repose, as after some finished labor.", "'What moved your parents——?' but he immediately checked himself, and added, 'Nay, I ask not that you should tell me aught concerning others, unless it is your pleasure.'"]
 
 ** Chapter Keywords**:

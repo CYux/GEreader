@@ -15,7 +15,7 @@ Hetty embarks on a long, tedious journey to find Arthur, unaware of the difficul
 **Location**:
 Various towns and villages from Stoniton to Windsor
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Early 19th century
 ** Plot Points**:
 ['Hetty sets out on a journey to find Arthur', 'Hetty spends her money carefully and experiences hardship on her journey', 'Hetty learns that Arthur has left for Ireland', 'Hetty faints from exhaustion and disappointment']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'She looked with eager, hungry eyes at the bread and meat and beer that the landlady brought her, and for some minutes she forgot everything else in the delicious sensations of satisfying hunger and recovering from exhaustion.'", "'It was not till the fifth day that she got to Stony Stratford.'", "'It’s Captain Donnithorne,' said Hetty tremulously, her heart beginning to beat painfully at this disappointment of her hope that she should find Arthur at once.'"]
 
 ** Chapter Keywords**:

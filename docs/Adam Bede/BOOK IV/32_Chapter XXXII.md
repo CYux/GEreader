@@ -15,7 +15,7 @@ The chapter features a discussion in the Donnithorne Arms about the arrival of a
 **Location**:
 Donnithorne Arms, Church, Poysers' Farm
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Donnithorne Arms, Church, Poysers' Farm
 ** Plot Points**:
 ['Discussion about the stranger at the Donnithorne Arms', "Squire Donnithorne's visit to the Poysers", "Mrs. Poyser's rejection of the squire's proposal", "Poysers' concern about moving from their farm"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You’re about as near the right language as a pig’s squeaking is like a tune played on a key-bugle.' - Bartle Massey", "'I shouldna wonder if he’s come about that man as is a-going to take the Chase Farm, wanting Poyser to do something for him without pay. But Poyser’s a fool if he does.' - Mrs. Poyser", "'I'll not make a martyr o’ myself, and wear myself to skin and bone, and worret myself as if I was a churn wi’ butter a-coming in’t, for no landlord in England, not if he was King George himself.' - Mrs. Poyser"]
 
 ** Chapter Keywords**:

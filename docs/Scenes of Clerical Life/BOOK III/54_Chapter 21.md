@@ -13,7 +13,7 @@ In this chapter, Janet Dempster's sudden disappearance from her home sparks spec
 **Location**:
 Orchard Street and Paddiford Church
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Orchard Street and Paddiford Church
 ** Plot Points**:
 ["Janet's sudden disappearance from home", "Janet's attendance at Paddiford Church", "Janet's fear of her husband's return", "Discovery of Dempster's body"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Mother,' she whispered, when Mrs. Raynor urged her to lie down and rest all the afternoon, that she might be the better prepared to see Mr. Tryan in the evening--'mother, don’t let me have anything if I ask for it.'", 'Suddenly a loud murmur arose and spread along the stream of church-goers, and one group after another paused and looked backward. At the far end of the street, men, accompanied by a miscellaneous group of onlookers, were slowly carrying something--a body stretched on a door.']
 
 ** Chapter Keywords**:

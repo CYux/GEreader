@@ -14,7 +14,7 @@ Maggie returns to St Ogg's and spends her days with Lucy and her mother. Stephen
 **Location**:
 St Ogg's and York
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -23,7 +23,7 @@ Unknown
 ** Plot Points**:
 ['Maggie spends time with Lucy and her mother', "Stephen starts dining at Mr Deane's frequently", 'Maggie and Stephen struggle with their love and sense of duty', 'Maggie decides they must part', 'Stephen pleads with Maggie to reconsider', 'Maggie leaves on a coach to return home']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'We shall not be together; we shall have parted.'", "'I will not endure it. What is the use of inflicting that misery on me?'", "'We can't choose happiness either for ourselves or for another; we can't tell where that will lie.'", "'I will confess everything. Lucy will believe me—she will forgive you, and—and—oh, some good will come by clinging to the right.'"]
 
 ** Chapter Keywords**:

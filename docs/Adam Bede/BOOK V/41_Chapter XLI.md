@@ -15,7 +15,7 @@ The chapter takes place in an upper room in a dull Stoniton street, where Adam B
 **Location**:
 An upper room in a dull Stoniton street
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ An upper room in a dull Stoniton street
 ** Plot Points**:
 ["Adam's despair over Hetty's situation", "Mr. Irwine's arrival and discussion with Adam", "Adam's desire for revenge on Arthur", 'Discussion about Dinah possibly being able to reach Hetty']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You needn’t be afraid of me. I only want justice. I want him to feel what she feels.'", "'Adam, he _will_ know—he _will_ suffer, long and bitterly.'", "'An act of vengeance on your part against Arthur would simply be another evil added to those we are suffering under.'"]
 
 ** Chapter Keywords**:

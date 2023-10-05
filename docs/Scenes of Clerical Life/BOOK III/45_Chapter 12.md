@@ -13,7 +13,7 @@ In this chapter, Janet visits her neighbor Mrs. Pettifer, who is a supporter of 
 **Location**:
 Mrs. Pettifer's house and Sally Martin's house
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mrs. Pettifer's house and Sally Martin's house
 ** Plot Points**:
 ["Janet's conversation with Mrs. Pettifer about Mr. Tryan", "Janet's encounter with Mr. Tryan at Sally Martin's house", "Change in Janet's perception of Mr. Tryan", "Worsening of Janet's personal situation"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘I like people who are kind; kindness is my religion; and that’s the reason I like you, dear Mrs. Pettifer, though you are a Tryanite.’', "‘It is very hard to bear, is it not?’ he said when she was still again. ‘Yet God seems to support you under it wonderfully. Pray for me, Sally, that I may have strength too when the hour of great suffering comes.'", 'The most brilliant deed of virtue could not have inclined Janet’s good-will towards Mr. Tryan so much as this fellowship in suffering.']
 
 ** Chapter Keywords**:

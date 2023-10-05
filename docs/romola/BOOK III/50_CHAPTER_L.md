@@ -13,7 +13,7 @@ In this chapter, Tessa goes to the Carnival, but she is frightened by a group of
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Tessa goes to the Carnival, but she is frightened by a group of
 ** Plot Points**:
 ['Tessa goes to the Carnival and encounters a group of white-robed boys demanding her necklace and clasp for the holy Bonfire of Vanities.', 'Romola intervenes and helps Tessa hide her ornaments, then advises her on how to return home.', "Baldassarre continues to watch Romola, thinking that revealing Tito's infidelity to her will aid his revenge."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Do not be afraid; no one shall harm you.', "I can't give them to be burnt. My husband - he bought them for me - and they are so pretty - and Ninna - oh, I wish I'd never come!"]
 
 ** Chapter Keywords**:

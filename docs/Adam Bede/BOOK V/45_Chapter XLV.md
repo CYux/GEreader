@@ -15,7 +15,7 @@ In this chapter, Dinah gains access to the prison to see Hetty Sorrel, a young w
 **Location**:
 Stoniton jail
 
-**Time_period**:
+**Time Period**:
 Late 18th to early 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th to early 19th century
 ** Plot Points**:
 ['Dinah visits Hetty in prison', 'Hetty reveals her secret about abandoning her baby', 'Dinah offers spiritual guidance and comfort', 'Hetty expresses her guilt and fear']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I want to go to Hetty Sorrel, the young woman who has been condemned to death—and to stay with her, if I may be permitted. Have you power in the prison, sir?'", "'It was because I was so very miserable, Dinah... I didn’t know where to go... and I tried to kill myself before, and I couldn’t. Oh, I tried so to drown myself in the pool, and I couldn’t.'", "'I did do it, Dinah... I buried it in the wood... the little baby... and it cried... I heard it cry... ever such a way off... all night... and I went back because it cried.'"]
 
 ** Chapter Keywords**:

@@ -15,7 +15,7 @@ In this chapter, Arthur Donnithorne and Adam Bede cross paths in the Grove, the 
 **Location**:
 The Grove by Donnithorne Chase
 
-**Time_period**:
+**Time Period**:
 Late 18th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th century
 ** Plot Points**:
 ['Arthur and Adam meet in the Grove', 'Arthur expresses his guilt and remorse over his affair with Hetty', 'Adam grapples with his feelings of anger and betrayal', 'Arthur reveals his plan to join the army', 'Arthur asks Adam to help convince the Poysers to stay on his estate', 'Arthur and Adam part ways, resolving to move forward and make amends in their own ways']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“A man that’s got our trade at his finger-ends is at home everywhere; and we must make a new start.', 'Arthur was silent some moments. In spite of other feelings dominant in him this evening, his pride winced under Adam’s mode of treating him.', '“Adam,” Arthur said, quietly, “it may be a good thing that we have met here, for I wished to see you. I should have asked to see you to-morrow.”', 'Arthur’s white hand was in Adam’s large grasp in an instant, and with that action there was a strong rush, on both sides, of the old, boyish affection.', 'Adam could not help being moved: it was impossible for him not to feel that this was the voice of the honest warm-hearted Arthur whom he had loved and been proud of in old days; but nearer memories would not be thrust away.', 'Good-bye, Adam. I shall think of you going about the old place.”', 'The hands were clasped once more, and Adam left the Hermitage, feeling that sorrow was more bearable now hatred was gone.']
 
 ** Chapter Keywords**:

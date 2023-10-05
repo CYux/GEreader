@@ -13,7 +13,7 @@ In this chapter of "Romola," Romola visits her dying brother, Fra Luca, who has 
 **Location**:
 ['San Marco monastery', 'Florence']
 
-**Time_period**:
+**Time Period**:
 Renaissance Italy
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance Italy
 ** Plot Points**:
 ['Romola visits her dying brother, Fra Luca, at the monastery of San Marco.', "Fra Luca shares a vision he has had about Romola's future, warning her against marriage.", 'Fra Girolamo Savonarola encourages Romola to accept the vision as a message from God.', "Romola is deeply affected by the experience and her brother's death."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The pride of the body is a barrier against the gifts that purify the soul.', 'Our brother is with the blessed. He has left you the crucifix, in remembrance of the heavenly warning—that it may be a beacon to you in the darkness.']
 
 ** Chapter Keywords**:

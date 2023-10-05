@@ -13,7 +13,7 @@ In this chapter, Romola is found adrift in a boat after escaping from Florence. 
 **Location**:
 ['A secluded creek and a nearby village']
 
-**Time_period**:
+**Time Period**:
 Italian Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Italian Renaissance
 ** Plot Points**:
 ['Romola wakes up in a boat and hears a child crying', 'Romola discovers a family struck by the plague and takes the surviving child', 'Romola convinces the priest and Jacopo to help her care for the sick and bury the dead', 'The village recovers, and Romola becomes a beloved figure', 'Romola grows weak and weary but continues to care for the child and villagers']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['She could not help hoping a little in a certain awe she had observed herself to inspire, when she appeared, unknown and unexpected, in her religious dress.', 'You will fear no longer, father,” said Romola, in a tone of encouraging authority; “you will come down with me, and we will see who is living, and we will look for the dead to bury them.']
 
 ** Chapter Keywords**:

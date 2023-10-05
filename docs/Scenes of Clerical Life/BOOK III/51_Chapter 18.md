@@ -13,7 +13,7 @@ In this chapter, Janet Dempster is anxiously awaiting the arrival of Mr. Tryan, 
 **Location**:
 Mrs. Pettifer's home
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Janet anxiously awaits Mr. Tryan's visit", 'Janet confesses her struggles to Mr. Tryan', 'Mr. Tryan shares his own story of redemption', "Mr. Tryan counsels Janet to submit to God's will", 'Janet asks Mr. Tryan to pray with her for strength and light']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I want to tell you how unhappy I am--how weak and wicked. I feel no strength to live or die. I thought you could tell me something that would help me.'", "'I should like to be good and to do right,’ Janet burst forth; ‘but indeed, indeed, my lot has been a very hard one.'", "'Yes, dear Mrs. Dempster,’ he said at last, ‘there _is_ comfort, there _is_ hope for you. Believe me there is, for I speak from my own deep and hard experience.’", "'I have only to walk out under the infinite heavens, and I breathe the pure free air that gives me health, and strength, and gladness.'", "'Pray with me,’ said Janet--‘pray now that I may have light and strength.’"]
 
 ** Chapter Keywords**:

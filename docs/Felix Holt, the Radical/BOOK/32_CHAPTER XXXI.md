@@ -13,7 +13,7 @@ The chapter narrates the day of the election for North Loamshire. The crowd grow
 **Location**:
 Treby Magna
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Treby Magna
 ** Plot Points**:
 ['The day of the election arrives', 'The crowd grows and becomes more rowdy', 'Voters are harassed and intimidated', 'The constables and magistrates try to control the situation']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'The rain was felt to be somehow on the side of quiet and Conservatism'", "'But a disposition to concentrate at that extremity of King Street which issued in the market-place, was not universal among the increasing crowd.'", "'It is by no means necessary in human things that there should be only one beginner.'"]
 
 ** Chapter Keywords**:

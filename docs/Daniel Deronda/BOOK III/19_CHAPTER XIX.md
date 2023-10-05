@@ -13,7 +13,7 @@ Deronda reflects on the potential consequences of Mirah's search for her family,
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Deronda decides to assist Mirah in her search for her family', 'Deronda wrestles with his own fears and insecurities about his unknown parentage', 'Deronda plans to share his relationship with Mirah with Sir Hugo and Lady Mallinger']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['To Deronda this event of finding Mirah was as heart-stirring as anything that befell Orestes or Rinaldo.', 'The desire to know his own mother, or to know about her, was constantly haunted with dread;', 'he was just now governed by dread, and if Mirah’s parents had been Christian, the chief difference would have been that his forebodings would have been fed with wider knowledge.', 'Deronda had made a vow to himself that—since the truths which disgrace mortals are not all of their own making—the truth should never be made a disgrace to another by his act.']
 
 ** Chapter Keywords**:

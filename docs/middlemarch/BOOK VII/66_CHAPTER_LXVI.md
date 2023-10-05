@@ -13,7 +13,7 @@ Lydgate finds solace in his medical practice and the immediate needs of his pati
 **Location**:
 The Green Dragon, Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Green Dragon, Middlemarch
 ** Plot Points**:
 ['Lydgate is tempted by the idea of gambling as a way to solve his financial troubles', 'Fred is shocked to see Lydgate betting and tries to distract him', "Mr. Farebrother expresses his concern for Fred's relationship with Mary and warns him of the potential consequences", "Fred is moved by Mr. Farebrother's words and promises to be worthy of Mary's love"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Many of us looking back through life would say that the kindest man we have ever known has been a medical man, or perhaps that surgeon whose fine tact, directed by deeply informed perception, has come to us in our need with a more sublime beneficence than that of miracle-workers.', 'But just as he had tried opium, so his thought now began to turn upon gambling—not with appetite for its excitement, but with a sort of wistful inward gaze after that easy way of getting money, which implied no asking and brought no responsibility.', 'Clearly not, when her affection met yours. But relations of this sort, even when they are of long standing, are always liable to change. I can easily conceive that you might act in a way to loosen the tie she feels towards you—it must be remembered that she is only conditionally bound to you—and that in that case, another man, who may flatter himself that he has a hold on her regard, might succeed in winning that firm place in her love as well as respect which you had let slip.', "'I will try to be worthy,' he said, breaking off before he could say 'of you as well as of her.' And meanwhile Mr. Farebrother had gathered the impulse to say something more."]
 
 ** Chapter Keywords**:

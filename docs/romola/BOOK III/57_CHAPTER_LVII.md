@@ -13,7 +13,7 @@ Tito secures his position in Florence by providing information against the Medic
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Late 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 15th century
 ** Plot Points**:
 ['Tito provides information against the Medicean conspirators to secure his own safety and success.', "Tito's reputation suffers as his double dealings become more apparent.", 'Tito contemplates leaving Florence for a fresh start in Rome or Milan.', 'Tito remains haunted by his past mistakes, such as his relationship with the wrong woman and the unexpected return of Baldassarre.', 'Tito encounters Ser Ceccone, another informant against the Mediceans, at the end of the chapter.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Could he not strip himself of the past, as of rehearsal clothing, and throw away the old bundle, to robe himself for the real scene?']
 
 ** Chapter Keywords**:

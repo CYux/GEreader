@@ -13,7 +13,7 @@ In this chapter, Romola feels disillusioned with life and her faith in humanity,
 **Location**:
 ['Viareggio', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century, Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Romola feels disillusioned with life and her faith in humanity,
 ** Plot Points**:
 ['Romola feels disillusioned with life and her faith in humanity, as she reflects upon the failures of her marriage and her former hero, Savonarola.', 'Romola longs for an escape from her misery and contemplates death.', 'Romola wanders to the shore where she sees a small boat and decides to purchase it from a fisherman.', 'Romola sets sail alone into the sea, hoping that her journey will either lead to her death or present new challenges that could reignite her spirit.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The deepest secret of human blessedness has half whispered itself to her, and then forever passed her by.', 'Romola felt orphaned in those wide spaces of sea and sky.']
 
 ** Chapter Keywords**:

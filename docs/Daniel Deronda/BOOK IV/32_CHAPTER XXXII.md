@@ -13,7 +13,7 @@ Deronda returns to town and discusses his encounter with Grandcourt with Sir Hug
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Deronda discusses Grandcourt with Sir Hugo', 'Deronda visits Mrs. Meyrick and Mirah', 'Mirah expresses her desire to find her mother and brother', 'Deronda reflects on his feelings for Mirah and the challenges they would present']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I thought better of her than I did in Leubronn. Roulette was not a good setting for her; it brought out something of the demon. At Diplow she seemed much more womanly and attractive—less hard and self-possessed. I thought her mouth and eyes had quite a different expression."', '"Oh, was it great to you? Did it go to your heart?" said Mirah, eagerly. "I thought none but our people would feel that. I thought it was all shut away like a river in a deep valley, where only heaven saw—I mean—"', '"I would do anything else for you. I owe you my life," said Mirah, not yet quite calm.', '"I will always be a Jewess. I will love Christians when they are good, like you. But I will always cling to my people. I will always worship with them."']
 
 ** Chapter Keywords**:

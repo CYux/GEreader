@@ -14,7 +14,7 @@ The chapter focuses on the turbulent relationship between siblings Maggie and To
 **Location**:
 The garden and pond near their house
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -23,7 +23,7 @@ Victorian era
 ** Plot Points**:
 ['Tom choosing Lucy over Maggie', 'Maggie pushing Lucy into the mud', 'Tom slapping Maggie', 'Maggie running away', "Family's frantic search for Maggie"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Now, get away, Maggie; there’s no room for you on the grass here. Nobody asked _you_ to come.', 'I shall tell mother, you know, Miss Mag.', 'They’re such children for the water, mine are.', 'What the father would say if Maggie was lost, was a question that predominated over every other.']
 
 ** Chapter Keywords**:

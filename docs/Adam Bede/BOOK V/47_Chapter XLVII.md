@@ -15,7 +15,7 @@ The chapter describes a tense scene where two young women, Dinah Morris and Hett
 **Location**:
 Stoniton
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Stoniton
 ** Plot Points**:
 ['Dinah and Hetty are led to their execution in a cart.', 'Dinah prays fervently, offering spiritual comfort to Hetty.', 'The crowd watches in silence, filled with anticipation.', 'Arthur Donnithorne rides through the crowd with a release document, saving Dinah and Hetty from execution.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"Close your eyes, Hetty," Dinah said, "and let us pray without ceasing to God."', 'The Sheriff knows him: it is Arthur Donnithorne, carrying in his hand a hard-won release from death.']
 
 ** Chapter Keywords**:

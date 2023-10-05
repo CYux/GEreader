@@ -13,7 +13,7 @@ Romola and Baldassarre meet in secret at San Miniato to discuss Tito's betrayal.
 **Location**:
 ['San Miniato']
 
-**Time_period**:
+**Time Period**:
 Renaissance Italy
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance Italy
 ** Plot Points**:
 ['Romola and Baldassarre meet in secret at San Miniato.', "Baldassarre reveals that he was Tito's father and teacher and that Tito left him in slavery.", "Baldassarre tells Romola about Tito's other wife and asks for her help in seeking revenge against Tito.", 'Romola is conflicted about helping Baldassarre in his revenge plot.', 'They agree to meet again at mid-day in the church.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Wickedness is strong; and he wears armour.', 'The fire is God: it is justice: it will not die.', 'He shall feel the sharp edge of justice.']
 
 ** Chapter Keywords**:

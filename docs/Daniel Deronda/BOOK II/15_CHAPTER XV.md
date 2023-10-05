@@ -13,7 +13,7 @@ In this chapter, Grandcourt arrives in Leubronn, where he unexpectedly meets his
 **Location**:
 Leubronn
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Grandcourt's arrival in Leubronn", 'Unexpected meeting of Grandcourt, Sir Hugo, and Deronda', "Discussion about Gwendolen's gambling and departure", "Deronda's revelation of Gwendolen's return to Offendene", "Grandcourt's interest in Gwendolen", "Deronda's disapproval of a potential marriage between Grandcourt and Gwendolen"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'What of her, eh?' asked Sir Hugo of Lush, as the three moved on a little way.", "'I should hope a marriage like that would not come off,' said Deronda, in a tone of disgust.", "'You won't run after the pretty gambler, then?' said Sir Hugo, putting down his glasses.", "'Decidedly not.'"]
 
 ** Chapter Keywords**:

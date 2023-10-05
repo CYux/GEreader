@@ -13,7 +13,7 @@ In this chapter, Lapidoth, Ezra, and Mirah come face-to-face. Lapidoth returns M
 **Location**:
 Ezra and Mirah's home
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Lapidoth returns to his children's home", 'Ezra confronts Lapidoth about his past and declares he will never trust him', 'Despite his harsh words, Ezra offers Lapidoth a place in their home', 'Lapidoth accepts and is led to his new room by Mirah', "Lapidoth contemplates Mirah's finances and reminisces about his gambling habits"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I know you—too well—father,' said Ezra, with a slow biting solemnity which made the word father a reproach.", "'But you will never be trusted. You are an evil man: you made the misery of our mother. That such a man is our father is a brand on our flesh which will not cease smarting.'", "'Then you will stay, father—and be taken care of—and come with me,' said Mirah, drawing him toward the door."]
 
 ** Chapter Keywords**:

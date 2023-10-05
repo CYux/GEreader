@@ -13,7 +13,7 @@ Harold returns to Transome Court and confronts his mother about the truth of his
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Transome Court
 ** Plot Points**:
 ['Harold returns to Transome Court after hearing rumors about his parentage', 'Harold confronts his mother about the truth of his birth', "Mrs. Transome's silence confirms Harold's suspicions"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["He understood now, as he had never understood before, the neglected solitariness of his mother's life", 'Her son turned away his eyes from her, and left her. In that moment Harold felt hard: he could show no pity. All the pride of his nature rebelled against his sonship.']
 
 ** Chapter Keywords**:

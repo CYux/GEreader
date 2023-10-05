@@ -13,7 +13,7 @@ Deronda visits Ezra Cohen's shop in search of more information about Mirah's fam
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Deronda visits Ezra Cohen's shop and encounters him in person", 'Deronda visits the Cohen family and observes their interactions', 'Deronda plans to return with a diamond ring to learn more about the family']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You are perhaps of our race?'", "'I like my business, I like my street, and I like my shop'", "'You see there’s somebody will be disappointed if you don’t come this evening, sir'"]
 
 ** Chapter Keywords**:

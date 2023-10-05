@@ -13,7 +13,7 @@ In this chapter, Mr. Grandcourt proposes to Gwendolen. Despite her previous dete
 **Location**:
 Gwendolen's house
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Mr. Grandcourt proposes to Gwendolen', 'Gwendolen accepts the proposal', 'Gwendolen tells her mother about the engagement']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You consent to become my wife?'", "'Yes,' came as gravely from Gwendolen’s lips as if she had been answering to her name in a court of justice.", '“Come down, mamma, and see Mr. Grandcourt. I am engaged to him.”']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ This chapter presents the Rev. Amos Barton, who is depicted as a man of mediocri
 **Location**:
 Shepperton
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Shepperton
 ** Plot Points**:
 ["Rev. Amos Barton's mundane life is portrayed.", "The Countess Czerlaski is upset by her brother's engagement to her maid and seeks refuge with the Bartons.", "The Countess's prolonged stay with the Bartons leads to gossip and tarnishes Rev. Barton's reputation."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Depend upon it, you would gain unspeakably if you would learn with me to see some of the poetry and the pathos, the tragedy and the comedy, lying in the experience of a human soul that looks out through dull grey eyes, and that speaks in a voice of quite ordinary tones.'", "'He is going to be married--to marry my own maid, that deceitful Alice, to whom I have been the most indulgent mistress. Did you ever hear of anything so disgraceful? so mortifying? so disreputable?'", "'With a like inky swiftness did gossip now blacken the reputation of the Rev. Amos Barton, causing the unfriendly to scorn and even the friendly to stand aloof, at a time when difficulties of another kind were fast thickening around him.'"]
 
 ** Chapter Keywords**:

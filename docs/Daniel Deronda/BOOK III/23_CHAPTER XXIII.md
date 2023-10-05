@@ -13,7 +13,7 @@ In this chapter of Daniel Deronda, Gwendolen seeks advice from Herr Klesmer abou
 **Location**:
 Gwendolen's home
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Gwendolen seeks advice from Herr Klesmer about pursuing a career in acting or singing', 'Klesmer tells her that she is too old and lacks the necessary talent and training', 'Gwendolen is deeply hurt by his words and struggles with accepting help from others', 'She decides to keep her disappointment to herself and put on a brave face for her family']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Pray go to church, mamma,” said Gwendolen the next morning. “I prefer seeing Herr Klesmer alone.”', '“You would not mind Isabel sitting with you? She would be reading in a corner.”', '“No; she could not: she would bite her nails and stare. It would be too irritating. Trust my judgment, mamma, I must be alone. Take them all to church.”', '“If I take the wrong road, it will not be because of your flattery.”', '“An end of it!” said Gwendolen, aloud, starting from her seat as she heard the steps and voices of her mamma and sisters coming in from church.']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ This chapter describes the public execution of Savonarola and his two followers.
 **Location**:
 Florence
 
-**Time_period**:
+**Time Period**:
 23rd of May 1498
 
 **Themes**:
@@ -22,7 +22,7 @@ Florence
 ** Plot Points**:
 ['Savonarola and his followers are publicly degraded and executed', 'Romola watches the execution, hoping for a moment of truth from Savonarola', 'Savonarola remains silent until his death']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Pray for me, for God has withdrawn from me the spirit of prophecy.', 'The things that I have spoken, I had them from God.', 'I said it that I might seem good; tear me no more, I will tell you the truth.', 'Romola covered her face, but the hootings that seemed to make the hideous scene still visible could not be shut out.']
 
 ** Chapter Keywords**:

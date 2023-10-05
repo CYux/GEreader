@@ -13,7 +13,7 @@ In this chapter, Tito attends a political gathering at the Rucellai Gardens. The
 **Location**:
 ['Rucellai Gardens', 'Florence']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Tito attends a political gathering at the Rucellai Gardens. The
 ** Plot Points**:
 ['Tito attends a supper in the Rucellai Gardens', 'Baldassarre accuses Tito of betrayal', 'Tito denies the accusation and convinces others that Baldassarre is mad', 'Baldassarre is taken away', 'Tito is relieved but aware of the price he has paid']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'There is a traitor among you.'", "'I am convinced that he is labouring under a mania which causes him to mistake his identity.'", "'He is the escaped prisoner who clutched me on the steps of the Duomo.'"]
 
 ** Chapter Keywords**:

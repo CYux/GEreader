@@ -13,7 +13,7 @@ In this chapter, there is a public auction of furniture, books, and paintings be
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Public auction of Edwin Larcher's belongings", 'Will bids on a painting', 'Will encounters a stranger who claims to have known his mother']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'A gem of art has been amongst us in this town, and nobody in Middlemarch awake to it.'", "'You know nothing dishonorable of her, sir.'", "'They would find themselves in the wrong. They would find out that the blood in his veins was as free from the taint of meanness as theirs.'"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter of the novel, Daniel Deronda receives a letter from his friend H
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ London
 ** Plot Points**:
 ['Hans Meyrick expresses his growing affection for Mirah', "Mirah confides in Mrs. Meyrick about her father's appearance", "The revelation of Gwendolen's marriage to Mr. Grandcourt"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“The mixture may be one of the Jewish prerogatives, for what I know.”', '“I think she is the Princess of Eboli in Don Carlos,” said Mirah, with a quick intensity.']
 
 ** Chapter Keywords**:

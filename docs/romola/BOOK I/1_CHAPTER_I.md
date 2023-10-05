@@ -13,7 +13,7 @@ In this first chapter of 'Romola', set in 15th century Florence, two men, Bratti
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century (April 9, 1492)
 
 **Themes**:
@@ -22,7 +22,7 @@ In this first chapter of 'Romola', set in 15th century Florence, two men, Bratti
 ** Plot Points**:
 ["Bratti and the young stranger meet under the Loggia de' Cerchi", 'Bratti guides the stranger to the Mercato Vecchio (Old Market)', "They overhear conversations about Lorenzo de' Medici's death and the political climate", "Bratti tries to figure out the stranger's identity and origin."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Young man, one San Giovanni, three years ago, the Saint sent a dead body in my way—a blind beggar, with his cap well-lined with pieces—but, if you’ll believe me, my stomach turned against the money I’d never bargained for, till it came into my head that San Giovanni owed me the pieces for what I spend yearly at the Festa; besides, I buried the body and paid for a mass—and so I saw it was a fair bargain.', 'And when the Church is purged of cardinals and prelates who traffic in her inheritance that their hands may be full to pay the price of blood and to satisfy their own lusts, the State will be purged too—and Florence will be purged of men who love to see avarice and lechery under the red hat and the mitre because it gives them the screen of a more hellish vice than their own.']
 
 ** Chapter Keywords**:

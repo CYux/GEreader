@@ -13,7 +13,7 @@ In this chapter, Gwendolen and her mother journey back to England, accompanied b
 **Location**:
 Traveling from Genoa to London
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Gwendolen's uncertain future and inheritance", "Sir Hugo's suspicion of Gwendolen's feelings for Deronda", "Gwendolen's wish to consult Deronda"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I hope you don’t expect that I am going to be rich and grand, mamma,' said Gwendolen, 'perhaps I shall have nothing at all.'", "'What I have will depend on what I accept,' said Gwendolen. 'You and my uncle must not attempt to cross me and persuade me about this.'", "'I mean to be very wise; I do, really. And good—oh, so good to you, dear, old, sweet mamma, you won’t know me. Only you must not cry.'"]
 
 ** Chapter Keywords**:

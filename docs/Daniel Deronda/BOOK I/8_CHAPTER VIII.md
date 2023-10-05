@@ -13,7 +13,7 @@ Rex falls into a state of apathy following his heartbreak and falls ill. Anna ta
 **Location**:
 The rectory
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ The rectory
 ** Plot Points**:
 ['Rex falls ill after Gwendolen rejects him', 'Rex recovers and proposes to move to the colonies', "Anna supports Rex's plan", "Mr. Gascoigne disapproves of Rex's plan and convinces him to try his way"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I think she is hard; she has the heart of a coquette.'", "'I’ll tell you what I’m thinking of, Nannie. I will go to Canada, or somewhere of that sort.'", "'I say nothing of the grief to your mother and me.'"]
 
 ** Chapter Keywords**:

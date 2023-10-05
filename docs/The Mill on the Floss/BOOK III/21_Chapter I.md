@@ -14,7 +14,7 @@ Mr. Tulliver learns that he has lost his lawsuit against Wakem and Pivart, but h
 **Location**:
 Dorlcote Mill
 
-**Time_period**:
+**Time Period**:
 Mid-19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Mid-19th Century
 ** Plot Points**:
 ["Mr. Tulliver learns that he has lost his lawsuit and that his land's mortgage is now owned by Wakem.", 'Mr. Tulliver suffers a stroke upon learning this news.', 'Maggie is called home and finds her father in a state of partial consciousness.', "Tom and Maggie discuss their father's situation and Tom warns Maggie against associating with Philip Wakem."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"It is precisely the proudest and most obstinate men who are the most liable to shift their position and contradict themselves in this sudden manner; everything is easier to them than to face the simple fact that they have been thoroughly defeated, and must begin life anew."', '"There are certain animals to which tenacity of position is a law of life,—they can never flourish again, after a single wrench: and there are certain human beings to whom predominance is a law of life."', '"I believe that scoundrel\'s been planning all along to ruin my father," said Tom, leaping from the vaguest impressions to a definite conclusion. "I\'ll make him feel for it when I’m a man. Mind you never speak to Philip again."']
 
 ** Chapter Keywords**:

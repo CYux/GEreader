@@ -14,7 +14,7 @@ The chapter provides an insight into the after-effects of Maggie's return home. 
 **Location**:
 Maggie's home
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Maggie's home
 ** Plot Points**:
 ["Maggie's return home and her family's reaction", "Aunt Glegg's unexpected support", "Maggie's desire to be independent", "Maggie's worry for Philip", "Philip's letter to Maggie expressing his love and belief in her"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Your aunt Glegg scolded me so as niver was, my dear,' said poor Mrs Tulliver", "'I must get my own bread. But did you hear nothing of Philip—Philip Wakem? Have you never seen any one that has mentioned him?'", "'Maggie,—I believe in you; I know you never meant to deceive me; I know you tried to keep faith to me and to all.'"]
 
 ** Chapter Keywords**:

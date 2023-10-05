@@ -14,7 +14,7 @@ This chapter shows the Tulliver family in the aftermath of their financial ruin,
 **Location**:
 The Tulliver's home
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ The Tulliver's home
 ** Plot Points**:
 ['Mr. Tulliver is working for Wakem after losing his mill', 'Tom is also working and saving money to repay their debts', "Mr. Tulliver's pride and stubbornness have increased due to their circumstances", 'Mrs. Tulliver is showing signs of mental instability', "Maggie's attempts to show affection to her father and brother are met with indifference"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['It is something cruelly incomprehensible to youthful natures, this sombre sameness in middle-aged and elderly people, whose life has resulted in disappointment and discontent', 'These narrow notions about debt, held by the old fashioned Tullivers, may perhaps excite a smile on the faces of many readers in these days of wide commercial views and wide philosophy']
 
 ** Chapter Keywords**:

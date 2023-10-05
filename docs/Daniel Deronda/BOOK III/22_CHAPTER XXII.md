@@ -13,7 +13,7 @@ In this chapter, Catherine Arrowpoint, the only child of a wealthy family, decla
 **Location**:
 The Arrowpoint family home
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Arrowpoint family home
 ** Plot Points**:
 ['Catherine declares her love for Klesmer', "Catherine's parents disapprove of the match", 'Klesmer leaves the family home', 'Catherine stands up to her parents']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I mean to marry Herr Klesmer,' said Catherine, firmly.", "'I have always felt my fortune to be a wretched fatality of my life.'", "'Madam,' said Klesmer, 'certain reasons forbid me to retort. But understand that I consider it out of the power of either of you, or of your fortune, to confer on me anything that I value.'"]
 
 ** Chapter Keywords**:

@@ -15,7 +15,7 @@ Adam Bede visits Dinah at the farm while everyone else is at church. He confesse
 **Location**:
 Farmyard
 
-**Time_period**:
+**Time Period**:
 Early 19th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Early 19th Century
 ** Plot Points**:
 ["Adam's confession of love to Dinah", "Dinah's refusal to marry Adam due to her religious duty", "Discussion of Dinah's departure"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Adam, it’s hard to me to turn a deaf ear... you know it’s hard; but a great fear is upon me.', 'Adam, my mind is full of questionings about that; for now, since you tell me of your strong love towards me, what was clear to me has become dark again.', 'Nay, Adam. It seems to me that my love for you is not weak, for my heart waits on your words and looks, almost as a little child waits on the help and tenderness of the strong on whom it depends.']
 
 ** Chapter Keywords**:

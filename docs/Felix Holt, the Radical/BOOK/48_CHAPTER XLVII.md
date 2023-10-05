@@ -13,7 +13,7 @@ In this chapter, a meeting is held at the White Hart of Loamford to discuss the 
 **Location**:
 The White Hart of Loamford
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The White Hart of Loamford
 ** Plot Points**:
 ["A meeting is held to discuss Felix Holt's pardon", 'Harold tries to impress Esther by supporting Felix', 'Mr. Jermyn confronts Harold and reveals that he is his father']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Mr. Transome, I must speak to you in private.'", "'You will repent else--for your mother's sake.'", "'Do,' said Jermyn, in a grating voice; '_I am your father_'."]
 
 ** Chapter Keywords**:

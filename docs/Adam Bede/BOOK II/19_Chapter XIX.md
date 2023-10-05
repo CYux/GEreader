@@ -15,7 +15,7 @@ In this chapter, Adam Bede is seen marching along the lanes, on his way to work 
 **Location**:
 Hayslope
 
-**Time_period**:
+**Time Period**:
 18th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Hayslope
 ** Plot Points**:
 ["Adam's contemplation about his feelings for Hetty", "Adam's realization of his financial situation", "Adam's plan to start a business with Seth", "Adam's decision to visit Hetty"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Men’s muscles move better when their souls are making merry music', 'It was impossible for Adam not to feel that what had happened in the last week had brought the prospect of marriage nearer to him.', 'And Adam was again beguiled from calculations and contrivances into dreams and hopes.', 'Others there are who die poor and never put off the workman’s coat on weekdays. They have not had the art of getting rich, but they are men of trust, and when they die before the work is all out of them, it is as if some main screw had got loose in a machine; the master who employed them says, “Where shall I find their like?”']
 
 ** Chapter Keywords**:

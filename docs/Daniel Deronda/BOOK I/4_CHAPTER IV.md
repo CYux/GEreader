@@ -13,7 +13,7 @@ In this chapter, we delve into the character of Gwendolen Harleth. Her beauty, c
 **Location**:
 Offendene
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Gwendolen's beauty and charm make her a dominant figure in her household and society.", 'She views marriage as a restriction and is more focused on her own ambitions.', 'Her family and servants cater to her every whim, further fueling her sense of superiority and entitlement.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Gwendolen will not rest without having the world at her feet.', 'Always she was the princess in exile, who in time of famine was to have her breakfast-roll made of the finest-bolted flour from the seven thin ears of wheat, and in a general decampment was to have her silver fork kept out of the baggage.']
 
 ** Chapter Keywords**:

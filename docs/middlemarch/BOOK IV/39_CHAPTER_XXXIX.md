@@ -13,7 +13,7 @@ In this chapter, Sir James Chettam devises a plan to bring Dorothea to the Hall 
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ['Sir James plans to discuss estate management with Dorothea', 'Dorothea expresses her desire to help the tenants', "Will reveals Mr. Casaubon's ban on him coming to the house", 'Dorothea and Will discuss their beliefs', 'Mr. Brooke informs Dorothea about Jacob killing a leveret', 'Dagley insults Mr. Brooke and expresses discontent with the landlords']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'If, as I have, you also doe, Vertue attired in woman see, And dare love that, and say so too, And forget the He and She; And if this love, though placed so, From prophane men you hide, Which will no faith on this bestow, Or, if they doe, deride: Then you have done a braver thing Than all the Worthies did, And a braver thence will spring, Which is, to keep that hid.'—DR. DONNE", "'But if you like what is good, that comes to the same thing,' said Dorothea, smiling.", "'An’ what I say is, as I’ve lived upo’ your ground from my father and grandfather afore me, an’ hev dropped our money into’t, an’ me an’ my children might lie an’ rot on the ground for top-dressin’ as we can’t find the money to buy, if the King wasn’t to put a stop.'"]
 
 ** Chapter Keywords**:

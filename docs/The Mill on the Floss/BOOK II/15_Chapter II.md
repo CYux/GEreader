@@ -14,7 +14,7 @@ In this chapter, the Tulliver family is celebrating Christmas. Despite the festi
 **Location**:
 The Tulliver family home
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ The Tulliver family home
 ** Plot Points**:
 ["Mr. Tulliver's dispute with Mr. Pivart", "Mr. Tulliver's anger towards Mr. Wakem", "Tom learning that Wakem's son will also be attending Mr. Stelling's school"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It's no matter for that, my boy,' said Mr. Tulliver; 'don't you learn anything bad of him, that's all. The lad's a poor deformed creatur, and takes after his mother in the face; I think there isn't much of his father in him. It's a sign Wakem thinks high o' Mr Sterling, as he sends his son to him, and Wakem knows meal from bran.'"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Tito encounters a crowd and decides to join in the festivities 
 **Location**:
 ['Piazza', ' church']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Tito encounters a crowd and decides to join in the festivities 
 ** Plot Points**:
 ["Tito encounters a crowd and joins in the festivities of the Peasants' Fair", 'He meets his acquaintance Bratti, who offers to help him sell a ring', 'Tito finds Tessa alone and hungry and takes her to get food', 'Tito and Tessa playfully pretend to get married', "Tito tells Tessa to keep their 'marriage' a secret and promises to come back to take care of her", 'Tito leaves Tessa at the church and reflects on his feelings for her and his love for Romola']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“By the head of San Giovanni, now,” said Bratti, drawing Tito back to the pillar, “this is a piece of luck.', '“To-morrow, at three hours after sunrise, he will be at my shop, and if your wits are of that sharpness I have always taken them to be, Messer Greco, you will ask him a heavy price; for he minds not money.', '“It is well,” said Tito. “I will be at your shop, if nothing hinders.”', '“Perhaps. What do you think about it, Tessa?” said Tito, slipping his right arm round her, and looking down at her fondly.', '“You pretty pigeon! Do you think anybody could help taking care of you, if you looked at them?”', '“And then, perhaps, I shall come and take care of you again when you want me, as I did before. But you must do just what I tell you, else you will not see me again.”']
 
 ** Chapter Keywords**:

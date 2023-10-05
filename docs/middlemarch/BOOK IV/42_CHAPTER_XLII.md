@@ -13,7 +13,7 @@ In this chapter, Mr. Casaubon visits his doctor, Lydgate, to discuss his health.
 **Location**:
 Lowick Manor
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Lowick Manor
 ** Plot Points**:
 ['Mr. Casaubon visits Lydgate to discuss his health', 'Mr. Casaubon harbors suspicions about Dorothea and Will Ladislaw', "Dorothea grows frustrated with her husband's lack of affection", 'Dorothea contemplates the state of her marriage', 'Dorothea reconciles with Mr. Casaubon']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I wish to be alone,' said Mr. Casaubon, alone with his sorrow.", "'What have I done—what am I—that he should treat me so?'", "'Come, my dear, come. You are young, and need not to extend your life by watching.'"]
 
 ** Chapter Keywords**:

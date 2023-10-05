@@ -13,7 +13,7 @@ In this chapter, Romola is returning from the hospital and comes across a religi
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Italian Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Italian Renaissance
 ** Plot Points**:
 ['Romola comes across a religious procession in Florence.', 'The people of Florence are desperate for divine intervention to save their city.', 'Tito arrives as a messenger and shares news of French support.', "Tito does not acknowledge Romola's presence."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

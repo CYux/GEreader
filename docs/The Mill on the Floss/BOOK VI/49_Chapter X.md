@@ -14,7 +14,7 @@ In this chapter, Maggie attends a party at the Guests' residence, where she danc
 **Location**:
 Park House
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Park House
 ** Plot Points**:
 ['Maggie attends a party at Park House', 'Stephen showers Maggie with affection', 'Maggie leaves the party', 'Maggie meets Philip and tells him she is leaving']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'How dare you?' She spoke in a deeply shaken, half-smothered voice. 'What right have I given you to insult me?'", "'That book never will be closed, Philip,' she said, with grave sadness; 'I desire no future that will break the ties of the past.'"]
 
 ** Chapter Keywords**:

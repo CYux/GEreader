@@ -15,7 +15,7 @@ In this chapter, the narrator explains their approach to writing characters as t
 **Location**:
 Broxton and Hayslope
 
-**Time_period**:
+**Time Period**:
 1799
 
 **Themes**:
@@ -24,7 +24,7 @@ Broxton and Hayslope
 ** Plot Points**:
 ['The narrator discusses their preference for depicting characters as they are, not as ideals.', 'The character of Mr. Irwine is discussed, with the narrator arguing that his value lies not in his ability to preach, but in his ability to inspire love and respect.', 'The narrator criticizes those who idealize people and situations, arguing that this leads to disappointment and a lack of appreciation for the common and ordinary.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Falsehood is so easy, truth so difficult.', 'It is these people—amongst whom your life is passed—that it is needful you should tolerate, pity, and love', 'But let us love that other beauty too, which lies in no secret of proportion, but in the secret of deep human sympathy.']
 
 ** Chapter Keywords**:

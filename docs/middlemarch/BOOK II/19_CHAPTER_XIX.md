@@ -13,7 +13,7 @@ In this chapter, Dorothea Brooke (now Mrs. Casaubon) and her husband, Mr. Casaub
 **Location**:
 Rome
 
-**Time_period**:
+**Time Period**:
 During the reign of George IV and the Prime Ministership of the Duke of Wellington
 
 **Themes**:
@@ -22,7 +22,7 @@ During the reign of George IV and the Prime Ministership of the Duke of Wellingt
 ** Plot Points**:
 ['Dorothea and Mr. Casaubon are on their honeymoon in Rome', 'Will Ladislaw sees Dorothea at an art museum and is captivated by her beauty', 'Naumann suggests that Ladislaw paint a portrait of Dorothea', 'Ladislaw is hesitant and dismisses the idea']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“But she should be dressed as a nun; I think she looks almost what you call a Quaker; I would dress her as a nun in my picture.“ - Adolf Naumann', '“No; nonsense, Naumann! English ladies are not at everybody’s service as models. And you want to express too much with your painting. You would only have made a better or worse portrait with a background which every connoisseur would give a different reason for or against. And what is a portrait of a woman? Your painting and Plastik are poor stuff after all. They perturb and dull conceptions instead of raising them. Language is a finer medium.” - Will Ladislaw']
 
 ** Chapter Keywords**:

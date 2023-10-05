@@ -15,7 +15,7 @@ In November, Adam and Dinah get married, an event that draws the entire village.
 **Location**:
 Hayslope village
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Hayslope village
 ** Plot Points**:
 ["Adam and Dinah's wedding", 'Villagers attending the wedding', 'Adam leading Dinah out of the church', 'Three other couples following Adam and Dinah', "Mr. Irwine's intention to share the news with Arthur"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'There was a tinge of sadness in his deep joy; Dinah knew it, and did not feel aggrieved.'", "'The love that had brought hope and comfort in the hour of despair, the love that had found its way to the dark prison cell and to poor Hetty’s darker soul—this strong gentle love was to be Adam’s companion and helper till death.'", "'That’s a bit of good news to cheer Arthur,' said Mr. Irwine to his mother, as they drove off. 'I shall write to him the first thing when we get home.'"]
 
 ** Chapter Keywords**:

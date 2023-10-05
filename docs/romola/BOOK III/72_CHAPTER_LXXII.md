@@ -13,7 +13,7 @@ In the chapter, Savonarola is subjected to torture and is brought to the square 
 **Location**:
 The great piazza in Florence
 
-**Time_period**:
+**Time Period**:
 May 23, 1498
 
 **Themes**:
@@ -22,7 +22,7 @@ May 23, 1498
 ** Plot Points**:
 ['Savonarola is tortured and forced to confess to his supposed deceptions', 'He is stripped of his religious garb and degraded in front of the crowd', 'He is brought to the square to be executed', 'Romola and others watch in hope of his final words, but he remains silent']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Pray for me, for God has withdrawn from me the spirit of prophecy.', 'The things that I have spoken, I had them from God.', 'I said it that I might seem good; tear me no more, I will tell you the truth.']
 
 ** Chapter Keywords**:

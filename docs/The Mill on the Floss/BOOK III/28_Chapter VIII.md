@@ -14,7 +14,7 @@ Mr. Tulliver comes downstairs for the first time after his illness, unaware of t
 **Location**:
 Tulliver's house
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Tulliver's house
 ** Plot Points**:
 ['Mr. Tulliver learns about his financial ruin', "Mrs. Tulliver suggests accepting Wakem's offer", "Tom disagrees with his mother's suggestion"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'They've sold me up—they've sold me up.'", "'Say no more, Tom, say no more; I've had enough for this day. Give me a kiss, Bessy, and let us bear one another no ill-will; we shall never be young again—this world's been too many for me.'"]
 
 ** Chapter Keywords**:

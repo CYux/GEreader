@@ -13,7 +13,7 @@ The chapter takes place during a political rally in the market-place. Two carria
 **Location**:
 Market-place
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Market-place
 ** Plot Points**:
 ['Political rally in the market-place', 'Speeches by Harold and Lingon', 'Christian recognising Dominic', "Christian's interest in Esther"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'What's good for one time is bad for another.'", "'A good fellow has no need to tack about and change his road?'", "'A good-looking man in his prime! Not a greenhorn; not a shrivelled old fellow, who'll come to speak to you and find he's left his teeth at home by mistake.'"]
 
 ** Chapter Keywords**:

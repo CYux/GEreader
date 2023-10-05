@@ -15,7 +15,7 @@ In this chapter, a ball is held at the entrance-hall of Arthur's home. The event
 **Location**:
 Arthur's home
 
-**Time_period**:
+**Time Period**:
 Late 18th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th century
 ** Plot Points**:
 ["The ball at Arthur's home", "Lisbeth's mixed feelings about Adam's invitation to dance", 'Arthur leading Mrs. Irwine to the dais', "Adam's dance with Mary Burge", "Adam finding Hetty's locket", "Arthur's secret invitation to Hetty"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"Eh, it’s fine talkin’ o’ dancin’,” she said, “an’ thy father not a five week in’s grave."', '"Well, I didn’t think o’ dancing to-night,” said Adam, already tempted to change his mind, as he looked at Hetty."', '"I shall be in the wood the day after to-morrow at seven; come as early as you can.”']
 
 ** Chapter Keywords**:

@@ -14,7 +14,7 @@ In this chapter, Maggie and Philip meet at the Red Deeps. Philip confesses his l
 **Location**:
 Red Deeps
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Red Deeps
 ** Plot Points**:
 ['Philip confesses his love for Maggie.', 'Maggie is initially surprised, but eventually reciprocates his feelings.', 'Maggie insists that they cannot be more than friends due to their family circumstances.', 'Philip remains hopeful for their future together.', 'Maggie feels a new era has begun for her.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"Then can you bear to think of me as your lover, Maggie?" said Philip, seating himself by her, and taking her hand, in the elation of a sudden hope. "_Do_ you love me?"', '"I think I could hardly love any one better; there is nothing but what I love you for."', '"No, Maggie, I will ask nothing; I will bear everything; I\'ll wait another year only for a kiss, if you will only give me the first place in your heart."', '"Yes, Philip; I should like never to part; I should like to make your life very happy."']
 
 ** Chapter Keywords**:

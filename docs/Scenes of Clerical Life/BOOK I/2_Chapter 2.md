@@ -13,7 +13,7 @@ In this chapter, the Rev. Amos Barton returns home after dining at Mr. Farquhar'
 **Location**:
 Shepperton
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Rev. Amos Barton plans to start a lending library', 'He considers borrowing money from Mr. Hackit or Mr. Oldinport', 'Mrs. Barton deals with the household and children', 'Rev. Amos Barton reads prayers at the workhouse']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Thank heaven, then, that a little illusion is left to us, to enable us to be useful and agreeable--that we don’t know exactly what our friends think of us--that the world is not made of looking-glass, to show us just the figure we are making, and just what is going on behind our backs!'"]
 
 ** Chapter Keywords**:

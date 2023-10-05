@@ -14,7 +14,7 @@ The chapter begins with the aunts and uncles coming to hold a family council abo
 **Location**:
 The Tulliver's house
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -23,7 +23,7 @@ Unknown
 ** Plot Points**:
 ['The aunts and uncles come for a family council', 'Mrs. Tulliver pleads for her belongings not to be sold', 'Tom suggests that his aunt Moss should pay off the debt', "The family discusses the options and agrees to search for the note in Mr. Tulliver's room"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Oh, sister, what a world this is!'", "'Oh dear, oh dear,' said Mrs Tulliver, 'to think o’ my chany being sold i’ that way'", "'We mustn’t be thinking o’ what’s unnecessary'", "'I’ve always been good to my sister, though she married against my will'", "'I ought to obey my father’s wish about his property'", "'We’ll do as we’d be done by'", "'But if my father had made up his mind to give my aunt the money before he was in debt, he had a right to do it'", "'You don’t understand that, I doubt?' 'Yes, I do'"]
 
 ** Chapter Keywords**:

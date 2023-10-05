@@ -13,7 +13,7 @@ Janet Dempster, a woman in a toxic and abusive marriage, is cast out into the co
 **Location**:
 Orchard Street, Mrs. Pettifer's house
 
-**Time_period**:
+**Time Period**:
 1850s
 
 **Themes**:
@@ -22,7 +22,7 @@ Orchard Street, Mrs. Pettifer's house
 ** Plot Points**:
 ['Janet is cast out into the night by her abusive husband, Robert Dempster.', 'Janet reflects on her life and the misery she has endured.', "Feeling utterly alone and desperate, Janet seeks shelter at Mrs. Pettifer's house.", 'Mrs. Pettifer takes her in, offering warmth and comfort.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Robert has turned me out. I have been in the cold a long while.', 'Come in, my poor dear, come in. Come into my warm bed, and may God in heaven save and comfort you.', 'Her wretchedness had been a perpetually tightening instrument of torture, which had gradually absorbed all the other sensibilities of her nature into the sense of pain and the maddened craving for relief.']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ Romola returns to Florence and learns the full story of her husband Tito's death
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Late 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 15th century
 ** Plot Points**:
 ["Romola learns of Tito's death and Savonarola's arrest.", 'Romola searches for Tessa and the children, eventually finding them with the help of Bratti.', 'Romola brings Tessa and the children to live with her and Monna Brigida.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Romola paused no longer. That evening she was in Florence, sitting in agitated silence under the exclamations of joy and wailing, mingled with exuberant narrative, which were poured into her ears by Monna Brigida, who had backslided into false hair in Romola’s absence, but now drew it off again and declared she would not mind being grey, if her dear child would stay with her.', 'She never for a moment told herself that it was heroism or exalted charity in her to seek these beings; she needed something that she was bound specially to care for; she yearned to clasp the children and to make them love her.']
 
 ** Chapter Keywords**:

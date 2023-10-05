@@ -13,7 +13,7 @@ The chapter discusses the domestic life of Nancy and Godfrey, their unspoken des
 **Location**:
 The Red House and the village of Raveloe
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th century
 ** Plot Points**:
 ["Nancy resists her sister's arguments to take tea at the Red House.", 'Nancy reflects on her childless marriage and her refusal to adopt a child.', "Godfrey's secret about Eppie remains undisclosed to Nancy.", "Nancy anxiously waits for Godfrey's return home."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It’s a deal the best way o’ being master, to let somebody else do the ordering, and keep the blaming in your own hands.'", "'To adopt a child, because children of your own had been denied you, was to try and choose your lot in spite of Providence.'", "'There’s nothing like a dairy if folks want a bit o’ worrit to make the days pass.'"]
 
 ** Chapter Keywords**:

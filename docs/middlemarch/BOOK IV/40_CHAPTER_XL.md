@@ -13,7 +13,7 @@ In this chapter, Caleb Garth receives a job offer to manage two estates and the 
 **Location**:
 The Garth's home
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Garth's home
 ** Plot Points**:
 ['Caleb receives a job offer to manage estates', 'Mary decides to stay at home and help her mother', 'Fred feels guilty about his debt to the Garths', 'Caleb suggests that Fred could work under him', 'Caleb is asked to value land for Bulstrode']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Teaching seems to me the most delightful work in the world.' - Mrs. Garth", "'I call it improper pride to let fools’ notions hinder you from doing a good action.' - Caleb Garth", "'The soul of man, when it gets fairly rotten, will bear you all sorts of poisonous toad-stools, and no eye can see whence came the seed thereof.' - Caleb Garth"]
 
 ** Chapter Keywords**:

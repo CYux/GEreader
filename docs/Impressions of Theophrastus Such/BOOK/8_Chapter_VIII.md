@@ -13,7 +13,7 @@ IIn this chapter, the author discusses the character of Mordax, a highly intelle
 **Location**:
 Unspecified
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Unspecified
 ** Plot Points**:
 ["Mordax's arrogance and cruelty when confronted with contradiction", "Acer's skepticism about Mordax's virtues", "The author's arguments about moral nature and judging others", 'Pummel, the valet, as an example of self-satisfaction and vanity']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["Why should we any more apply that fallacious standard of what is called consistency to a man's moral nature, and argue against the existence of fine impulses or habits of feeling in relation to his actions generally, because those better movements are absent in a class of cases which act peculiarly on an irritable form of his egoism?", 'It is of the nature of vanity and arrogance, if unchecked, to become cruel and self-justifying.']
 
 ** Chapter Keywords**:

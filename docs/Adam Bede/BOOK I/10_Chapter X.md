@@ -15,7 +15,7 @@ In this chapter, Lisbeth mourns the death of her husband, Thias, and performs th
 **Location**:
 Lisbeth's home
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -24,7 +24,7 @@ Unknown
 ** Plot Points**:
 ['Lisbeth mourns the death of her husband', 'Adam falls asleep in the workshop', 'Dinah arrives to offer comfort', 'Lisbeth finds solace in the idea of being reunited with her husband']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Our dead are never dead to us until we have forgotten them', 'Eh! Well, if the Methodies are fond o’ trouble, they’re like to thrive', 'I shall go to him, but he won’t come back to me']
 
 ** Chapter Keywords**:

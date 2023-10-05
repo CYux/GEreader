@@ -13,7 +13,7 @@ The chapter provides a detailed description of Milby, a town that has seen signi
 **Location**:
 Milby
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Milby
 ** Plot Points**:
 ["Description of Milby's transformation", 'Introduction of Mr. Tryan and his new religious practices', "Division in the town over Mr. Tryan's methods", "Plans to protest against Mr. Tryan's evening lecture"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The chapter provides a detailed description of Milby, a town that has seen significant change over the years.', 'Mr. Tryan was the first Evangelical clergyman who had risen above the Milby horizon.', 'The town was divided into two zealous parties, the Tryanites and anti-Tryanites']
 
 ** Chapter Keywords**:

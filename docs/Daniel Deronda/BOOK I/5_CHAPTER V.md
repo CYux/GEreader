@@ -13,7 +13,7 @@ Gwendolen attends a dinner party at Quetcham Hall where she is introduced to the
 **Location**:
 Quetcham Hall
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Quetcham Hall
 ** Plot Points**:
 ['Gwendolen attends a dinner party at Quetcham Hall', 'She impresses most of the attendees with her beauty and charm', 'Herr Klesmer criticizes her singing ability and musical education', 'Gwendolen is determined to improve her skills']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'She is not really so handsome if you come to examine her features,' said Mrs. Arrowpoint, later in the evening, confidentially to Mrs. Vulcany.", " 'It is always acceptable to see you sing.'", " 'I wish you would sing to us again, Miss Harleth,' said young Clintock."]
 
 ** Chapter Keywords**:

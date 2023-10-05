@@ -13,7 +13,7 @@ Dorothea learns from Lydgate that Mr. Casaubon's condition hasn't changed, but h
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ['Dorothea learns about the opposition against the New Hospital', 'Dorothea offers to contribute financially', 'Mr. Casaubon agrees to her contribution', 'Distrust between Dorothea and Mr. Casaubon']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'There is everything to be done,' said Lydgate, with abrupt energy.", "'How very petty!' exclaimed Dorothea, indignantly.", "'Pray come to Lowick and tell us more of this. I will mention the subject to Mr. Casaubon.'"]
 
 ** Chapter Keywords**:

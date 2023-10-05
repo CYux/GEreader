@@ -13,7 +13,7 @@ In this chapter, Lydgate learns from Dorothea's letter that she had visited Rosa
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Lydgate learns about Dorothea's visit from her letter", 'Will finds out his name is connected to the scandal', 'Lydgate contemplates moving to London', 'Will feels obligated to help Lydgate']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

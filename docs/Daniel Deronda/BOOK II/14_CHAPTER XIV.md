@@ -13,7 +13,7 @@ Gwendolen receives an anonymous letter advising her not to marry Grandcourt and 
 **Location**:
 Cardell Chase, Whispering Stones, Offendene
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Gwendolen receives an anonymous letter', 'Lydia Glasher reveals her relationship with Grandcourt', 'Gwendolen decides not to marry Grandcourt']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Mr. Grandcourt ought not to marry any one but me. I left my husband and child for him nine years ago.', 'I shall not alter my resolve, and I shall not tell my reason. I don’t care what comes of it. I don’t care if I never marry any one. There is nothing worth caring for. I believe all men are bad, and I hate them.']
 
 ** Chapter Keywords**:

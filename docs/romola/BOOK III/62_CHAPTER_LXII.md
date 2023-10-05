@@ -13,7 +13,7 @@ The chapter takes place in Florence, where a huge crowd has gathered to hear the
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Late 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 15th century
 ** Plot Points**:
 ['A large crowd gathers to hear Savonarola preach.', "Savonarola prays for God's judgment if his work is not sincere.", 'Sunlight suddenly illuminates Savonarola, which the crowd takes as a sign of divine approval.', 'As the crowd disperses, skepticism and criticism emerge.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Lord, if I have not wrought in sincerity of soul, if my word cometh not from Thee, strike me in this moment with Thy thunder, and let the fires of Thy wrath enclose me. (Savonarola)', 'It seems to me the plaudits are giving way to criticism. (Tito)']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In Chapter VII of Middlemarch, Dorothea Brooke expresses her desire to learn Lat
 **Location**:
 The Grange
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Dorothea expresses her desire to learn Latin and Greek', 'Mr. Brooke suggests that women should focus on lighter subjects like music', 'Mr. Casaubon dismisses music as a recreation', "Mr. Brooke reflects on the future prospects of Dorothea's marriage to Casaubon"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Could I not be preparing myself now to be more useful?' - Dorothea to Mr. Casaubon", "'A woman should be able to sit down and play you or sing you a good old English tune.' - Mr. Brooke", "'I never could look on it in the light of a recreation to have my ears teased with measured noises.' - Mr. Casaubon"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Christian, a mysterious figure, manipulates a local drunk named
 **Location**:
 Treby, Pollard's End, the Cross-Keys public house
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Treby, Pollard's End, the Cross-Keys public house
 ** Plot Points**:
 ["Christian and Tommy paste over Debarry's placards", 'Tommy reveals his belief about his rightful inheritance', 'Christian discovers a placard mentioning Bycliffe versus Transome']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'And if anybody says they want but two Parl'ment men, I say it 'ud be better for trade if there was six of 'em, and voters according.'", "'Whether you're a Tommy Trounsem or no, it's no good to you, but only to them as have got hold o' the property. If you was a Tommy Trounsem twenty times over, it 'ud be no good, for the law's bought you out; and your life's no good, only to them as have catched hold o' the property.'"]
 
 ** Chapter Keywords**:

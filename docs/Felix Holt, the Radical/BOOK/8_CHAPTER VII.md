@@ -13,7 +13,7 @@ In this chapter of Felix Holt, the Radical, the news of Harold Transome's return
 **Location**:
 Transome Court and Treby Manor
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Harold Transome's return and potential political aspirations", 'Sir Maximus and Lady Debarry visit Mrs. Transome', "Discussion of Harold Transome's wealth and political beliefs", "Tensions arise in the steward's room at Treby Manor"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'A Radical!' said Sir Maximus, in a tone of incredulous disgust", "'It's a confounded nuisance we didn't meet Christian on our way'", "'That's a wicked thing, though,' said Lady Debarry. 'We know now why his mother seemed so uneasy'", "'Come, that's beyond a joke,' said the surgeon's assistant", "'I don't intend to quarrel with you, Scales. Such talk as this is not profitable to either of us'", "'He's what I call an overbearing fellow,' said Mr. Sircome"]
 
 ** Chapter Keywords**:

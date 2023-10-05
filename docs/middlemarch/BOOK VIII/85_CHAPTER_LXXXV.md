@@ -13,7 +13,7 @@ Bulstrode is preparing to leave Middlemarch and is tormented by guilt. He fears 
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Bulstrode fears his wife's judgment", "Lydgate rejects Bulstrode's help", 'Bulstrode suggests offering Stone Court to Fred', 'Mrs. Bulstrode agrees to speak with Garth']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I should like to do something for my brother's family'", "'Garth once thought of undertaking the management of Stone Court'", "'You must make the proposal to Garth yourself'", "'I would try anything in my power to do him some good before I go away'"]
 
 ** Chapter Keywords**:

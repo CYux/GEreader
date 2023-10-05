@@ -13,7 +13,7 @@ In this chapter of 'Impressions of Theophrastus Such', the narrator engages in a
 **Location**:
 Unspecified
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Unspecified
 ** Plot Points**:
 ['The narrator and Trost discuss the potential consequences of technological advancements.', 'The narrator questions whether machines could eventually replace humans.', 'Trost argues that machines will always depend on humans for their existence.', 'The narrator speculates about a world filled with beings that lack consciousness.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Am I already in the shadow of the Coming Race? and will the creatures who are to transcend and finally supersede us be steely organisms, giving out the effluvia of the laboratory, and performing with infallible exactness more than everything that we have performed with a slovenly approximativeness and self-defeating inaccuracy?', 'Thus this planet may be filled with beings who will be blind and deaf as the inmost rock, yet will execute changes as delicate and complicated as those of human language and all the intricate web of what we call its effects, without sensitive impression, without sensitive impulse: there may be, let us say, mute orations, mute rhapsodies, mute discussions, and no consciousness there even to enjoy the silence.']
 
 ** Chapter Keywords**:

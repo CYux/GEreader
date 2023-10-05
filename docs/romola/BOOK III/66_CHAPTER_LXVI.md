@@ -13,7 +13,7 @@ On Palm Sunday, Savonarola delivers his last sermon and sees his doom approachin
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Renaissance Italy
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance Italy
 ** Plot Points**:
 ["Savonarola's last sermon", 'Siege of San Marco', 'Arrest of Savonarola and his coadjutors', "Rioting and sacking of the Piagnoni's houses", "Spini's plotting"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Once more Savonarola mounted the pulpit in San Marco, and saw a flock around him whose faith in him was still unshaken; and this morning in calm and sad sincerity he declared himself ready to die.']
 
 ** Chapter Keywords**:

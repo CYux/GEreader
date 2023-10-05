@@ -13,7 +13,7 @@ In this chapter, Gwendolen meets Mr. Grandcourt for the first time and is surpri
 **Location**:
 The archery ball
 
-**Time_period**:
+**Time Period**:
 Unspecified
 
 **Themes**:
@@ -22,7 +22,7 @@ Unspecified
 ** Plot Points**:
 ["Gwendolen is surprised by Mr. Grandcourt's appearance", 'Gwendolen dances with Grandcourt', 'Gwendolen encounters Mr. Lush', "Gwendolen begins to consider Grandcourt's offer"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He is not ridiculous.', 'I am very fortunate, because everything is new to me.', 'I am adorably stupid, and want everything explained to me—when the meaning is pleasant.', 'You had perhaps better put it on.']
 
 ** Chapter Keywords**:

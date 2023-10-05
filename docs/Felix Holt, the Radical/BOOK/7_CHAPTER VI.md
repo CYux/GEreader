@@ -13,7 +13,7 @@ This chapter explores the backstory of Mr. Lyon and his relationship with Annett
 **Location**:
 Malthouse Yard, Treby Magna
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th century
 ** Plot Points**:
 ['Mr. Lyon rescues Annette and her baby when they are in need', 'Mr. Lyon falls in love with Annette and leaves his ministry for her', "Annette becomes Mr. Lyon's wife and they have a child together", 'Annette passes away, leaving Mr. Lyon to raise Esther alone']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Though she be dead, yet let me think she lives, And feed my mind, that dies for want of her.']
 
 ** Chapter Keywords**:

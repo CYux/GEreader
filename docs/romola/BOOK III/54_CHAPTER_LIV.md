@@ -13,7 +13,7 @@ In this chapter, Romola is filled with fear for her godfather, Bernardo del Nero
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Romola is filled with fear for her godfather, Bernardo del Nero
 ** Plot Points**:
 ['Romola warns her godfather of potential danger', "Piero de' Medici's failed attempt to enter Florence"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Trust nobody. If you trust, you will be betrayed.'", "'I have not many years left at the bottom of my sack for them to rob me of.'"]
 
 ** Chapter Keywords**:

@@ -14,7 +14,7 @@ Tom goes to see his uncle Deane to ask for advice on finding employment. His unc
 **Location**:
 St Ogg's
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -23,7 +23,7 @@ Unknown
 ** Plot Points**:
 ['Tom seeks advice from his uncle Deane on finding employment', 'Uncle Deane advises Tom to learn bookkeeping and start in a lower position', 'Maggie tries to comfort Tom but is scolded by him', "Tom feels disheartened and resentful towards his uncle's lack of faith in him", 'Maggie feels unloved and hopeless about her future']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I hope you’ll excuse me for troubling you, uncle, but I thought you were the best person to advise me what to do.', 'I’d rather not have any employment of that sort, uncle. I don’t like Latin and those things. I don’t know what I could do with them unless I went as usher in a school; and I don’t know them well enough for that! besides, I would as soon carry a pair of panniers. I don’t want to be that sort of person. I should like to enter into some business where I can get on,—a manly business, where I should have to look after things, and get credit for what I did. And I shall want to keep my mother and sister.', 'I shall do what I can for that young man; he’s got some pith in him. But then, you see, he’s made good use of his time,—a first-rate calculator,—can tell you the cubic contents of anything in no time, and put me up the other day to a new market for Swedish bark; he’s uncommonly knowing in manufactures, that young fellow.']
 
 ** Chapter Keywords**:

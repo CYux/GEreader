@@ -13,7 +13,7 @@ In this chapter, Mixtus, a wealthy man who once held strong religious and philan
 **Location**:
 London, England
 
-**Time_period**:
+**Time Period**:
 Victorian era (19th century)
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era (19th century)
 ** Plot Points**:
 ["Mixtus' early life and beliefs in religion and philanthropy", "Mixtus' marriage to Scintilla and their shift to a wealthy lifestyle", 'The struggle of Mixtus to reconcile his past and present selves']
 
-** Significant Quotes**:
+** Significant Quotations**:
 This involuntary renegade has his character hopelessly jangled and out of tune.
 
 ** Chapter Keywords**:

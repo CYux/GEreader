@@ -26,6 +26,10 @@ const sidebars = {
     },
     {
       type: 'doc',
+      id: 'middlemarch/Summary Middlemarch'
+    },
+    {
+      type: 'doc',
       id: 'middlemarch/PRELUDE'
     },
     {
@@ -102,6 +106,10 @@ const sidebars = {
       id: 'The Mill on the Floss/index'
     },
     {
+      type: 'doc',
+      id: 'The Mill on the Floss/Summary The Mill on the Floss'
+    },
+    {
       type: 'html',
       value: "<div style='padding-top:10px'>BOOK FIRST.</div> <div> BOY AND GIRL.</div>",
       className: 'sidebar-title book-title',
@@ -163,6 +171,10 @@ const sidebars = {
     },
     {
       type: 'doc',
+      id: 'romola/Summary Romola'
+    },
+    {
+      type: 'doc',
       id: 'romola/PROEM'
     },
     {
@@ -198,8 +210,12 @@ const sidebars = {
       id: 'Impressions of Theophrastus Such/index'
     },
     {
+      type: 'doc',
+      id: 'Impressions of Theophrastus Such/Summary Impressions of Theophrastus Such'
+    },
+    {
       type: 'html',
-      value: "<div style='padding-top:10px'>Chapters</div>",
+      value: "<div style='padding-top:10px'>Chapter Index</div>",
       className: 'sidebar-title book-title',
       defaultStyle: true,
     },
@@ -214,6 +230,10 @@ const sidebars = {
     {
       type: 'doc',
       id: 'Daniel Deronda/index'
+    },
+    {
+      type: 'doc',
+      id: 'Daniel Deronda/Summary Daniel Deronda'
     },
     {
       type: 'html',
@@ -283,6 +303,10 @@ const sidebars = {
       id: 'Adam Bede/index'
     },
     {
+      type: 'doc',
+      id: 'Adam Bede/Summary Adam Bede'
+    },
+    {
       type: 'html',
       value: "<div style='padding-top:10px'>BOOK I.  </div>",
       className: 'sidebar-title book-title',
@@ -337,6 +361,10 @@ const sidebars = {
     },
     {
       type: 'doc',
+      id: 'Scenes of Clerical Life/Summary Scenes of Clerical Life'
+    },
+    {
+      type: 'doc',
       id: 'Scenes of Clerical Life/INTRODUCTION'
     },
     {
@@ -372,6 +400,10 @@ const sidebars = {
       id: 'Silas Marner/index'
     },
     {
+      type: 'doc',
+      id: 'Silas Marner/Summary Silas Marner'
+    },
+    {
       type: 'html',
       value: "<div style='padding-top:10px'>PART ONE.</div>",
       className: 'sidebar-title book-title',
@@ -397,8 +429,12 @@ const sidebars = {
       id: 'Felix Holt, the Radical/index'
     },
     {
+      type: 'doc',
+      id: 'Felix Holt, the Radical/Summary Felix Holt, the Radical'
+    },
+    {
       type: 'html',
-      value: "<div style='padding-top:10px'>Chapters</div>",
+      value: "<div style='padding-top:10px'>Chapter Index</div>",
       className: 'sidebar-title book-title',
       defaultStyle: true,
     },

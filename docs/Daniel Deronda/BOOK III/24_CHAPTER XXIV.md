@@ -13,7 +13,7 @@ In this chapter, Gwendolen continues to struggle with the idea of becoming a gov
 **Location**:
 Offendene, the Harleth family home
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Gwendolen's struggle with her new reality", "Mrs. Davilow's attempts to comfort Gwendolen", "Gwendolen's decision to keep the turquoise necklace"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I cannot believe that my uncle will let you go to such a place. He ought to have taken some other steps.', 'I am not at all sure what the Momperts will like me to be. It is enough that I am expected to be what they like.', 'I will keep this necklace, mamma. But do get the other things sold, even if they will not bring much.']
 
 ** Chapter Keywords**:

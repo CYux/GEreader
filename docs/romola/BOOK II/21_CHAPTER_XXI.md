@@ -13,7 +13,7 @@ The chapter is set in Florence in November 1494, during a time of political unre
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 November 1494
 
 **Themes**:
@@ -22,7 +22,7 @@ November 1494
 ** Plot Points**:
 ["Preparations for Charles VIII's arrival", 'Mixed feelings of the people', 'Secret preparations for potential conflict', "Savonarola's prophecies"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The French army was that new deluge which was to purify the earth from iniquity; the French king, Charles the Eighth, was the instrument elected by God, as Cyrus had been of old, and all men who desired good rather than evil were to rejoice in his coming.']
 
 ** Chapter Keywords**:

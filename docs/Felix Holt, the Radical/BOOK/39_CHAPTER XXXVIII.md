@@ -13,7 +13,7 @@ In this chapter, Esther Lyon and her father are visited by Harold and Mrs. Trans
 **Location**:
 Mr. Lyon's house, and later, a carriage en route to Transome Court
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mr. Lyon's house, and later, a carriage en route to Transome Court
 ** Plot Points**:
 ['Esther is informed of her inheritance', 'Mrs. Transome invites Esther to live at Transome Court', 'Harold offers to help Felix', 'Esther departs for Transome Court']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Our chief anxiety,' she said, knowing what Harold wished her to say, 'is, that there may be no contest, no useless expenditure of money. Of course we will surrender what can be rightfully claimed.'", "'I hope you do not disapprove of Miss Lyon's granting us this favor?' said Harold to the minister.", "'This will not be a grief to you, I hope, father? You think it is better that I should go?'"]
 
 ** Chapter Keywords**:

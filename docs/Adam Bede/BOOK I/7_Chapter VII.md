@@ -15,7 +15,7 @@ In this chapter, the setting is a dairy where a beautiful seventeen-year-old gir
 **Location**:
 Dairy
 
-**Time_period**:
+**Time Period**:
 Late 18th to early 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th to early 19th century
 ** Plot Points**:
 ["Captain Donnithorne's visit to the dairy", "His admiration for Hetty's beauty", 'His invitation to the holiday and dance', "Hetty's shy acceptance", "Arthur's departure"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Hetty blushed a deep rose-colour when Captain Donnithorne entered the dairy and spoke to her.', 'I hope you will be ready for a great holiday on the thirtieth of July, Mrs. Poyser.', 'And you must bring all your children, you know, Mrs. Poyser.', 'Oh no, no, that would be too cruel to all the other young fellows who can dance.', 'Yes, thank you, sir.', "Oh, she's a funny little fatty; I wouldn't have her different.", 'With a good-bye, a bright glance, and a bow to Hetty Arthur left the dairy.']
 
 ** Chapter Keywords**:

@@ -15,7 +15,7 @@ In this chapter, Seth Bede confesses his love for Dinah and proposes marriage to
 **Location**:
 The hedgerow-path that skirted the pastures and green corn-fields between the village and the Hall Farm
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Early 19th century
 ** Plot Points**:
 ['Seth confesses his love to Dinah', "Dinah rejects Seth's proposal", "Seth resolves to live more for others after Dinah's rejection"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Seth Bede, I thank you for your love towards me, and if I could think of any man as more than a Christian brother, I think it would be you. But my heart is not free to marry.'", "'I desire to live and die without husband or children. I seem to have no room in my soul for wants and fears of my own, it has pleased God to fill my heart so full with the wants and sufferings of his poor people.'"]
 
 ** Chapter Keywords**:

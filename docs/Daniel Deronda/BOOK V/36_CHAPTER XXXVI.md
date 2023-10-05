@@ -13,7 +13,7 @@ Gwendolen seeks out Deronda to discuss her remorse for her past actions and her 
 **Location**:
 Abbey
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Gwendolen seeks advice from Deronda', 'Deronda encourages Gwendolen to change her ways', "Sir Hugo warns Deronda about potential trouble in Gwendolen's marriage"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I want to tell you that it is really so—I can’t help feeling remorse for having injured others. That was what I meant when I said that I had done worse than gamble again and pawn the necklace again—something more injurious, as you called it. And I can’t alter it. I am punished, but I can’t alter it. You said I could do many things. Tell me again. What should you do—what should you feel if you were in my place?”', '“That is the bitterest of all—to wear the yoke of our own wrong-doing. But if you submitted to that as men submit to maiming or life-long incurable disease?—and made the unalterable wrong a reason for more effort toward a good, that may do something to counterbalance the evil? One who has committed irremediable errors may be scourged by that consciousness into a higher course than is common. There are many examples. Feeling what it is to have spoiled one life may well make us long to save other lives from being spoiled.”']
 
 ** Chapter Keywords**:

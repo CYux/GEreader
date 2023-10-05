@@ -14,7 +14,7 @@ In this chapter, Maggie Tulliver returns to St. Ogg's, facing judgment and specu
 **Location**:
 St. Ogg's
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ St. Ogg's
 ** Plot Points**:
 ["Maggie returns to St. Ogg's and faces the judgment of the townspeople.", 'Despite the public opinion, Maggie decides to stay in town.', 'Maggie seeks advice from Dr. Kenn, who supports her decision to stay.', 'Maggie expresses her desire to earn her own living and be independent.', 'Dr. Kenn promises to help Maggie find an occupation and assure her peace of mind.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I will not go away because people say false things of me. They shall learn to retract them. If I must go away at last, because—because others wish it, I will not go now."', '"Your conscience and your heart have given you true light on this point, Miss Tulliver; and I have said all this that you may know what my wish about you—what my advice to you—would be, if they sprang from my own feeling and opinion unmodified by counteracting circumstances."', '"The only thing I want is some occupation that will enable me to get my bread and be independent."']
 
 ** Chapter Keywords**:

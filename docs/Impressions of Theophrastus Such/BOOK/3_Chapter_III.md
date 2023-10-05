@@ -13,7 +13,7 @@ In this chapter from 'Impressions of Theophrastus Such' by George Eliot, a man n
 **Location**:
 Primarily set in Merman's home and within his intellectual community
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Primarily set in Merman's home and within his intellectual community
 ** Plot Points**:
 ["Merman becomes obsessed with disproving Grampus's work on the Magicodumbras and Zuzumotzis.", "Grampus publishes a scathing critique of Merman's work, damaging his reputation.", "Merman's financial situation and personal relationships suffer due to his obsession.", "Despite his best efforts, Merman's counterarguments receive little attention or validation.", 'Merman takes a low-paying job to support his family, and his ideas are eventually adopted by others without credit to him.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['That fellow Grampus, whose book is cried up as a revelation, is all wrong about the Magicodumbras and the Zuzumotzis, and I have got hold of the right clue.']
 
 ** Chapter Keywords**:

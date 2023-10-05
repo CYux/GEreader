@@ -13,7 +13,7 @@ The chapter describes a tumultuous period in the life of Janet Dempster and her 
 **Location**:
 Orchard Street and the town of Milby
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Orchard Street and the town of Milby
 ** Plot Points**:
 ['Robert Dempster loses clients and gets into legal troubles, which worsen his already bad temper and increase his drinking habits.', "Janet Dempster is in a state of constant despair due to her husband's worsening behavior and the continuous domestic abuse she endures.", "The townsfolk notice the Dempsters' deteriorating situation and gossip about it.", "Robert Dempster's health begins to fail due to his excessive drinking.", 'Old Mrs. Dempster dies, symbolizing the loss of any remaining goodness in Robert Dempster.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Cruelty, like every other vice, requires no motive outside itself--it only requires opportunity.', 'Nemesis is lame, but she is of colossal stature, like the gods; and sometimes, while her sword is not yet unsheathed, she stretches out her huge left arm and grasps her victim.', 'When the earth was thrown on Mamsey’s coffin, and the son, in crape scarf and hatband, turned away homeward, his good angel, lingering with outstretched wing on the edge of the grave, cast one despairing look after him, and took flight for ever.']
 
 ** Chapter Keywords**:

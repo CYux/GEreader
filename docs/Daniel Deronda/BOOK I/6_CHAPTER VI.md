@@ -13,7 +13,7 @@ This chapter focuses on the preparations and performance of a play at Offendene.
 **Location**:
 Offendene
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Gwendolen and the others prepare for a play', 'Gwendolen shows fear during the performance', "Rex's feelings for Gwendolen deepen"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Gwendolen cherished the idea that now he was struck with her talent as well as her beauty, and her uneasiness about his opinion was half turned to complacency.', 'Her ideal was to be daring in speech and reckless in braving dangers, both moral and physical; and though her practice fell far behind her ideal, this shortcoming seemed to be due to the pettiness of circumstances, the narrow theatre which life offers to a girl of twenty.']
 
 ** Chapter Keywords**:

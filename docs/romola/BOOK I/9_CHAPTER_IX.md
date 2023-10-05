@@ -13,7 +13,7 @@ In this chapter of "Romola," Tito faces a moral dilemma after receiving a large 
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century (Renaissance)
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter of "Romola," Tito faces a moral dilemma after receiving a large 
 ** Plot Points**:
 ['Tito receives a large sum of money from selling the gems.', 'He faces a moral dilemma about whether to use the money to search for his father or keep it for himself.', 'Tito chooses to believe that his father is dead, and thus, convinces himself that he is justified in keeping the money.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"Do I not owe something to myself?" (Tito, debating his dilemma)', '"Under every guilty secret there is hidden a brood of guilty wishes, whose unwholesome infecting life is cherished by the darkness."']
 
 ** Chapter Keywords**:

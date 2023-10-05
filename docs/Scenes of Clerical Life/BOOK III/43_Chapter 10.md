@@ -13,7 +13,7 @@ The chapter revolves around the conflict between Mr. Dempster and the Evangelica
 **Location**:
 Milby
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Milby
 ** Plot Points**:
 ["Mr. Dempster's resentment towards Mr. Tryan", "Janet's short interaction with Mr. Jerome", 'The growing influence of Mr. Tryan and his Evangelical movement', 'The mixed effects of Evangelicalism on Milby society']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The blessed work of helping the world forward, happily does not wait to be done by perfect men;', 'The first condition of human goodness is something to love; the second, something to reverence.', 'Yet surely, surely the only true knowledge of our fellow-man is that which enables us to feel with him--which gives us a fine ear for the heart-pulses that are beating under the mere clothes of circumstance and opinion.']
 
 ** Chapter Keywords**:

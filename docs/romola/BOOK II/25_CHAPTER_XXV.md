@@ -13,7 +13,7 @@ In this chapter, Baldassarre listens to the preaching of Savonarola in the Duomo
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Baldassarre listens to the preaching of Savonarola in the Duomo
 ** Plot Points**:
 ["Baldassarre listens to Savonarola's sermon and is deeply affected.", 'Piero di Cosimo helps Baldassarre by cutting his bonds and offering shelter.', "The chapter describes the various classes and political parties who attend Savonarola's sermons."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The mysteries of human character have seldom been presented in a way more fitted to check the judgments of facile knowingness than in Girolamo Savonarola.']
 
 ** Chapter Keywords**:

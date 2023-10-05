@@ -3,6 +3,7 @@ title: Table Of Contents
 ---
 # Impressions of Theophrastus Such
 ## Table Of Contents
+### Chapter Index
 - I. Looking Inward
 - II. Looking Backward
 - III. How We Encourage Research

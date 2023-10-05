@@ -13,7 +13,7 @@ The chapter details the history and changes in the town of Treby Magna, highligh
 **Location**:
 Treby Magna
 
-**Time_period**:
+**Time Period**:
 Early 19th century, specifically around the passing of the Reform Bill in 1832
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th century, specifically around the passing of the Reform Bill in 1832
 ** Plot Points**:
 ['Introduction of Felix Holt and his mother', 'Transformation of Treby Magna due to industrialization', 'Political and religious tensions arising from the passing of the Reform Bill']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The Reformers had triumphed: it was clear that the wheels were going whither they were pulling, and they were in fine spirits for exertion.', 'There is no private life which has not been determined by a wider public life, from the time when the primeval milkmaid had to wander with the wanderings of her clan, because the cow she milked was one of a herd which had made the pastures bare.']
 
 ** Chapter Keywords**:

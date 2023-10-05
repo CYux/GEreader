@@ -13,7 +13,7 @@ The chapter begins with the anticipated debate between Reverend Theodore Sherloc
 **Location**:
 Treby Magna
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th century
 ** Plot Points**:
 ['Anticipated debate between Reverend Sherlock and Rufus Lyon', "Sherlock's absence from the debate", "Speculations and reactions regarding Sherlock's absence", 'Criticism towards Lyon from his congregation', "Felix Holt's defense of Lyon", "Revelation of Sherlock's departure"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It's time he came now,' said Mr. Wace, looking at his watch and comparing it with the schoolroom clock.", "'He's turned tail, sure enough,' said Mr. Muscat to the neighbor behind him, lifting his eyebrows and shoulders, and laughing in a way that showed that, deacon as he was, he looked at the affair in an entirely secular light.", "'It seems to me, sirs,' he burst in, with his predominant voice, 'that Mr. Lyon has hitherto had the hard part of the business, while you of his congregation have had the easy one.'"]
 
 ** Chapter Keywords**:

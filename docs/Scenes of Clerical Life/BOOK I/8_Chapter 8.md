@@ -13,7 +13,7 @@ The chapter describes the tragic passing of Mrs. Barton. Mrs. Hackit is informed
 **Location**:
 The Barton's home
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Barton's home
 ** Plot Points**:
 ["Mrs. Barton's worsening condition", "Mrs. Barton's last moments with her children", "Mrs. Barton's death", "Mr. Barton's grief"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘My darling, Mrs. Hackit is come to see you.’', '‘Patty, I’m going away from you. Love your papa. Comfort him; and take care of your little brothers and sisters. God will help you.’', '‘My dear--dear--husband--you have been--very--good to me. You--have--made me--very--happy.’']
 
 ** Chapter Keywords**:

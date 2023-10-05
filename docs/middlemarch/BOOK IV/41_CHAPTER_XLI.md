@@ -13,7 +13,7 @@ In this chapter, Caleb Garth informs Mr. Bulstrode about the ongoing transaction
 **Location**:
 Stone Court, Brassing
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Caleb Garth informs Mr. Bulstrode about the ongoing transactions between him and Mr. Joshua Rigg Featherstone', 'Mr. Rigg Featherstone confronts Mr. Raffles about his mistreatment of his mother and refuses to give him any financial support', 'Raffles leaves in disappointment']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'What I give her, you’ll take'", "'You bear me a grudge, Josh, that I know'", "'Do you think I mean to forget your kicking me when I was a lad, and eating all the best victual away from me and my mother?'", "'I should be glad to see you whipped at the cart-tail'", "'The next time you show yourself inside the gates here, you shall be driven off with the dogs and the wagoner’s whip'", "'Farewell, Josh—and if forever!'"]
 
 ** Chapter Keywords**:

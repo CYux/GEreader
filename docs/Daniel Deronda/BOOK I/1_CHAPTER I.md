@@ -13,7 +13,7 @@ In this chapter, Gwendolen Harleth, a young woman, is observed gambling at a rou
 **Location**:
 Casino
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Gwendolen gambles at a roulette table', 'Daniel Deronda observes Gwendolen', 'Gwendolen loses heavily', 'Gwendolen feels judged by Deronda', 'Gwendolen expresses an interest in getting to know Deronda']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I am always bored."', '"I think he is not like young men in general."', '"It is a new _rôle_ of yours, Gwendolen, to be always bored."']
 
 ** Chapter Keywords**:

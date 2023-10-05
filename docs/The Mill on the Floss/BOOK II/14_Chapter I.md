@@ -14,7 +14,7 @@ Tom Tulliver's sufferings during his time at King's Lorton are described. He fin
 **Location**:
 King's Lorton
 
-**Time_period**:
+**Time Period**:
 Unspecified
 
 **Themes**:
@@ -23,7 +23,7 @@ Unspecified
 ** Plot Points**:
 ['Tom struggles with Latin grammar at school', 'Maggie visits Tom and shows an interest in learning Latin', 'Tom and Maggie spend time together', 'Tom misses Maggie when she leaves']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I suppose it’s all astronomers; because, you know, they live up in high towers, and if the women came there they might talk and hinder them from looking at the stars.'", "'Girls can’t do Euclid; can they, sir?' 'They can pick up a little of everything, I dare say,' said Mr. Stelling. 'They’ve a great deal of superficial cleverness; but they couldn’t go far into anything. They’re quick and shallow.'"]
 
 ** Chapter Keywords**:

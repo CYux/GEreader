@@ -13,7 +13,7 @@ In this chapter of 'Romola', Tito Melema is walking through the illuminated stre
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance
 ** Plot Points**:
 ['Tito encounters Niccolò working late', "Tito comes across Niccolò's workshop and decides to purchase a coat of mail for protection.", 'Niccolò sells Tito the armor', "Niccolò reluctantly sells Tito the armor, mentioning that it's like carrying fear around with oneself.", 'Tito takes the armor home', 'Tito takes the armor home with him, still preoccupied with his hidden anxieties.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["It's like carrying fear about with one."]
 
 ** Chapter Keywords**:

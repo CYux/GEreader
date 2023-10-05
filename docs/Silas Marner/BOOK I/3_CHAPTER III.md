@@ -13,7 +13,7 @@ This chapter gives us a closer look at the life of Squire Cass's sons, Godfrey a
 **Location**:
 The village of Raveloe
 
-**Time_period**:
+**Time Period**:
 Early 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th Century
 ** Plot Points**:
 ["Godfrey's secret marriage to Molly Farren is revealed", 'Dunstan blackmails Godfrey into selling his horse to settle a debt', "Godfrey's longing for Nancy Lammeter and a different life"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['For four years he had thought of Nancy Lammeter, and wooed her with tacit patient worship, as the woman who made him think of the future with joy', 'Still, there was one position worse than the present: it was the position he would be in when the ugly secret was disclosed', 'I’m the fellow to bring old Bryce up to the scratch. I’ll get you a hundred and twenty for him, if I get you a penny.']
 
 ** Chapter Keywords**:

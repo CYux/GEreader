@@ -13,7 +13,7 @@ Dorothea visits Lydgate's house to inquire about her husband's health but he is 
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Dorothea visits Lydgate's house to inquire about her husband's health", 'She meets Rosamond and Will Ladislaw', 'Dorothea decides to go to the hospital to see Lydgate', 'Will Ladislaw feels uneasy about Dorothea seeing him with Rosamond', 'Rosamond reflects on her power over men and her relationship with Lydgate']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'What is the use of being exquisite if you are not seen by the best judges?'", "'When one sees a perfect woman, one never thinks of her attributes—one is conscious of her presence.'", "'What I want, Rosy, is to do worthy the writing,—and to write out myself what I have done.'"]
 
 ** Chapter Keywords**:

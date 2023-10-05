@@ -13,7 +13,7 @@ In this chapter, Mr. Dempster returns home in a sober state, which is a pleasant
 **Location**:
 Dempster's house and garden
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Dempster's house and garden
 ** Plot Points**:
 ['Mr. Dempster returns home sober', 'He shows affection towards his mother and wife', 'He comes up with a plan to mock Mr. Tryan', 'Janet agrees to help him with the plan']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['In the man whose childhood has known caresses there is always a fibre of memory that can be touched to gentle issues', 'O it is piteous--that sorrow of aged women!', 'It was rather sad, and yet pretty, to see that little group passing out of the shadow into the sunshine, and out of the sunshine into the shadow again']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Mr. Lyon visits Felix Holt in jail, where Felix maintains his i
 **Location**:
 Treby Magna and Loamford Jail
 
-**Time_period**:
+**Time Period**:
 1830s
 
 **Themes**:
@@ -22,7 +22,7 @@ Treby Magna and Loamford Jail
 ** Plot Points**:
 ['Felix is in jail and maintains his innocence', 'Felix refuses help from Harold Transome', 'Esther struggles with her feelings for Felix', 'A letter arrives for Esther revealing she is the rightful heir to the Transome estate']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Tell her,' he said, 'whatever they sentence me to, she knows they can't rob me of my vocation. With poverty for my bride, and preaching and pedagoguy for my business, I am sure of a handsome establishment.'", 'Herewith we send you a brief abstract of evidence which has come within our knowledge, that the right of remainder whereby the lineal issue of Edward Bycliffe can claim possession of the estates of which the entail was settled by John Justus Transome in 1729, now first accrues to you as the sole and lawful issue of Maurice Christian Bycliffe.']
 
 ** Chapter Keywords**:

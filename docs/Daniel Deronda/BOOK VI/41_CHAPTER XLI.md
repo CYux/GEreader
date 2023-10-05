@@ -13,7 +13,7 @@ In this chapter, Daniel Deronda reflects deeply on his encounter with Mordecai, 
 **Location**:
 London, England
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Deronda's deep reflection on his encounter with Mordecai and the latter's belief in their shared Jewish heritage.", "Deronda's struggle with the potential disappointment Mordecai would face if he is not Jewish.", "Deronda's resistance to the idea that Sir Hugo is not his real father.", "Deronda's plan to meet Mordecai at Ezra Cohen’s place."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Deronda’s conscience included sensibilities beyond the common, enlarged by his early habit of thinking himself imaginatively into the experience of others.', 'And since the unemotional intellect may carry us into a mathematical dreamland where nothing is but what is not, perhaps an emotional intellect may have absorbed into its passionate vision of possibilities some truth of what will be—the more comprehensive massive life feeding theory with new material.']
 
 ** Chapter Keywords**:

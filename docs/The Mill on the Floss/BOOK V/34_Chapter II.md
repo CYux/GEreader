@@ -14,7 +14,7 @@ In this chapter, Tom Tulliver is depicted as a hardworking and ambitious young m
 **Location**:
 St. Ogg's
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -23,7 +23,7 @@ Unknown
 ** Plot Points**:
 ["Tom's determination to pay off his father's debts", "Tom's business plan and seeking his uncle's assistance", "Bob Jakin's humorous conversation with Mrs. Glegg", 'Tom securing the necessary funds for his business venture']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I’ll give it up, father, since you object to it so strongly."']
 
 ** Chapter Keywords**:

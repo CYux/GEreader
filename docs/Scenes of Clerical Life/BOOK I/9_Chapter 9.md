@@ -13,7 +13,7 @@ In this chapter, the Rev. Amos Barton's wife, Milly, is buried, leaving him alon
 **Location**:
 Shepperton
 
-**Time_period**:
+**Time Period**:
 Mid 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid 19th century
 ** Plot Points**:
 ["Milly's funeral", 'Community support to Amos and his children', 'Amos receives a letter forcing him to leave Shepperton']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['O the anguish of that thought that we can never atone to our dead for the stinted affection we gave them, for the light answers we returned to their plaints or their pleadings, for the little reverence we showed to that sacred human soul that lived so close to us, and was the divinest thing God had given us to know.', 'Amos, for the first time, felt that he was alone--that day after day, month after month, year after year, would have to be lived through without Milly’s love.']
 
 ** Chapter Keywords**:

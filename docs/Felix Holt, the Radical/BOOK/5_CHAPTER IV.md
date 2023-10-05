@@ -13,7 +13,7 @@ The chapter introduces Mr. Lyon, a small, old, eccentric-looking preacher who li
 **Location**:
 Mr. Lyon's house
 
-**Time_period**:
+**Time Period**:
 1860s
 
 **Themes**:
@@ -22,7 +22,7 @@ Mr. Lyon's house
 ** Plot Points**:
 ['Introduction of Mr. Lyon', "Mrs. Holt's visit and discussion about her son and her business", "Mr. Lyon's offer to speak to Felix"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["Mr. Lyon, he's masterful beyond everything, and he talks more than his father did.", "For after we'd been to chapel, he spoke better of you than he does of most: he said you was a fine old fellow, and an old-fashioned Puritan.", 'This woman has sat under the Gospel all her life, and she is as blind as a heathen, and as proud and stiff-necked as a Pharisee']
 
 ** Chapter Keywords**:

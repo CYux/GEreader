@@ -13,7 +13,7 @@ In this chapter, Romola and Tito spend time together in the loggia, discussing R
 **Location**:
 ["The loggia at the top of Bardo's house in Florence", 'Italy']
 
-**Time_period**:
+**Time Period**:
 Renaissance Italy (15th century)
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance Italy (15th century)
 ** Plot Points**:
 ["Romola and Tito discuss Dino's death and the impact of his vision on Romola.", 'Tito tries to comfort Romola and encourage her to focus on their love and future together.', 'Romola remains haunted by the sadness she has witnessed and feels a sense of unease about the future.', "They decide to return to Bardo's presence and find solace in each other's company."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['How should I not care for you more than for everything else? Everything I had felt before in all my life—about my father, and about my loneliness—was a preparation to love you.', 'No, Tito, I will, I do mind. But I am sure my godfather will urge more delay now because of Dino’s death.']
 
 ** Chapter Keywords**:

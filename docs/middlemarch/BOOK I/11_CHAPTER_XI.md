@@ -13,7 +13,7 @@ In this chapter, the focus shifts to Lydgate's growing fascination with a woman 
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Lydgate's fascination with Rosamond Vincy", 'Introduction of the Vincy family and their connections in Middlemarch', 'Positive reception of Lydgate by his patients', 'Conversation between Rosamond and her mother about Fred and Mary Garth']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['She is grace itself; she is perfectly lovely and accomplished. That is what a woman ought to be: she ought to produce the effect of exquisite music.', 'Destiny stands by sarcastic with our dramatis personae folded in her hand.', 'Certainly any one remembering the fact might think that Mrs. Vincy had the air of a very handsome good-humored landlady, accustomed to the most capricious orders of gentlemen.', 'A man looks very silly playing the flute. And you play so out of tune.', 'I wish you would leave off playing the flute. A man looks very silly playing the flute.']
 
 ** Chapter Keywords**:

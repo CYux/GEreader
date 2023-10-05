@@ -13,7 +13,7 @@ In this chapter, an archery competition is held at Brackenshaw Park where Gwendo
 **Location**:
 Brackenshaw Park
 
-**Time_period**:
+**Time Period**:
 Victorian Era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian Era
 ** Plot Points**:
 ['Gwendolen Harleth wins the archery competition, gaining admiration and attention.', 'Herr Klesmer, the musician, is present at the event and his foreign and artistic appearance is a subject of amusement and criticism.', 'Mr. Mallinger Grandcourt, a wealthy bachelor, is introduced to Gwendolen.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'If I am to aim, I can’t help hitting.'", "'Ay, to be sure,' said Lord Brackenshaw, in a tone of careless dismissal, adding quickly, 'For my part, I am not magnanimous; I should like to win.'", "'Miss Harleth, here is a gentleman who is not willing to wait any longer for an introduction. He has been getting Mrs. Davilow to send me with him. Will you allow me to introduce Mr. Mallinger Grandcourt?'"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Gwendolen seeks guidance from Daniel Deronda on whether she sho
 **Location**:
 London, England
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Gwendolen seeks advice from Deronda on accepting her husband's will", 'Deronda advises her to accept it and use the money for good', 'Gwendolen expresses a desire to move back to Offendene with her mother and sisters', 'Deronda struggles with the impending separation he foresees']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['You will find your life growing like a plant.', 'You can, you will, be among the best of women, such as make others glad that they were born.', 'And it has come to you in your spring-time. Think of it as a preparation.']
 
 ** Chapter Keywords**:

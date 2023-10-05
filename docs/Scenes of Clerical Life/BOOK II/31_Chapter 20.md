@@ -13,7 +13,7 @@ In this chapter, Caterina is persuaded to travel with Mr. Gilfil and his sister,
 **Location**:
 Foxholm Parsonage
 
-**Time_period**:
+**Time Period**:
 Late 18th to early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 18th to early 19th century
 ** Plot Points**:
 ['Caterina travels to Foxholm Parsonage with Mr. Gilfil and Mrs. Heron', 'Caterina finds comfort in the peacefulness of the parsonage and the company of Oswald', "Caterina's love of music is reawakened when she begins to play the harpsichord again"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The delicate-tendrilled plant must have something to cling to. The soul that was born anew to music was born anew to love.']
 
 ** Chapter Keywords**:

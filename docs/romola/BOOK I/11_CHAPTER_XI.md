@@ -13,7 +13,7 @@ In this chapter of "Romola," Tito struggles with the moral dilemma of whether or
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Italian Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Italian Renaissance
 ** Plot Points**:
 ['Tito considers whether he is obligated to search for Baldassarre and ultimately rationalizes his decision not to do so.', 'Tito visits San Marco to talk to Fra Luca, but learns that he has been taken to a monastery in Fiesole due to his poor health.', 'Tito feels relief that he can postpone any explanations and continues with his plans in Florence.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"What, looked at closely, was the end of all life, but to extract the utmost sum of pleasure?"', '"Gratitude! seen closely, it made no valid claim: his father\'s life would have been dreary without him: are we convicted of a debt to men for the pleasures they give themselves?"']
 
 ** Chapter Keywords**:

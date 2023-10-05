@@ -13,7 +13,7 @@ In this chapter, Mr. Cadwallader informs Sir James Chettam and the others that D
 **Location**:
 Freshitt Hall
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Freshitt Hall
 ** Plot Points**:
 ["Mr. Cadwallader reveals Dorothea's intention to marry Ladislaw", 'Sir James is angered and disapproves of the marriage', 'Mr. Brooke suggests cutting off the entail', 'Celia visits Dorothea to discuss the marriage', 'Dorothea reassures Celia about her decision']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Though it be songe of old and yonge, That I sholde be to blame, Theyrs be the charge, that spoke so large In hurtynge of my name.”—_The Not-Browne Mayde_', '“It is very dreadful of Dodo, though,” said Celia, wishing to justify her husband. “She said she _never would_ marry again—not anybody at all.”', '“How can you always live in a street? And you will be so poor. I could give you half my things, only how can I, when I never see you?”']
 
 ** Chapter Keywords**:

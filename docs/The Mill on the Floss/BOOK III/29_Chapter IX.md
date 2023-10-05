@@ -14,7 +14,7 @@ In this chapter, Tulliver, after days of struggle, decides to work for his enemy
 **Location**:
 Tulliver's home
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Tulliver's home
 ** Plot Points**:
 ['Tulliver decides to work for Wakem to repay his debts and support his family', 'He makes Tom write in the family Bible about his decision and his resentment towards Wakem', "Tulliver asks Tom to remember Wakem's actions and to seek retribution if the opportunity ever arises"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I’ve made up my mind, Bessy, and I’ll be as good as my word to you. There’ll be the same grave made for us to lie down in, and we mustn’t be bearing one another ill-will."', '"But I won’t forgive him! I know what they say, he never meant me any harm. That’s the way Old Harry props up the rascals."', '"Now write—write it i’ the Bible."']
 
 ** Chapter Keywords**:

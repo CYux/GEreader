@@ -15,7 +15,7 @@ In this chapter, Adam Bede goes to see Mr. Irwine to share his worries about Het
 **Location**:
 Mr. Irwine's study
 
-**Time_period**:
+**Time Period**:
 18th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Mr. Irwine's study
 ** Plot Points**:
 ["Adam Bede confronts Mr. Irwine about Hetty's disappearance", 'Mr. Irwine reveals Hetty has been arrested for child murder', "Adam blames Arthur for Hetty's predicament", 'Adam agrees to accompany Mr. Irwine to Stoniton to help Hetty']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'That man played with Hetty’s feelings, and behaved to her as he’d no right to do to a girl in her station o’ life—made her presents and used to go and meet her out a-walking.'", "'For a great crime—the murder of her child.'", "'It’s _his_ doing,' he said; 'if there’s been any crime, it’s at his door, not at hers.'"]
 
 ** Chapter Keywords**:

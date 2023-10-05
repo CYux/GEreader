@@ -14,7 +14,7 @@ Maggie is disappointed that she can't go with her father to fetch her brother, T
 **Location**:
 The Tulliver family's mill
 
-**Time_period**:
+**Time Period**:
 Mid 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Mid 19th century
 ** Plot Points**:
 ['Maggie is not allowed to go with her father to fetch Tom', 'Maggie vents her frustrations on a wooden doll in the attic', 'She spends the day in the mill with Luke', "Maggie learns that Tom's rabbits have died", 'Luke invites Maggie to his cottage to meet his wife']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Maggie, Maggie!” exclaimed Mrs Tulliver, “what is to become of you if you’re so naughty? I’ll tell your aunt Glegg and your aunt Pullet when they come next week, and they’ll never love you any more. Oh dear, oh dear!', 'I love Tom so dearly, Luke,—better than anybody else in the world.', '“Don’t you fret, Miss,” said Luke, soothingly; “they’re nash things, them lop-eared rabbits; they’d happen ha’ died, if they’d been fed. Things out o’ natur niver thrive: God A’mighty doesn’t like ’em.']
 
 ** Chapter Keywords**:

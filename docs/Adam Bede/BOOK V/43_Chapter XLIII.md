@@ -15,7 +15,7 @@ The chapter takes place in a grand old hall turned courtroom where Adam Bede sta
 **Location**:
 Courtroom in a grand old hall
 
-**Time_period**:
+**Time Period**:
 18th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Courtroom in a grand old hall
 ** Plot Points**:
 ["Hetty Sorrel's trial takes place", 'Witnesses testify against Hetty, revealing that she had a baby who was later found dead', "Adam Bede hopes for Hetty's innocence", 'Hetty is found guilty and sentenced to death by hanging', 'Hetty faints upon hearing the sentence']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Guilty.' It was the verdict every one expected, but there was a sigh of disappointment from some hearts that it was followed by no recommendation to mercy.", "But at the words 'and then to be hanged by the neck till you be dead,' a piercing shriek rang through the hall. It was Hetty’s shriek."]
 
 ** Chapter Keywords**:

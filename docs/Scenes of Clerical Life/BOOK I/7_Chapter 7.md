@@ -13,7 +13,7 @@ The Countess Czerlaski has been staying at the Vicarage, causing strain on the h
 **Location**:
 Shepperton Vicarage
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Shepperton Vicarage
 ** Plot Points**:
 ["Countess Czerlaski's extended stay at the Vicarage", "Nanny's confrontation with the Countess", "The Countess's decision to leave", "Milly's health issues", "The premature birth of Milly's baby"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Insolent! I’d better be insolent than like what some folks is,--a-livin’ on other folks, an’ bringin’ a bad name on ’em into the bargain.'", "'I find, on consideration, dear Milly, from the letter I had yesterday, that I must bid you good-bye and go up to London at once.'"]
 
 ** Chapter Keywords**:

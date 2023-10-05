@@ -13,7 +13,7 @@ In this chapter, the rumors about Harold Transome's wealth continue to spread, i
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Transome Court
 ** Plot Points**:
 ["Harold Transome's wealth is exaggerated by rumors, increasing his popularity.", 'Harold plans to run for Parliament as a Liberal.', 'Mrs. Transome feels her control over the estate slipping away.', 'Harold is revealed to be a clever, good-natured egoist.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I'll get rich somehow, and have an estate of my own, and do what I like with it.'", "'I'm an Oriental, you know. I say, mother, shall we have this room furnished with rose-color? I notice that it suits your bright gray hair.'", "'I should hate a woman who took up my opinions and talked for me.'"]
 
 ** Chapter Keywords**:

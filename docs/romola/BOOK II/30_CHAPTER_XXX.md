@@ -13,7 +13,7 @@ In this chapter of "Romola", Baldassarre reflects on his past and his thirst for
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance
 ** Plot Points**:
 ['Baldassarre finds a valuable amulet and decides to sell it to buy a dagger.', "He visits Bratti's shop, learns about Tito's life in Florence, and buys a dagger.", 'Baldassarre struggles with his memory and inability to read Greek.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['It is all a lie—this world is a lie—there is no goodness but in hate.', 'I have memory left for that, and there is strength in my arm—there is strength in my will—and if I can do nothing but kill him—']
 
 ** Chapter Keywords**:

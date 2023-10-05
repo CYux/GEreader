@@ -13,7 +13,7 @@ In Chapter III of "Romola" by George Eliot, the young Greek stranger meets Nello
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In Chapter III of "Romola" by George Eliot, the young Greek stranger meets Nello
 ** Plot Points**:
 ['Nello and the Greek stranger discuss the local culture and scholarly prejudices against Greeks in Florence.', 'Nello suggests Bartolommeo Scala as a potential patron for the Greek stranger, who is looking to sell some of his gems.', "Nello mentions Bardo de' Bardi, a blind man with a beautiful daughter named Romola, who has no money to buy the Greek's gems.", 'They encounter some clients who may be able to help the Greek stranger with his ring.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He has a theory, and lives up to it, which is more than I can say for any philosopher I have the honour of shaving.', 'I have seen enough of those wry-necked favourites of heaven at Constantinople.', 'A wise Greek may win favour among us; witness our excellent Demetrio, who is loved by many, and not hated immoderately even by the most renowned scholars.']
 
 ** Chapter Keywords**:

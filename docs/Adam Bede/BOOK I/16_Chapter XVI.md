@@ -15,7 +15,7 @@ Arthur Donnithorne wakes up early and decides to visit Mr. Irwine before breakfa
 **Location**:
 Hayslope and Broxton
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -24,7 +24,7 @@ Unknown
 ** Plot Points**:
 ['Arthur encounters Adam Bede while riding', 'Arthur has breakfast with Mr. Irwine', 'Arthur contemplates confessing his feelings for Hetty but decides against it', 'Arthur plans to go to Eagledale']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['A man can never do anything at variance with his own nature.', 'Our deeds carry their terrible consequences, quite apart from any fluctuations that went before.', 'If we wise people make eminent fools of ourselves on any particular occasion, we must endure the legitimate conclusion that we carry a few grains of folly to our ounce of wisdom.']
 
 ** Chapter Keywords**:

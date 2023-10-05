@@ -13,7 +13,7 @@ The chapter begins with Mr. Gilfil needing to reveal another tragedy to Sir Chri
 **Location**:
 Sir Christopher's dressing-room
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Sir Christopher's dressing-room
 ** Plot Points**:
 ["Mr. Gilfil reveals Tina's disappearance to Sir Christopher", "Sir Christopher expresses regret and fear for Tina's wellbeing", 'Mr. Gilfil confirms that Tina loved Anthony', 'Sir Christopher decides to tell Henrietta everything']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘I’m very weak, Maynard--God help me! I didn’t think anything would unman me in this way; but I’d built everything on that lad. Perhaps I’ve been wrong in not forgiving my sister. She lost one of _her_ sons a little while ago. I’ve been too proud and obstinate.’', '‘Maynard, did that poor thing love Anthony?’ ‘She did.’', '‘I must see Henrietta immediately,’ he said at last, with something of his old sharp decision; ‘she must know all; but we must keep it from every one else as far as possible. My dear boy,’ he continued in a kinder tone, ‘the heaviest burthen has fallen on you. But we may find her yet; we must not despair: there has not been time enough for us to be certain. Poor dear little one! God help me! I thought I saw everything, and was stone-blind all the while.’']
 
 ** Chapter Keywords**:

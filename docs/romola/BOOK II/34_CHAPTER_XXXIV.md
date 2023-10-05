@@ -13,7 +13,7 @@ In this chapter of "Romola," Tito visits Tessa and learns about a mysterious old
 **Location**:
 ["Tessa's home in Florence"]
 
-**Time_period**:
+**Time Period**:
 Renaissance Italy
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance Italy
 ** Plot Points**:
 ['Tito visits Tessa', 'Tessa tells Tito about the old man', 'Tito confronts Baldassarre and tries to reconcile', 'Baldassarre attempts to kill Tito', 'Tito warns Tessa', 'Baldassarre leaves']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I saved you—I nurtured you—I loved you. You forsook me—you robbed me—you denied me. What can you give me? You have made the world bitterness to me; but there is one draught of sweetness left—_that you shall know agony_.']
 
 ** Chapter Keywords**:

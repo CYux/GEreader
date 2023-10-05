@@ -13,7 +13,7 @@ In this chapter, the Mayor's confidence is shaken as more of Mr. Featherstone's 
 **Location**:
 Stone Court
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Mr. Featherstone's blood relatives gather at Stone Court", 'Mary Garth delivers the news that Mr. Featherstone does not want to see any of his relatives', 'Mr. Borthrop Trumbull expresses admiration for Mary', "Speculation about the contents of Mr. Featherstone's will"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I’ve made my will, I tell you, I’ve made my will'", "'I shall be happy to lend you any work you like to mention, Miss Garth'", "'A man whose life is of any value should think of his wife as a nurse'", "'You may depend, Jane, my brother has left that girl a lumping sum'", "'Auctioneers talk wild, not but what Trumbull has made money'"]
 
 ** Chapter Keywords**:

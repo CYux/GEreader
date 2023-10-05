@@ -13,7 +13,7 @@ In this chapter from 'Impressions of Theophrastus Such', the author discusses a 
 **Location**:
 Unspecified
 
-**Time_period**:
+**Time Period**:
 Unspecified (likely late 19th century)
 
 **Themes**:
@@ -22,7 +22,7 @@ Unspecified (likely late 19th century)
 ** Plot Points**:
 ["The narrator reads Lentulus's name in the obituary and reflects on his acquaintance with him.", 'The narrator attempts to discuss poetry and philosophy with Lentulus, only to discover his limited understanding and inflated self-importance.', "Lentulus's conceit is harmless due to his lack of words and good-hearted nature."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Blessed is the man who, having nothing to say, abstains from giving us wordy evidence of the fact--from calling on us to look through a heap of millet-seed in order to be sure that there is no pearl in it.']
 
 ** Chapter Keywords**:

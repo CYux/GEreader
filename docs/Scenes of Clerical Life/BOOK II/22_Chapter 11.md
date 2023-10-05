@@ -13,7 +13,7 @@ The chapter revolves around Caterina's emotional turmoil due to her feelings for
 **Location**:
 Cheverel Manor
 
-**Time_period**:
+**Time Period**:
 Not specified
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified
 ** Plot Points**:
 ["Caterina's distress over Captain Wybrow's impending wedding", "Caterina's inability to hide her resentment and jealousy", 'Confrontation between Caterina and Captain Wybrow', "Captain Wybrow's reprimand to Caterina for her rudeness towards Miss Assher", "Caterina's emotional outburst revealing her feelings for Captain Wybrow", "Miss Assher's suspicion over Caterina and Captain Wybrow's conversation"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘I wish I could be very ill, and die before then,’ she thought.', "‘Caterina, why will you be so violent--so unjust to me? It is for you that I feel anxious.'", "‘Say that I am a poor silly girl, and have fallen in love with you, and am jealous of her; but that you have never had any feeling but pity for me--you have never behaved with anything more than friendliness to me.'"]
 
 ** Chapter Keywords**:

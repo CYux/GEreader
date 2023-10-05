@@ -14,7 +14,7 @@ In this chapter, Maggie is filled with an inner excitement after hearing music s
 **Location**:
 Maggie's bedroom
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Maggie's bedroom
 ** Plot Points**:
 ["Maggie's intense reaction to the music and the singer's attention", "Maggie's confession about her feelings for Philip", "Lucy's proposal to intervene", "Maggie's resolution to speak to Tom"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I think I should have no other mortal wants, if I could always have plenty of music.', 'Besides, how could I dislike any one that promised to make you happy, my dear thing!', "I'll go to him myself tomorrow, and tell him that you wish Philip to come.", 'It is very beautiful that you should love Philip; I never thought such a happiness would befall him.']
 
 ** Chapter Keywords**:

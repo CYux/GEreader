@@ -13,7 +13,7 @@ In this chapter, Tito is returning from selling his onyx ring to Bratti, feeling
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Renaissance (15th century)
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance (15th century)
 ** Plot Points**:
 ['Tito sells his onyx ring and feels regretful about his actions.', 'The group of friends discuss the return of Fra Girolamo Savonarola and his influence on the people of Florence.', 'Nello plays a practical joke on Maestro Tacco, leading to a chaotic chase through the streets.', 'Tito receives a message from Romola, asking him to meet her at the top of their house.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['But our deeds are like children that are born to us; they live and act apart from our own will." (Tito\'s thoughts on the consequences of his actions)', "The secret of oratory lies, not in saying new things, but in saying things with a certain power that moves the hearers. (Niccolò Macchiavelli on Fra Girolamo Savonarola's influence)"]
 
 ** Chapter Keywords**:

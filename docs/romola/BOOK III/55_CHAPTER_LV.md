@@ -13,7 +13,7 @@ In this chapter, Romola faces the consequences of the excommunication of Savonar
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Late 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 15th century
 ** Plot Points**:
 ["Savonarola's excommunication is published in the Duomo", "Tito's past and other wife are revealed", 'Romola searches for Baldassarre']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The question where the duty of obedience ends, and the duty of resistance begins, could in no case be an easy one']
 
 ** Chapter Keywords**:

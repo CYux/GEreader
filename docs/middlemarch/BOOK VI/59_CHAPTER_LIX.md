@@ -13,7 +13,7 @@ In Chapter LIX, the news of Mr. Casaubon's codicil mentioning Mr. Ladislaw sprea
 **Location**:
 Lowick Parsonage
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Lowick Parsonage
 ** Plot Points**:
 ['News of the codicil spreads through the town', 'Fred tells Rosamond about it', 'Rosamond teases Ladislaw about not going to London and reveals the contents of the codicil', 'Ladislaw is angered by the news and leaves']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Take care you don't drop the faintest hint to Ladislaw, Rosy. He is likely to fly out as if you insulted him. Of course it is a painful affair.' - Lydgate", "'It is a foul insult to her and to me.' - Ladislaw", "'I expect to hear of the marriage.' - Rosamond"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Deronda rescues a young Jewish woman named Mirah Lapidoth, who 
 **Location**:
 Mrs. Meyrick's house in London
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Deronda rescues Mirah Lapidoth who was about to commit suicide.', 'Deronda takes Mirah to the Meyrick family who welcomes her warmly.', 'Mirah explains her situation and thanks Deronda for his kindness.', 'Deronda promises to return the next day to check on Mirah.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'The God of our fathers bless you and deliver you from all evil as you have delivered me. I did not believe there was any man so good. None before have thought me worthy of the best. You found me poor and miserable, yet you have given me the best.'"]
 
 ** Chapter Keywords**:

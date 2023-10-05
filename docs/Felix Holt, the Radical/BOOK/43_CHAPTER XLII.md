@@ -13,7 +13,7 @@ In this chapter, Jermyn confronts Mrs. Transome about their past and the current
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Transome Court
 ** Plot Points**:
 ['Jermyn asks Mrs. Transome to reveal the truth about their past to Harold to save him from ruin.', 'Mrs. Transome refuses, accusing Jermyn of selfishness and betrayal.', 'Jermyn is left in a precarious situation, with Harold potentially resuming his lawsuit against him.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"And you expect me to tell him?" she said, not loudly, but yet with a clear metallic ring in her voice.', '"I will never tell him!" said Mrs. Transome, starting up, her whole frame thrilled with a passion that seemed almost to make her young again.', '"You reckon up your sacrifices for me: you have kept a good account of them, and it is needful: they are some of them what no one else could guess or find out."']
 
 ** Chapter Keywords**:

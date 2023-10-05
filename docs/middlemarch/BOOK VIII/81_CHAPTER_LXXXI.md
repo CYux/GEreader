@@ -13,7 +13,7 @@ Dorothea visits Lydgate's house again to see Rosamond. Lydgate informs Rosamond 
 **Location**:
 Lydgate's house
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Lydgate's house
 ** Plot Points**:
 ['Dorothea visits Rosamond again', 'Dorothea expresses her support for Lydgate', 'Rosamond confesses that Lydgate loves another woman', 'Lydgate offers to send a carriage for Dorothea', "Rosamond admits that Dorothea's visit has made her less discontented with Lydgate"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

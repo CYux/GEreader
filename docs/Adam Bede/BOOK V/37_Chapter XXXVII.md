@@ -15,7 +15,7 @@ Hetty wakes up ill and contemplates her dire situation. She is penniless, with n
 **Location**:
 Countryside, Inn, Various Fields
 
-**Time_period**:
+**Time Period**:
 Late 18th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th Century
 ** Plot Points**:
 ['Hetty wakes up ill and contemplates her dire situation', 'She considers suicide, but fears the physical pain and unknown aftermath', 'Hetty decides to try and sell her jewelry for money', 'The innkeepers lend her money in exchange for the jewelry, with the condition that she can buy them back within two months', 'Hetty leaves the inn and continues her aimless journey', 'She contemplates suicide again, but the fear of death and the desire to live hold her back', 'Hetty considers seeking help from Dinah, but fears the inevitable shame that would follow', 'Hetty continues her aimless wandering, with no clear end in sight']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['She only felt that all her hope was crushed, and that instead of having found a refuge she had only reached the borders of a new wilderness where no goal lay before her.', 'But now the remembrance of that wretched woman whom she had seen herself, on her way from church, being carried into Joshua Rann’s, came back upon her with the new terrible sense that there was very little now to divide _her_ from the same lot.', 'She would go away from Windsor—travel again as she had done the last week, and get among the flat green fields with the high hedges round them, where nobody could see her or know her; and there, perhaps, when there was nothing else she could do, she should get courage to drown herself in some pond like that in the Scantlands.', 'She chose to go to Stratford-on-Avon again, where she had gone before by mistake, for she remembered some grassy fields on her former way towards it—fields among which she thought she might find just the sort of pool she had in her mind.']
 
 ** Chapter Keywords**:

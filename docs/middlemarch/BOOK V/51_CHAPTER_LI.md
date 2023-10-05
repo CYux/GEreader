@@ -13,7 +13,7 @@ In this chapter, the focus shifts to the upcoming election and Mr. Brooke's camp
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Mr. Brooke's campaign for Parliament", "Will's frustration with Dorothea's friends", 'The possibility of Will leaving', 'Mr. Brooke considering replacing Will']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I never see Mrs. Casaubon, and am not likely to see her, since she is at Freshitt.'", "'We are forever divided...'", "'I shall stay as long as I like.'"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Daniel Deronda receives a letter from his unknown mother, the P
 **Location**:
 Genoa, Italy
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Daniel receives a letter from his unknown mother', 'Daniel travels to Genoa to meet his mother', 'Daniel waits for several weeks in Genoa', 'Daniel receives a message that his mother has arrived']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['My good friend and yours, Sir Hugo Mallinger, will have told you that I wish to see you. My health is shaken, and I desire there should be no time lost before I deliver to you what I have long withheld.', 'He wondered to find that when this mother’s very handwriting had come to him with words holding her actual feeling, his affections had suddenly shrunk into a state of comparative neutrality toward her.']
 
 ** Chapter Keywords**:

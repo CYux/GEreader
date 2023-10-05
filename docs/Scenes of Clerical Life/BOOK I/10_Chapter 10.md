@@ -13,7 +13,7 @@ In this chapter, Reverend Amos Barton and his children prepare to leave Sheppert
 **Location**:
 Shepperton
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Shepperton
 ** Plot Points**:
 ['Amos and his children must leave Shepperton', 'The parishioners express sympathy for Amos and his children', "Amos visits his wife's grave and mourns her loss"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'My heart aches for them poor motherless children,’ said Mrs. Hackit to her husband", '‘Milly, Milly, dost thou hear me? I didn’t love thee enough--I wasn’t tender enough to thee--but I think of it all now.’']
 
 ** Chapter Keywords**:

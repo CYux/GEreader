@@ -13,7 +13,7 @@ In this chapter, the question of the chaplaincy at the Infirmary becomes a pract
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Lydgate is torn between voting for Farebrother and Tyke for the chaplaincy', 'He resents the pressure to choose and the subjection forced upon him', 'Lydgate casts his vote for Tyke, despite his personal preference for Farebrother']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘Confound their petty politics!’ was one of his thoughts', '‘You seem to speak with some peculiar meaning, sir,’ said Lydgate, rather defiantly', '‘The world has been too strong for me, I know,’ he said one day to Lydgate. ‘But then I am not a mighty man—I shall never be a man of renown.’']
 
 ** Chapter Keywords**:

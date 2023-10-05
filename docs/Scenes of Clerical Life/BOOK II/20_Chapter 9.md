@@ -13,7 +13,7 @@ In this chapter, Mr. Gilfil, deeply concerned about Caterina, confronts her abou
 **Location**:
 Lady Cheverel’s sitting-room
 
-**Time_period**:
+**Time Period**:
 Not specified
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified
 ** Plot Points**:
 ['Mr. Gilfil confronts Caterina about her feelings for Captain Wybrow', 'Caterina defends Captain Wybrow, claiming that he did love her', "Mr. Gilfil warns Caterina about Miss Assher's jealousy and asks her to behave with politeness and indifference towards Captain Wybrow"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["‘I hope you will not be hurt, Caterina, by what I am going to say to you. I do not speak from any other feelings than real affection and anxiety for you.'", '‘He is not what you think. He _did_ care for me; he _did_ love me; only he wanted to do what his uncle wished.’', "‘Remember, I entreat you, that the peace of the whole family depends on your power of governing yourself.'"]
 
 ** Chapter Keywords**:

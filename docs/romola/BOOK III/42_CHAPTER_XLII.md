@@ -13,7 +13,7 @@ The chapter is set in Florence during a time of famine and pestilence. The peopl
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 October 30, 1496
 
 **Themes**:
@@ -22,7 +22,7 @@ October 30, 1496
 ** Plot Points**:
 ['Florence is suffering from famine and pestilence', 'The government requests Savonarola to preach', 'Romola encounters Baldassarre and recognizes him', 'Romola helps Baldassarre and promises to return']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["The Frate has been preaching to the birds, like Saint Anthony, and he's been telling the hawks they were made to feed the sparrows, as every good Florentine citizen was made to feed six starving beggar-men from Arezzo or Bologna."]
 
 ** Chapter Keywords**:

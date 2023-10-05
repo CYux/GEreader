@@ -13,7 +13,7 @@ The chapter revolves around Godfrey Cass, who is dealing with the aftermath of h
 **Location**:
 The village of Raveloe
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th century
 ** Plot Points**:
 ["Godfrey is anxious about Dunsey's disappearance and the loss of his horse Wildfire", 'A tinder-box connected to a pedlar is discovered, leading to speculation about a robbery', 'Godfrey contemplates confessing his financial misdeeds to his father', "Dunsey is suspected of selling Wildfire without Godfrey's knowledge"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He felt that in letting Dunstan have the money, he had already been guilty of a breach of trust hardly less culpable than that of spending the money directly for his own behoof', 'Godfrey knew all this, and felt it with the greater force because he had constantly suffered annoyance from witnessing his father’s sudden fits of unrelentings']
 
 ** Chapter Keywords**:

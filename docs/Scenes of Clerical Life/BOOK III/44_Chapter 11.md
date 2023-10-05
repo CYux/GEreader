@@ -13,7 +13,7 @@ In this chapter, concerns are raised about the health of Mr. Tryan due to his no
 **Location**:
 Paddiford, Milby
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Paddiford, Milby
 ** Plot Points**:
 ["Mr. Tryan's relentless work and lack of self-care raise concerns among the community.", 'Mr. Jerome visits Mr. Tryan, offering him a horse to ease his travels, but Mr. Tryan declines.', "Miss Eliza Pratt and the Miss Linnets discuss Mr. Tryan's health and express their deep respect for him.", "Despite the community's concerns, Mr. Tryan insists on continuing his work in his own way."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'We cannot judge for one another, you know; we have each our peculiar weaknesses and temptations.' - Mr. Tryan", "'What is so wonderful to me in Mr. Tryan is the way he puts himself on a level with one, and talks to one like a brother.' - Mrs. Pettifer", "'And when I see all the faces turned up to him in Paddiford Church, I often think how hard it would be for any clergyman who had to come after him; he has made the people love him so.' - Mary Linnet"]
 
 ** Chapter Keywords**:

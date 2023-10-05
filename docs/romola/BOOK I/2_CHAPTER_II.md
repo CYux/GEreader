@@ -13,7 +13,7 @@ In this chapter from the novel "Romola" by George Eliot, a young stranger finds 
 **Location**:
 ['A marketplace in Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter from the novel "Romola" by George Eliot, a young stranger finds 
 ** Plot Points**:
 ['The young stranger searches for food and encounters Tessa and her milk mule.', "Tessa gives the stranger milk and bread, despite her mother's disapproval.", "Monna Ghita scolds the stranger and Tessa, but is eventually charmed by the stranger's flattery.", "Nello befriends the stranger and promises to help him find Bratti's shop."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I must get my breakfast for love, then!', 'A thousand thanks, my gentle one.', 'Your handsome face looks so well when it frowns, that I long to see it illuminated by a smile.']
 
 ** Chapter Keywords**:

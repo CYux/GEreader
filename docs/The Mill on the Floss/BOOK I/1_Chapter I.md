@@ -14,7 +14,7 @@ The chapter introduces the reader to the tranquil setting of Dorlcote Mill, loca
 **Location**:
 Dorlcote Mill, Floss River
 
-**Time_period**:
+**Time Period**:
 Not specified, but the narrator reminisces about an afternoon in February many years ago
 
 **Themes**:
@@ -23,7 +23,7 @@ Not specified, but the narrator reminisces about an afternoon in February many y
 ** Plot Points**:
 ['The narrator vividly describes the Dorlcote Mill and its surroundings', 'The narrator reveals that they have been reminiscing about a past time at the mill', 'The chapter ends with a transition into a flashback, preparing to delve into a conversation between Mr and Mrs Tulliver']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['And this is Dorlcote Mill. I must stand a minute or two here on the bridge and look at it, though the clouds are threatening, and it is far on in the afternoon.', 'Ah, my arms are really benumbed. I have been pressing my elbows on the arms of my chair, and dreaming that I was standing on the bridge in front of Dorlcote Mill, as it looked one February afternoon many years ago.']
 
 ** Chapter Keywords**:

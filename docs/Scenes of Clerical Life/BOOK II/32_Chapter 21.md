@@ -13,7 +13,7 @@ This chapter is about the wedding of Maynard Gilfil and Tina. The villagers gath
 **Location**:
 Foxholm Church, Shepperton
 
-**Time_period**:
+**Time Period**:
 30th of May 1790
 
 **Themes**:
@@ -22,7 +22,7 @@ Foxholm Church, Shepperton
 ** Plot Points**:
 ['Maynard and Tina get married', 'They plan to move to Shepperton where Maynard has been appointed as vicar', "Tina's health deteriorates", 'Tina dies, leaving Maynard in grief']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘Well, that theer’s whut I coal a pictur,’ said old ‘Mester’ Ford', '‘God A’maighty bless ye both, an’ send ye long laife an’ happiness,’ were the good gardener’s rather tremulous words.', 'Tina died, and Maynard Gilfil’s love went with her into deep silence for evermore.']
 
 ** Chapter Keywords**:

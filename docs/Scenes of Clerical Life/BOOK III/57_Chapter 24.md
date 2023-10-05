@@ -13,7 +13,7 @@ This chapter in 'Janet's Repentance' follows Janet as she tends to her dying hus
 **Location**:
 Robert Dempster's sickroom
 
-**Time_period**:
+**Time Period**:
 Victorian Era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian Era
 ** Plot Points**:
 ["Janet's constant care for her dying husband", "Janet's hope for her husband's transformation", "Doctor's announcement of Robert's inevitable death", "Robert's death"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Robert, do you know me?'", 'Could he read the full forgiveness that was written in her eyes? She never knew; for, as she was bending to kiss him, the thick veil of death fell between them, and her lips touched a corpse.']
 
 ** Chapter Keywords**:

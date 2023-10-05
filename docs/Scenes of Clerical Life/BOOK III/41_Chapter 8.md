@@ -13,7 +13,7 @@ In this chapter, Mr. Tryan visits the house of Mr. and Mrs. Jerome for tea. Mr. 
 **Location**:
 The house of Mr. and Mrs. Jerome in Milby
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ The house of Mr. and Mrs. Jerome in Milby
 ** Plot Points**:
 ['Mr. Tryan visits Mr. and Mrs. Jerome for tea', 'Mr. Jerome pledges his support to Mr. Tryan despite being a Dissenter', 'Mr. Tryan shares his plan of countering opposition', 'Mr. Tryan returns to his solitude, feeling the weight of his pastoral task']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["I'll mek one, Mr. Tryan, I'll mek one. You shall not be wantin' in any support as I can give. Before you come to it, sir, Milby was a dead an' dark place; you are the fust man i' the Church to my knowledge as has brought the word o' God home to the people; an' I'll stan' by you, sir, I'll stan' by you.", "While we are coldly discussing a man's career, sneering at his mistakes, blaming his rashness, and labelling his opinions--'he is Evangelical and narrow', or 'Latitudinarian and Pantheistic' or 'Anglican and supercilious'--that man, in his solitude, is perhaps shedding hot tears because his sacrifice is a hard one, because strength and patience are failing him to speak the difficult word, and do the difficult deed."]
 
 ** Chapter Keywords**:

@@ -14,7 +14,7 @@ In the chapter 'The Last Conflict', Maggie is alone in her room when she receive
 **Location**:
 St. Ogg’s, The Mill, and the Floss River
 
-**Time_period**:
+**Time Period**:
 Early 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Early 19th Century
 ** Plot Points**:
 ['Maggie receives a passionate letter from Stephen', 'A sudden flood engulfs the town', 'Maggie and Bob Jakin escape in a boat', 'Maggie rescues her brother Tom', 'They are swept away by a deadly current']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"Maggie! whose pain can have been like mine? Whose injury is like mine? Who besides me has met that long look of love that has burnt itself into my soul, so that no other image can come there? Maggie, call me back to you! Call me back to life and goodness!"', '"Tom, where are you? Mother, where are you? Here is Maggie!"', '"It is coming, Maggie!" Tom said, in a deep, hoarse voice, loosing the oars, and clasping her.']
 
 ** Chapter Keywords**:

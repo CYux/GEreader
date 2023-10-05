@@ -14,7 +14,7 @@ Mr Tulliver regains consciousness and recognizes his family members. He expresse
 **Location**:
 Tulliver's bedroom
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Tulliver's bedroom
 ** Plot Points**:
 ['Mr Tulliver regains consciousness and recognizes his family.', "Mr Tulliver expresses concern about the family's financial situation and asks Tom to pay off the debt owed to Luke.", 'Mr Tulliver expresses leniency towards the note owed by his brother-in-law, Mr Moss.', "Mr Tulliver's health deteriorates again and he falls into unconsciousness.", "Tom decides to use his and Maggie's savings to pay off Luke."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"You\'ll have to take care of \'em both if I die, you know, Tom. You\'ll be badly off, I doubt. But you must see and pay everybody."', '"You mustn\'t mind losing the money, if they can\'t pay it,- and it\'s like enough they can\'t."', '"Tom, you mind this: if ever you\'ve got the chance, you make Wakem smart. If you don\'t, you\'re a good-for-nothing son."']
 
 ** Chapter Keywords**:

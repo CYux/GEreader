@@ -13,7 +13,7 @@ In this chapter, Gwendolen receives a letter from Mr. Grandcourt, requesting to 
 **Location**:
 Offendene
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Gwendolen receives a letter from Mr. Grandcourt', 'Mr. Grandcourt requests to meet Gwendolen alone', 'Gwendolen decides to meet Mr. Grandcourt with the intention of refusing him']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It must be answered, darling,' said Mrs. Davilow, timidly. 'The man waits.'", "'I _must_ decide,' said Gwendolen, walking to the writing-table and seating herself.", "'Very well; and I wish to have the pleasure of refusing him.'"]
 
 ** Chapter Keywords**:

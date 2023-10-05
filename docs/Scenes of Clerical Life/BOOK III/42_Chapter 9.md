@@ -13,7 +13,7 @@ In this chapter, Mr. Tryan faces the hostility of his detractors as he walks to 
 **Location**:
 Orchard Street and the Church in Milby
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Orchard Street and the Church in Milby
 ** Plot Points**:
 ['Mr. Tryan and his supporters walk to church amidst insults and jeers from the crowd', 'Mr. Tryan is internally affected by the public scorn despite maintaining a composed exterior', "A glimpse of Mr. Tryan's future death and Janet Dempster's grief is provided"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Mr. Tryan declared he would have no precautions taken, but would simply trust in God and his good cause.', 'Outwardly Mr. Tryan was composed, but inwardly he was suffering acutely from these tones of hatred and scorn.', 'That second time, Janet Dempster was not looking on in scorn and merriment; her eyes were worn with grief and watching, and she was following her beloved friend and pastor to the grave.']
 
 ** Chapter Keywords**:

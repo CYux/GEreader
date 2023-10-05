@@ -15,7 +15,7 @@ In this chapter, Mr. Irwine is playing chess with his mother when Joshua Rann, t
 **Location**:
 Broxton Parsonage, Hayslope, Blythe
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Broxton Parsonage, Hayslope, Blythe
 ** Plot Points**:
 ['Joshua Rann informs Mr. Irwine about the Methodist preaching', 'Captain Donnithorne suggests visiting Adam Bede and the Hall Farm', 'Mr. Irwine visits his sick sister, Anne']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“That’s what the beaten have always said of great conquerors.', '“We must ‘live and let live,’ Joshua, in religion as well as in other things.', '“Nature never makes a ferret in the shape of a mastiff.”']
 
 ** Chapter Keywords**:

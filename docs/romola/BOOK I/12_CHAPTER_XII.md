@@ -13,7 +13,7 @@ In Chapter XII of "Romola", Tito has become a constant presence in Bardo's house
 **Location**:
 ["Bardo's house in Florence", 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century (Renaissance)
 
 **Themes**:
@@ -22,7 +22,7 @@ In Chapter XII of "Romola", Tito has become a constant presence in Bardo's house
 ** Plot Points**:
 ['Tito and Romola profess their love for each other.', 'They ask Bardo for permission to marry.', 'Bardo agrees, but wants to discuss the matter with Bernardo first.', 'Tito is concerned that Bernardo will oppose the marriage and that his past deception will be revealed.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I do love you," murmured Romola.', '"Will you let me be always and altogether your son? Will you let me take care of Romola—be her husband?"', '"Be patient, my children: you are very young."']
 
 ** Chapter Keywords**:

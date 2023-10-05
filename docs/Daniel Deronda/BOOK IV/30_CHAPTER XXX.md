@@ -13,7 +13,7 @@ In this chapter, Mrs. Glasher, Grandcourt's former lover and mother of his child
 **Location**:
 Gadsmere
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Mrs. Glasher confronts Grandcourt about his impending marriage', 'She refuses to give back the diamonds he had given her', 'Grandcourt reluctantly agrees to her demands']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Good God! say at once that you are going to marry her,” she burst out, passionately', '“Don’t let us part in anger, Henleigh,” she began, without changing her voice or attitude: “it is a very little thing I ask. If I were refusing to give anything up that you call yours it would be different: that would be a reason for treating me as if you hated me. But I ask such a little thing.', '“I will not—if you will let me have my way—I promise you not to thrust myself forward again. I have never broken my word to you—how many have you broken to me? When you gave me the diamonds to wear you were not thinking of having another wife. And I now give them up—I don’t reproach you—I only ask you to let me give them up in my own way. Have I not borne it well? Everything is to be taken away from me, and when I ask for a straw, a chip—you deny it me.”']
 
 ** Chapter Keywords**:

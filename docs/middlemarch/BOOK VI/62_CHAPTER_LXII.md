@@ -13,7 +13,7 @@ Will Ladislaw writes a letter to Dorothea asking for permission to see her again
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ['Will writes a letter to Dorothea asking for permission to see her', "Sir James learns about Will's extended stay in Middlemarch", 'Mrs. Cadwallader informs Dorothea about the gossip surrounding Will and Rosamond Lydgate', 'Dorothea and Will have a tense conversation about the rumors and their parting is cold and distant', 'Will leaves Middlemarch']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

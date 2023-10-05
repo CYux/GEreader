@@ -14,7 +14,7 @@ The chapter titled 'Charity in Full-Dress' revolves around the charity bazaar ev
 **Location**:
 St. Ogg's, at the charity bazaar
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ St. Ogg's, at the charity bazaar
 ** Plot Points**:
 ["Maggie's beauty is the center of attention at the bazaar", 'Stephen shows interest in Lucy, while Philip watches Maggie from a distance', 'Maggie struggles with her feelings for Stephen', 'Maggie reveals her plan to leave town and start a new job as a teacher']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['There was something rather bold in Miss Tulliver’s direct gaze, and something undefinably coarse in the style of her beauty', "Yes, Lucy, I would choose to marry him. I think it would be the best and highest lot for me,—to make his life happy. He loved me first. No one else could be quite what he is to me. But I can't divide myself from my brother for life. I must go away, and wait. Pray don’t speak to me again about it."]
 
 ** Chapter Keywords**:

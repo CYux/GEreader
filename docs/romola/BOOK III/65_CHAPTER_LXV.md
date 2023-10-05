@@ -13,7 +13,7 @@ In Chapter LXV of 'Romola', the people of Florence gather in the Piazza della Si
 **Location**:
 ['Piazza della Signoria', 'Florence']
 
-**Time_period**:
+**Time Period**:
 Late 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 15th century
 ** Plot Points**:
 ['The people of Florence gather in anticipation of a trial by fire involving Fra Girolamo Savonarola.', 'Disputes and delays prevent the trial from taking place.', 'An unexpected rainstorm ultimately ends the event.', 'The crowd turns against Savonarola, who leaves the Loggia under guard.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['It is a pity his falsehoods were not all of a wise sort. With the times so much on his side as they are about Church affairs, he might have done something great. (Niccolò Machiavelli)']
 
 ** Chapter Keywords**:

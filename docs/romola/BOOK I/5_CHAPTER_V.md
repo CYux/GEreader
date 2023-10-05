@@ -13,7 +13,7 @@ In Chapter V of "Romola", we see the relationship between Romola and her blind f
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Late 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 15th century
 ** Plot Points**:
 ["Bardo de' Bardi laments his blindness and the absence of his son.", 'Romola helps her father with his scholarly work and dreams of marrying a learned man.', 'Maso, the servant, announces the arrival of Nello and the Greek scholar Tito Melema.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['It is not just that my labor should bear the name of another man. It is but little to ask that my name should be over the door—that men should own themselves debtors to the Bardi Library in Florence.', 'For me, Romola, even when I could see, it was with the great dead that I lived; while the living often seemed to me mere spectres—shadows dispossessed of true feeling and intelligence.']
 
 ** Chapter Keywords**:

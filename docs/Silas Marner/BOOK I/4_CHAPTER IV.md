@@ -13,7 +13,7 @@ Dunstan Cass sets off in the morning, passing by the cottage of Silas Marner. Du
 **Location**:
 Raveloe, the lane by the Stone-pit, Silas Marner's cottage
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Raveloe, the lane by the Stone-pit, Silas Marner's cottage
 ** Plot Points**:
 ["Dunstan decides to sell his brother's horse", "Dunstan's horse, Wildfire, dies", "Dunstan discovers and steals Marner's hidden money"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['That was Dunstan’s first thought as he approached it; the second was, that the old fool of a weaver, whose loom he heard rattling already, had a great deal of money hidden somewhere.', 'In haste he lifted up two bricks, and saw what he had no doubt was the object of his search; for what could there be but money in those two leathern bags?']
 
 ** Chapter Keywords**:

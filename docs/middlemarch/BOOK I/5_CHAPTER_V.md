@@ -13,7 +13,7 @@ In Chapter V of Middlemarch, Mr. Casaubon writes a letter to Dorothea expressing
 **Location**:
 Tipton Grange
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Tipton Grange
 ** Plot Points**:
 ['Mr. Casaubon proposes to Dorothea', 'Dorothea accepts the proposal', 'Celia reacts with surprise but eventually supports Dorothea', 'The wedding is set for six weeks']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I am very grateful to you for loving me, and thinking me worthy to be your wife.', 'I hope you will be happy.', 'I shall pluck them with eagerness, to place them in your bosom.']
 
 ** Chapter Keywords**:

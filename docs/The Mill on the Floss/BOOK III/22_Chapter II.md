@@ -14,7 +14,7 @@ In this chapter, Tom and Maggie Tulliver return home to find a bailiff, represen
 **Location**:
 The Tulliver's home
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ The Tulliver's home
 ** Plot Points**:
 ['Tom and Maggie return home to find a bailiff at their house.', 'Mrs. Tulliver is distraught over the potential loss of their possessions and status.', 'Tom promises to find a way to earn money and take care of his mother.', 'Maggie becomes angry at the implied criticism of her father and defends him.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"We\'re ruined—everything\'s going to be sold up—to think as your father should ha’ married me to bring me to this! We’ve got nothing—we shall be beggars—we must go to the workhouse——"', '"But will my aunts let them be sold, mother? Do they know about it? They’ll never let your linen go, will they? Haven’t you sent to them?"', '"Mother, how can you talk so; as if you cared only for things with _your_ name on, and not for what has my father’s name too; and to care about anything but dear father himself!—when he’s lying there, and may never speak to us again."']
 
 ** Chapter Keywords**:

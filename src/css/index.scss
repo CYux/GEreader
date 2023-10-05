@@ -1,0 +1,43 @@
+hr{
+    border: 0;
+    height: 1px;
+    background-color: #ccc;
+}
+
+.sidebar{
+    background-color: var(--ifm-color-secondary-contrast-background);
+    width: 19%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    padding: 80px 2%;
+
+    a{
+        font-weight: 500;
+        color: var(--ifm-menu-color);
+        padding-top: var(--ifm-menu-link-padding-horizontal);
+        padding-bottom: var(--ifm-menu-link-padding-horizontal);
+    }
+
+}
+
+.index-container{
+    background: var(--ifm-background-colo);
+    padding: 20px 4% 20px 21%;
+    h2{
+        text-align: center;
+    }
+    .banner{
+        width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        img{
+            width: 90%;
+            border-radius: 8px;
+        }
+    }
+    p{
+        padding: 5px 16% 0 5%;
+    }
+}

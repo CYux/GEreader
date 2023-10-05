@@ -13,7 +13,7 @@ At a Christmas dinner party, the guests discuss Lydgate's dedication to his work
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Guests discuss Lydgate's dedication to the New Hospital", "Lydgate's extravagant lifestyle is mentioned", 'Mr. Farebrother tries to offer his help to Lydgate, but Lydgate rejects it']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I hope so,' said Mr. Chichely, 'else he ought not to have married that nice girl we were all so fond of. Hang it, one has a grudge against a man who carries off the prettiest girl in the town.'", "'You will never care any more about my one-eyed giant, Loo,' said Fred at the end.", "'A delightful young person is Miss Garth,' said Mrs. Farebrother, who had been watching her son’s movements."]
 
 ** Chapter Keywords**:

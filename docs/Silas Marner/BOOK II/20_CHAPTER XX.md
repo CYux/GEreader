@@ -13,7 +13,7 @@ Nancy and Godfrey discuss the revelation that Eppie is Godfrey's biological daug
 **Location**:
 Nancy and Godfrey's home
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Nancy and Godfrey's home
 ** Plot Points**:
 ["Nancy and Godfrey discuss Eppie's parentage", 'Godfrey expresses regret for his past actions', "They decide not to reveal Eppie's true parentage", 'Godfrey resolves to make Eppie happy in her chosen life']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'That’s ended!'", "'No,' said Godfrey, with a keen decisiveness of tone, in contrast with his usually careless and unemphatic speech—'there’s debts we can’t pay like money debts, by paying extra for the years that have slipped by.'", "'It’s part of my punishment, Nancy, for my daughter to dislike me.'", "'And I got _you_, Nancy, in spite of all; and yet I’ve been grumbling and uneasy because I hadn’t something else—as if I deserved it.'"]
 
 ** Chapter Keywords**:

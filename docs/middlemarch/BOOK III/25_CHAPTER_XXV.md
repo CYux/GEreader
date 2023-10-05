@@ -13,7 +13,7 @@ Fred Vincy confesses to Mary that he owes money and is unable to pay it back. Ma
 **Location**:
 Stone Court
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Stone Court
 ** Plot Points**:
 ['Fred confesses his debt to Mary', 'Mary gives her savings to her father to help pay off the debt', "Caleb warns Mary about Fred's character", "Mr. Featherstone suspects Caleb wanted Mary's earnings"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I am a good-for-nothing blackguard.”', '“I wouldn’t have hurt you for the world, Mary,”', '“You see, Mary, a woman, let her be as good as she may, has got to put up with the life her husband makes for her.”', '“I consider my father and mother the best part of myself, sir,”']
 
 ** Chapter Keywords**:

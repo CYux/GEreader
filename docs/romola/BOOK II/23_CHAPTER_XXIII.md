@@ -13,7 +13,7 @@ In this chapter, Tito is confronted by Baldassarre, who he believed to be dead. 
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Tito is confronted by Baldassarre, who he believed to be dead. 
 ** Plot Points**:
 ['Tito is confronted by Baldassarre, whom he thought was dead.', 'Tito denies recognizing Baldassarre and claims he is mad.', "Tito fears Baldassarre's potential revenge and tries to devise ways to protect himself."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He felt as if a serpent had begun to coil round his limbs.', 'The repentance which cuts off all moorings to evil, demands something more than selfish fear.', 'He had simply chosen to make life easy to himself - to carry his human lot, if possible, in such a way that it should pinch him nowhere;']
 
 ** Chapter Keywords**:

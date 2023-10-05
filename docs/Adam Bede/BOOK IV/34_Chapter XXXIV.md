@@ -15,7 +15,7 @@ On a dry Sunday in November, Adam Bede joins the Poyser family after church and 
 **Location**:
 A village in England, Poyser family home
 
-**Time_period**:
+**Time Period**:
 18th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ A village in England, Poyser family home
 ** Plot Points**:
 ['Adam walks home with the Poyser family from church.', 'Adam proposes to Hetty during the walk, and she accepts.', 'Adam announces their engagement to the Poyser family.', 'The family discusses the possibility of Adam and Hetty needing a new home after their marriage.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I could afford to be married now, Hetty—I could make a wife comfortable; but I shall never want to be married if you won’t have me.', 'Do you really love me, Hetty? Will you be my own wife, to love and take care of as long as I live?', 'I hope you have no objections against me for her husband. I’m a poor man as yet, but she shall want nothing as I can work for.']
 
 ** Chapter Keywords**:

@@ -15,7 +15,7 @@ Adam returns from work and prepares to visit the Hall Farm. His mother, Lisbeth,
 **Location**:
 Hall Farm
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -24,7 +24,7 @@ Unknown
 ** Plot Points**:
 ["Adam leaves for the Hall Farm despite his mother's objections", 'Adam helps Mrs. Poyser and Nancy in the dairy', 'Adam and Hetty walk together in the garden', 'Adam plans to start a business with Seth', 'Adam leaves to visit Mr. Massey']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Nay, nay, Mother...So let us have no more words about it.”', '“Oh, I used to watch ’em often when I was a lad...it was a laughable surprise enough to see them replaced by Hetty’s round rosy cheeks and coquettish dark eyes.”', '“I shall take a step farther,” said Adam, “and go on to see Mester Massey...And Bartle himself’s never in bed till it’s gone eleven.”']
 
 ** Chapter Keywords**:

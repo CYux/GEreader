@@ -14,7 +14,7 @@ In this chapter, Philip Wakem reveals his love for Maggie Tulliver to his father
 **Location**:
 Philip's painting-room and Mr. Deane's house
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Philip's painting-room and Mr. Deane's house
 ** Plot Points**:
 ['Philip reveals his love for Maggie to his father and his wish to marry her.', 'Mr. Wakem initially opposes the idea due to his feud with the Tullivers.', 'Philip passionately argues for his right to happiness and love.', 'Mr. Wakem eventually gives his consent but refuses to deal directly with Tom Tulliver.', "Philip informs Mr. Deane of Mr. Wakem's decision to negotiate for the mill and land."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I love her dearly; I shall never love any other woman. I have thought of her ever since she was a little girl.'", "'No, father,' said Philip, looking up at him for the first time; 'I don’t regard it as a return. You have been an indulgent father to me; but I have always felt that it was because you had an affectionate wish to give me as much happiness as my unfortunate lot would admit, not that it was a debt you expected me to pay by sacrificing all my chances of happiness to satisfy feelings of yours which I can never share.'", "'Ah, Phil, you’re the only fellow that knows the best of me,' said Wakem, giving his hand to his son. 'We must keep together if we can. And now, what am I to do? You must come downstairs and tell me. Am I to go and call on this dark-eyed damsel?'"]
 
 ** Chapter Keywords**:

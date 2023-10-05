@@ -13,7 +13,7 @@ In this chapter, Caterina Sarti, an adopted ward, is introduced. She is a talent
 **Location**:
 Cheverel Manor
 
-**Time_period**:
+**Time Period**:
 21st of June 1788
 
 **Themes**:
@@ -22,7 +22,7 @@ Cheverel Manor
 ** Plot Points**:
 ["Caterina's unrequited love for Captain Wybrow", "Mr. Gilfil's affection for Caterina", "Captain Wybrow's impending engagement"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Why did he make me love him--why did he let me know he loved me, if he knew all the while that he couldn’t brave everything for my sake?'", "'Don’t let us part in anger, Tina. All this may pass away. It’s as likely as not that I may never marry any one at all.'"]
 
 ** Chapter Keywords**:

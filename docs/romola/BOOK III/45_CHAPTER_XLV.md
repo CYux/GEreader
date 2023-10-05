@@ -13,7 +13,7 @@ Tito returns to Florence and stops at Nello's barbershop. While there, he chats 
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Italian Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Italian Renaissance
 ** Plot Points**:
 ["Tito returns to Florence and stops at Nello's barbershop.", 'The men discuss the power of Fra Girolamo Savonarola and his potential threat to the Church and the Pope.', 'Tito learns that Giannozzo Pucci is at his villa, which is useful information for him as he has a secret mission to deliver a ring to Pucci.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"But let events go against him, so as to shake the people\'s faith, and the cause of his power will be the cause of his fall." (Macchiavelli, about Savonarola)', '"If a prophet is to keep his power, he must be a prophet like Mahomet, with an army at his back, that when the people\'s faith is fainting it may be frightened into life again." (Macchiavelli)', '"It is too true, Nello. She has been depriving herself of half her proper food _every_ day during this famine. But what can I do? Her mind has been set all aflame. A husband\'s influence is powerless against the Frate\'s." (Tito, about Romola)']
 
 ** Chapter Keywords**:

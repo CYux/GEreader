@@ -13,7 +13,7 @@ In this chapter of 'Daniel Deronda', Grandcourt continues his pursuit of Gwendol
 **Location**:
 Diplow
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Grandcourt continues to pursue Gwendolen', 'Gwendolen is unsure of her feelings towards Grandcourt', "Mr. Gascoigne advises Gwendolen to accept Grandcourt's proposal"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I suppose that is what he has been thinking of. But he may have changed his mind to-morrow,” said Gwendolen.', '“I am not sure that I had any reasons, uncle.” Gwendolen laughed rather artificially.', '“I hope mamma will be the happier,” said Gwendolen, in a more cheerful way, lifting her hands backward to her neck and moving toward the door.']
 
 ** Chapter Keywords**:

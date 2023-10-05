@@ -13,7 +13,7 @@ In this chapter, Captain Wybrow discusses Caterina's behaviour with Miss Assher.
 **Location**:
 The Manor
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Manor
 ** Plot Points**:
 ["Captain Wybrow discusses Caterina's behaviour with Miss Assher", "Captain Wybrow and Sir Christopher discuss Caterina's marriage to Mr. Gilfil", "Mr. Gilfil writes a letter to Caterina warning her about Sir Christopher's plans", 'Caterina destroys a miniature portrait of Captain Wybrow', "Caterina reads Mr. Gilfil's letter and is touched by his kindness"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It is very adroit of you to make these evasions, but do not suppose that they deceive me. Miss Sarti would never dare to behave to you as she does, if you had not flirted with her, or made love to her.'", "'I have no explanation, my dear Beatrice,' he answered at last, making a strong effort over himself, 'except what I have already given you. I hoped you would never recur to the subject.'", "'Dear, good Maynard!--what a poor return I make him! If I could but have loved him instead--but I can never love or care for anything again. My heart is broken.'"]
 
 ** Chapter Keywords**:

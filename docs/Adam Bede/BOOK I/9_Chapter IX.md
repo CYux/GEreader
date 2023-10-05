@@ -15,7 +15,7 @@ The chapter focuses on Hetty, a beautiful young woman who attracts the admiratio
 **Location**:
 Hayslope
 
-**Time_period**:
+**Time Period**:
 Late 18th to early 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th to early 19th century
 ** Plot Points**:
 ['Hetty enjoys the attention from men but is not interested in marrying Adam.', "Hetty is intrigued by Mr. Arthur Donnithorne's attention.", 'Mr. Irwine suggests that Adam should marry Mary Burge.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Bright, admiring glances from a handsome young gentleman with white hands, a gold chain, occasional regimentals, and wealth and grandeur immeasurable—those were the warm rays that set poor Hetty’s heart vibrating and playing its little foolish tunes over and over again.', 'But as to marrying Adam, that was a very different affair! There was nothing in the world to tempt her to do that.', "Arthur knew the rector too well to suppose that a clever invention would be of any use, so he said, with his accustomed frankness, 'No, I went to look at the pretty butter-maker Hetty Sorrel. She’s a perfect Hebe; and if I were an artist, I would paint her.'"]
 
 ** Chapter Keywords**:

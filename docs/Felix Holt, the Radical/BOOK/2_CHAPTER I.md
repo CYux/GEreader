@@ -13,7 +13,7 @@ In this chapter, Mrs. Transome eagerly awaits the arrival of her son, Harold, wh
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 1832
 
 **Themes**:
@@ -22,7 +22,7 @@ Transome Court
 ** Plot Points**:
 ['Mrs. Transome eagerly awaits the arrival of her son, Harold', 'Harold reveals that he is a Radical, which upsets Mrs. Transome', "Mrs. Transome begins to doubt that Harold's return will bring her happiness"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"You would not have known me, eh, mother?" - Harold', '"I am afraid of ever expecting anything good again." - Mrs. Transome']
 
 ** Chapter Keywords**:

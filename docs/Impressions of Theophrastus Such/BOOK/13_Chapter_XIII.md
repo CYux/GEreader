@@ -13,7 +13,7 @@ Summary: In this chapter of 'Impressions of Theophrastus Such,' George Eliot dis
 **Location**:
 Not specified
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified
 ** Plot Points**:
 ["The narrator observes people's self-deception and false testimonies.", "Callista's confusion and inaccuracy are contrasted with true imagination.", 'The importance of keen perception and understanding of reality in imagination is discussed.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['But certainly nature has taken care that this danger should not at present be very threatening.', 'To correct such self-flatterers as Callista, it is worth repeating that powerful imagination is not false outward vision, but intense inward representation, and a creative energy constantly fed by susceptibility to the veriest minutiae of experience.']
 
 ** Chapter Keywords**:

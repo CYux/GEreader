@@ -13,7 +13,7 @@ In this chapter, Lydgate speaks to Miss Vincy about Mrs. Casaubon and her strong
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ['Lydgate and Rosamond discuss Mrs. Casaubon', 'Mrs. Bulstrode confronts Rosamond about her rumored engagement', 'Lydgate and Rosamond have a misunderstanding and declare their love for each other', 'They become engaged']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Of course she is devoted to her husband,” said Rosamond, implying a notion of necessary sequence which the scientific man regarded as the prettiest possible for a woman.', '“That is true, Mademoiselle de Montmorenci,” said Lydgate, just bending his head to the table and lifting with his fourth finger her delicate handkerchief which lay at the mouth of her reticule, as if to enjoy its scent, while he looked at her with a smile.', '“What! you are going to get lashed to the mast, eh, and are stopping your ears?” said the Vicar.', '“What is the matter? you are distressed. Tell me, pray.”']
 
 ** Chapter Keywords**:

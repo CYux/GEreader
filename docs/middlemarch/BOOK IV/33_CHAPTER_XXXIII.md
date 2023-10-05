@@ -13,7 +13,7 @@ In Chapter XXXIII of Middlemarch, Mary Garth sits alone in Mr. Featherstone's ro
 **Location**:
 Mr. Featherstone's room
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mr. Featherstone's room
 ** Plot Points**:
 ["Mary refuses to retrieve Mr. Featherstone's will from his iron chest", 'Mr. Featherstone becomes agitated and offers Mary money', 'Mary waits for Mr. Featherstone to fall asleep', 'Mr. Featherstone dies']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I will not let the close of your life soil the beginning of mine. I will not touch your iron chest or your will.”', '“You’ll never have the chance again. It’s pretty nigh two hundred—there’s more in the box, and nobody knows how much there was. Take it and do as I tell you.”']
 
 ** Chapter Keywords**:

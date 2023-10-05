@@ -13,7 +13,7 @@ Tito and Romola unexpectedly meet and walk home together, during which they over
 **Location**:
 ['A street in Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century, during the Italian Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Tito and Romola unexpectedly meet and walk home together, during which they over
 ** Plot Points**:
 ['Tito and Romola encounter each other on the street.', 'They overhear Dolfo Spini discussing a plot to betray the Frate.', 'Romola confronts Tito about the plot and demands the truth.', 'Tito remains evasive but insists he has no intention of aiding in the betrayal.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I will not go on,' she said. 'I will not move nearer home until I have some security against this treachery being perpetrated.'", 'Then you assure me that the Frate is warned—he will not go beyond the gates?', 'He shall not go beyond the gates.']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Mordecai's fervent hope and belief that he will find a young ea
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Mordecai hopes to find a young person to pass on his knowledge and beliefs.', 'He has a clear image of the person he is waiting for: a Jew, intellectually cultured, morally fervid, beautiful, strong, refined, and free from sordid need.', 'Despite setbacks, he remains hopeful and continues to teach Jacob.', 'His health continues to decline, and he yearns for the open sky and the river.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Away from me the garment of forgetfulness. Withering the heart; The oil and wine from presses of the Goyim, Poisoned with scorn.', 'Solitude is on the sides of Mount Nebo, In its heart a tomb: There the buried ark and golden cherubim Make hidden light.', 'Smite and shatter it, O Gabriel! Shatter it as the clay of the founder Around the golden image.']
 
 ** Chapter Keywords**:

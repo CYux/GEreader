@@ -14,7 +14,7 @@ This chapter delves into the religious and moral beliefs of the Dodson and Tulli
 **Location**:
 Banks of the Floss, Dorlcote Mill
 
-**Time_period**:
+**Time Period**:
 Not specified, but likely 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Not specified, but likely 19th Century
 ** Plot Points**:
 ["The Dodson and Tulliver families' religious and moral beliefs are examined and found to be simplistic and traditional.", 'The Dodsons are shown to be cautious and prudent, while the Tullivers are more impulsive and generous.', 'Both families place a high value on maintaining respectability and avoiding disgrace.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The suffering, whether of martyr or victim, which belongs to every historical advance of mankind, is represented in this way in every town, and by hundreds of obscure hearths.', 'The religion of the Dodsons consisted in revering whatever was customary and respectable.', 'To be honest and poor was never a Dodson motto, still less to seem rich though being poor; rather, the family badge was to be honest and rich, and not only rich, but richer than was supposed.']
 
 ** Chapter Keywords**:

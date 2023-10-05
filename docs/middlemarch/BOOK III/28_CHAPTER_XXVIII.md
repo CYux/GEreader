@@ -13,7 +13,7 @@ Dorothea and Mr. Casaubon return from their wedding journey to Lowick Manor. Dor
 **Location**:
 Lowick Manor
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Lowick Manor
 ** Plot Points**:
 ['Dorothea is disappointed with her new life', 'Celia reveals her engagement to Sir James', 'Dorothea reassures Celia', "Celia expresses concern about Dorothea's scholarly pursuits"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Oh, it was cruel to speak so! How sad—how dreadful!'"]
 
 ** Chapter Keywords**:

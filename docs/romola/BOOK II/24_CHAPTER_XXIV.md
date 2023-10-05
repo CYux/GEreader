@@ -13,7 +13,7 @@ In this chapter, Baldassarre enters the Duomo and listens to a passionate sermon
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th Century (Renaissance)
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Baldassarre enters the Duomo and listens to a passionate sermon
 ** Plot Points**:
 ["Baldassarre enters the Duomo and is drawn to Savonarola's sermon.", 'Savonarola preaches about the coming of divine vengeance and the need for repentance.', 'Baldassarre is deeply affected by the promise of unending vengeance.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The day of vengeance is at hand!', 'The sword of God upon the earth, swift and sudden!', 'Let my blood flow; let the fire consume me!']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Christian starts to piece together the puzzle of Esther's paren
 **Location**:
 Malthouse Yard
 
-**Time_period**:
+**Time Period**:
 Mid 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid 19th century
 ** Plot Points**:
 ["Christian's suspicions about Esther's parentage", "Christian's distrust of Jermyn", "Christian's confrontation with Mr. Lyon", "Mr. Lyon's confirmation of Esther's parentage", "Mr. Lyon's resolution to tell Esther the truth"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Sir!' said Mr. Lyon, shaken out of all reticence. 'I would not conceal it. She believes herself to be my daughter. But I will bear all things rather than deprive her of a right.'", "'I will not wait for the urgency of necessity,' he said more than once. 'I will tell the child without compulsion. And then I shall fear nothing. And an unwonted spirit of tenderness has filled her of late. She will forgive me.'"]
 
 ** Chapter Keywords**:

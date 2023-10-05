@@ -13,7 +13,7 @@ In this chapter from 'Impressions of Theophrastus Such' (1879) by George Eliot, 
 **Location**:
 Europe
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Europe
 ** Plot Points**:
 ['Comparison of Jewish history to other European nations', 'The unique challenges faced by the Jews due to their dispersion and persecution', 'The resilience and pride of the Jewish people despite their hardships', 'The rise of Jews to positions of prominence in various countries']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The Jews, it is said, resisted the expansion of their own religion into Christianity; they were in the habit of spitting on the cross; they have held the name of Christ to be Anathema.', 'There is still a great function for the steadfastness of the Jew: not that he should shut out the utmost illumination which knowledge can throw on his national history, but that he should cherish the store of inheritance which that history has left him.']
 
 ** Chapter Keywords**:

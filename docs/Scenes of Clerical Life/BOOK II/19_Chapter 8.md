@@ -13,7 +13,7 @@ In this chapter, tensions arise between Miss Assher, Captain Wybrow, and Caterin
 **Location**:
 Indoor setting, presumably a drawing room in a house
 
-**Time_period**:
+**Time Period**:
 Not specified, but the language and societal norms suggest it's likely in the 18th or 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified, but the language and societal norms suggest it's likely in the 18
 ** Plot Points**:
 ["Miss Assher's suspicion of Caterina and Captain Wybrow's relationship", "Captain Wybrow's denial and justification of his closeness with Caterina", "Miss Assher's confrontation with Captain Wybrow", "Captain Wybrow soothing Miss Assher's doubts", 'Miss Assher agreeing to go for a ride with Captain Wybrow']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Sisters don’t generally colour so very deeply when their brothers approach them.'", "'Can you not trust me, Beatrice? Can you not believe me, although there may be things I am unable to explain?'", "'It is very plain that there is some relation more than friendship between you and Miss Sarti. Since you cannot explain that relation, there is no more to be said between us.'"]
 
 ** Chapter Keywords**:

@@ -14,7 +14,7 @@ In this chapter, the focus is on the relationship between Tom and Philip, their 
 **Location**:
 The setting is primarily the school run by Mr Stelling, with some events taking place in the village and Tom's bedroom.
 
-**Time_period**:
+**Time Period**:
 Early 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Early 19th Century
 ** Plot Points**:
 ["Tom and Philip's schoolboy relationship is marked by Tom's initial prejudice against Philip.", "Tom's struggle with his education under Mr Stelling is outlined.", 'Mr Poulter is introduced as the village schoolmaster who drills Tom.', "Tom's fascination with warfare and Mr Poulter's sword is shown.", "Tom manages to borrow Mr Poulter's sword with the intention of showing it to Maggie."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"But then it was impossible not to like Philip’s company when he was in a good humour; he could help one so well in one’s Latin exercises."', '"Mr Tulliver, having a vague intention that Tom should be put to some business which included the drawing out of plans and maps."', '"Mr Poulter, who was understood by the company at the Black Swan to have once struck terror into the hearts of the French, was no longer personally formidable."', '"Tom ran in to Philip, who was enjoying his afternoon’s holiday at the piano, in the drawing-room, picking out tunes for himself and singing them."']
 
 ** Chapter Keywords**:

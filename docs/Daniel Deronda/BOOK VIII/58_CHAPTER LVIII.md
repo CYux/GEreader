@@ -13,7 +13,7 @@ In this chapter, the news of Grandcourt's death reaches the Gascoigne and Davilo
 **Location**:
 The Gascoigne and Davilow households
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Gascoigne and Davilow households
 ** Plot Points**:
 ["News of Grandcourt's death arrives", "Rex's old feelings for Gwendolen resurface", 'Mr. Gascoigne prepares to travel to Gwendolen', 'Mrs. Davilow decides to go to Genoa to be with her daughter']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['My dears, Mr. Grandcourt is drowned.', 'She would never love me; and that is not the question—I could never approach her as a lover in her present position.']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter of 'Romola', the city of Florence is preparing for a new kind of
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Late 15th century, during the Italian Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 15th century, during the Italian Renaissance
 ** Plot Points**:
 ['The Piagnoni organize the Burning of Vanities to cleanse the city of immoral influences.', "Romola encounters Piero di Cosimo, who criticizes the Piagnoni's actions.", "Romola sympathizes with the Piagnoni's cause, as her own life experiences have led her to appreciate the value of self-denial and focusing on higher purposes."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Do not be afraid; no one shall harm you.', "I can't give them to be burnt. My husband - he bought them for me - and they are so pretty - and Ninna - oh, I wish I'd never come!"]
 
 ** Chapter Keywords**:

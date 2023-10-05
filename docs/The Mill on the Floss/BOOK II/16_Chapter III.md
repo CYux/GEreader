@@ -14,7 +14,7 @@ In this chapter, Tom Tulliver returns to school and meets his new schoolfellow, 
 **Location**:
 Mr Stelling's school
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Early 19th century
 ** Plot Points**:
 ["Tom's return to school", 'Introduction of Philip Wakem', "Tom's initial disdain and eventual fascination with Philip", "Tom's query about Philip's relationship with his father", "Philip's demonstration of his knowledge and drawing skills"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Tom felt in an uncomfortable flutter as he took off his woollen comforter and other wrappings.', 'Still, no face could be more unlike that ugly tailor’s than this melancholy boy’s face.', 'I can’t think why anybody should learn Latin,” said Tom. “It’s no good.”', '“Yes,” said Philip, “lots of them, besides the Greek stories. I can tell you about Richard Cœur-de-Lion and Saladin, and about William Wallace and Robert Bruce and James Douglas,—I know no end.”']
 
 ** Chapter Keywords**:

@@ -15,7 +15,7 @@ The chapter is set in the evening at Adam Bede’s timber-yard. Dinah, Seth and 
 **Location**:
 Adam Bede’s timber-yard
 
-**Time_period**:
+**Time Period**:
 1807
 
 **Themes**:
@@ -24,7 +24,7 @@ Adam Bede’s timber-yard
 ** Plot Points**:
 ["The family's anticipation of Adam's return", "Adam's meeting with Arthur", "Arthur's remorse about Hetty", 'Arrival of Mr. and Mrs. Poyser']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'He’s been longer than he expected,' said Dinah, taking Arthur’s watch from a small side pocket and looking at it; 'it’s nigh upon seven now.'", "‘I hope she isn’t altered,’ he said, ‘I remember her face so well.’ I told him ‘no,’” Adam continued, looking fondly at the eyes that were turned towards his, 'only a bit plumper, as thee’dst a right to be after seven year.'", "'I could never do anything for her, Adam—she lived long enough for all the suffering—and I’d thought so of the time when I might do something for her. But you told me the truth when you said to me once, “There’s a sort of wrong that can never be made up for.”’"]
 
 ** Chapter Keywords**:

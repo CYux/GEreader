@@ -13,7 +13,7 @@ In this chapter, Ladislaw declines Mr. Brooke's invitation to visit and instead 
 **Location**:
 The Grange, Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Grange, Middlemarch
 ** Plot Points**:
 ["Ladislaw declines Mr. Brooke's invitation and leaves for the Continent", "Mr. Casaubon mentions Ladislaw's departure without giving specifics", 'Dorothea eagerly anticipates her marriage to Mr. Casaubon', 'A dinner party is held at the Grange with various conversations and observations', 'Mr. Lydgate, a new doctor in town, is introduced to the guests', 'Dorothea and Mr. Casaubon leave for Rome']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I should feel more at liberty if you had a companion.' - Mr. Casaubon", "'You must have misunderstood me very much if you think I should not enter into the value of your time.' - Dorothea", "'She is a good creature—that fine girl—but a little too earnest.' - Mr. Lydgate"]
 
 ** Chapter Keywords**:

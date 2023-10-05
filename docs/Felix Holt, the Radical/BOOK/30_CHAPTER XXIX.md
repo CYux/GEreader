@@ -13,7 +13,7 @@ The chapter begins with an elaborate metaphor comparing the game of chess to the
 **Location**:
 Treby
 
-**Time_period**:
+**Time Period**:
 Mid-19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid-19th century
 ** Plot Points**:
 ["Johnson's growing resentment towards Jermyn", "Johnson's double agent role in the election", "Christian and Johnson's independent investigations into Bycliffe's potential claim"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['You might be the longest-headed of deductive reasoners, and yet you might be beaten by your own pawns.', 'To act with doubleness towards a man whose conduct was double, was so near an approach to virtue that it deserved to be called by no meaner name than diplomacy.']
 
 ** Chapter Keywords**:

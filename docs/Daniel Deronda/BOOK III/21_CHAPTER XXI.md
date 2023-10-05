@@ -13,7 +13,7 @@ Gwendolen Harleth returns home to find her family's financial situation has wors
 **Location**:
 Offendene, England
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Offendene, England
 ** Plot Points**:
 ['Gwendolen returns home to find her family in financial ruin', 'Mrs. Davilow suggests Gwendolen become a governess', 'Gwendolen refuses and decides to seek advice from Herr Klesmer']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'But I don't resign myself. I shall do something. I will be something. Things will come right. It seemed worse because I was away. Come now! you must be glad because I am here.'", "'There is some one else I want to consult first. Are the Arrowpoints at Quetcham still, and is Herr Klesmer there?'"]
 
 ** Chapter Keywords**:

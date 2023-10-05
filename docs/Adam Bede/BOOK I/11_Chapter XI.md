@@ -15,7 +15,7 @@ In this chapter, Dinah, a pious Methodist, rises early in the morning and begins
 **Location**:
 The Bede's house
 
-**Time_period**:
+**Time Period**:
 18th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ The Bede's house
 ** Plot Points**:
 ['Dinah cleans the house early in the morning', 'Adam and Dinah converse in the kitchen', 'Adam begins to develop feelings for Dinah', "Adam and Seth discuss the making of their father's coffin", 'Adam reflects on the complexities of love and life']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“There’s nothing but what’s bearable as long as a man can work,” he said to himself; “the natur o’ things doesn’t change, though it seems as if one’s own life was nothing but change.', '“How do you do, Adam Bede?” said Dinah, in her calm treble, pausing from her sweeping and fixing her mild grave eyes upon him.', '“I like th’ hills best,” said Seth, “when the clouds are over your head and you see the sun shining ever so far off, over the Loamford way, as I’ve often done o’ late, on the stormy days.', '“God help the lad, and me too,” he thought, as he lifted the board. “We’re like enough to find life a tough job—hard work inside and out. It’s a strange thing to think of a man as can lift a chair with his teeth and walk fifty mile on end, trembling and turning hot and cold at only a look from one woman out of all the rest i’ the world. It’s a mystery we can give no account of; but no more we can of the sprouting o’ the seed, for that matter.”']
 
 ** Chapter Keywords**:

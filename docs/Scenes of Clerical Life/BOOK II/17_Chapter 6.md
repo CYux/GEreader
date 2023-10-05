@@ -13,7 +13,7 @@ In this chapter, Caterina is trying to cope with her heartbreak after Captain Wy
 **Location**:
 Cheverel Manor
 
-**Time_period**:
+**Time Period**:
 18th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Cheverel Manor
 ** Plot Points**:
 ['Caterina is trying to cope with her heartbreak', 'Captain Wybrow and Caterina have an intimate moment when left alone', "Their encounter is interrupted by Miss Assher's arrival", 'Caterina flees the room in emotional turmoil']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘Well, Tina, and how have you been all this long time?’', '‘I think you needn’t ask. It doesn’t make much difference to you.’', '‘I hoped you would think all the better of me, Tina, for doing as I have done, instead of bearing malice towards me. I hoped you would see that it is the best thing for every one--the best for your happiness too.’', '‘O pray don’t make love to Miss Assher for the sake of my happiness,’ answered Tina.']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ Lydgate returns home after Mrs. Bulstrode's visit and rides out of town to avoid
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Lydgate feels his reputation is damaged', 'He considers his options for vindicating himself', 'Lydgate reflects on his sense of obligation to Bulstrode', 'He decides to stay in Middlemarch and face the accusations', "Lydgate worries about Rosamond's reaction"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['My practice and my reputation are utterly damned—I can see that.', 'He would face it to the utmost, and no act of his should show that he was afraid.', 'He preferred waiting for the incidental disclosure which events must soon bring about.']
 
 ** Chapter Keywords**:

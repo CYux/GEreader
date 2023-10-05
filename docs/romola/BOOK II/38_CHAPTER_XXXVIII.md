@@ -13,7 +13,7 @@ In this chapter, Baldassarre's memory has returned, and he is filled with a desi
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance
 ** Plot Points**:
 ["Baldassarre's memory returns", 'Baldassarre seeks information on Tito', 'Baldassarre fears losing his memory again']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He was content to lie hard, and live stintedly - he had spent the greater part of his remaining money in buying another poniard: his hunger and his thirst were after nothing exquisite but an exquisite vengeance.']
 
 ** Chapter Keywords**:

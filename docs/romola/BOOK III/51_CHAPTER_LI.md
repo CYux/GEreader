@@ -13,7 +13,7 @@ In this chapter, Monna Brigida, Romola's cousin, undergoes a transformation and 
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Renaissance Italy
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance Italy
 ** Plot Points**:
 ['Brigida is confronted by the boys', 'Brigida gives up her jewelry and makeup', 'Brigida decides to become a Piagnone']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'If I'm to be a Piagnone it's no matter how I look!'"]
 
 ** Chapter Keywords**:

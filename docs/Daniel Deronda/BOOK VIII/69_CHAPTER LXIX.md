@@ -13,7 +13,7 @@ In this chapter of "Daniel Deronda" by George Eliot, Sir Hugo spends the autumn 
 **Location**:
 Diplow
 
-**Time_period**:
+**Time Period**:
 Not specified
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified
 ** Plot Points**:
 ["Sir Hugo is annoyed by Deronda's engagement to Mirah", 'Deronda reveals his Jewish heritage to Gwendolen', 'Deronda informs Gwendolen of his plans to leave for the East', 'Gwendolen is devastated by the news']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I shall live. I mean to live."']
 
 ** Chapter Keywords**:

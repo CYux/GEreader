@@ -13,7 +13,7 @@ Dorothea is determined to clear Lydgate's name and believes in his innocence. Si
 **Location**:
 The Manor
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The Manor
 ** Plot Points**:
 ["Dorothea wants to clear Lydgate's name", 'Sir James and Mr. Farebrother advise caution', 'Dorothea becomes discouraged', 'Dorothea talks to Celia', 'Dorothea becomes upset and then laughs']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['What do we live for, if it is not to make life less difficult to each other?', 'Character is not cut in marble—it is not something solid and unalterable. It is something living and changing, and may become diseased as our bodies do.', 'I only want not to have my feelings checked at every turn.', 'I should not give up to James when I knew he was wrong, as you used to do to Mr. Casaubon.']
 
 ** Chapter Keywords**:

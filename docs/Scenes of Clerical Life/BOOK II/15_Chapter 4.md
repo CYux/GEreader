@@ -13,7 +13,7 @@ In this chapter, the story revolves around the life of Caterina, an adopted chil
 **Location**:
 Cheverel Manor
 
-**Time_period**:
+**Time Period**:
 Late 18th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 18th century
 ** Plot Points**:
 ["Caterina's adoption and life at Cheverel Manor", "Caterina's relationship with Maynard Gilfil", "Caterina's growing affection for Anthony Wybrow", "Sir Christopher's plan for Anthony to marry Miss Assher", "Anthony's departure for Bath to court Miss Assher"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Caterina soon conquered all prejudices against her foreign blood; for what prejudices will hold out against helplessness and broken prattle?'", "'With Caterina for a wife, too,' Sir Christopher soon began to think; for though the good Baronet was not at all quick to suspect what was unpleasant and opposed to his views of fitness, he was quick to see what would dovetail with his own plans; and he had first guessed, and then ascertained, by direct inquiry, the state of Maynard’s feelings.", "'You won’t forget me, Tina, before I come back again? I shall leave you all the whip-cord we’ve made; and don’t you let Guinea die. Come, give me a kiss, and promise not to forget me.'"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, the famous musician Klesmer visits the Meyrick household to hea
 **Location**:
 Meyrick household
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Klesmer visits the Meyrick household to hear Mirah sing.', "Impressed with Mirah's singing, Klesmer suggests she could earn an income by singing in private drawing rooms.", 'Klesmer invites Mirah to sing at a private concert at his house.', "A discussion about Mirah's identity as a Jewess and her need for a new dress for her performance ensues.", 'Hans continues to harbor feelings for Mirah and is hopeful about their relationship.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"She will do: if she doesn’t attempt too much and her voice holds out, she can make an income."', '"I am too happy," said Mirah. "I feel so full of gratitude to you all; and he was so very kind."', '"I think it is what Mr. Deronda would like—for her to have a handsome dress," said Mrs. Meyrick.', '"I wish to do what Mr. Deronda would like me to do," said Mirah, gravely.', '"Thank you. But you have never done anything I did not like. I hardly think he could, belonging to you," she added, looking at Mrs. Meyrick.']
 
 ** Chapter Keywords**:

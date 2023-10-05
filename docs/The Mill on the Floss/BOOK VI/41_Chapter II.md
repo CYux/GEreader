@@ -14,7 +14,7 @@ In this chapter, Lucy introduces Maggie to her fiancé, Stephen Guest. Maggie is
 **Location**:
 St. Ogg's
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -23,7 +23,7 @@ Unknown
 ** Plot Points**:
 ['Lucy introduces Maggie to Stephen', 'Maggie and Stephen go rowing on the river', 'Plans are made for Maggie to borrow a dress from Aunt Pullet']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I shall be very difficult to please,” said Maggie, smiling, and holding up one of Lucy’s long curls, that the sunlight might shine through it.', '“I’ve always liked Philip Wakem ever since I was a little girl, and saw him at Lorton. He was so good when Tom hurt his foot.”', '“I shall not be satisfied until I can manage both oars, and row you and Lucy,” she said, looking very bright as she stepped out of the boat.']
 
 ** Chapter Keywords**:

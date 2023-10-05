@@ -13,7 +13,7 @@ In this chapter from 'Impressions of Theophrastus Such', the narrator discusses 
 **Location**:
 Unspecified
 
-**Time_period**:
+**Time Period**:
 Unspecified (likely late 19th century)
 
 **Themes**:
@@ -22,7 +22,7 @@ Unspecified (likely late 19th century)
 ** Plot Points**:
 ["The narrator describes Hinze's excessively deferential and insincere mannerisms.", 'Hinze engages in conversation with Felicia, a clever woman, and overacts in his admiration for her opinions.', "Hinze's behavior is driven by a desire to be agreeable rather than any specific goal or ambition.", "The narrator expresses frustration with Hinze's insincerity, as it lacks any deep motivation."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He is the superlatively deferential man, and walks about with murmured wonder at the wisdom and discernment of everybody who talks to him.', 'He has not enough of deep and lasting impression to find a contrast or diversity between his words and his thoughts.']
 
 ** Chapter Keywords**:

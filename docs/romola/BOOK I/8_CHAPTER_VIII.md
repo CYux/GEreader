@@ -13,7 +13,7 @@ In this Chapter of George Eliot's novel "Romola," the city of Florence is celebr
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 1492
 
 **Themes**:
@@ -22,7 +22,7 @@ In this Chapter of George Eliot's novel "Romola," the city of Florence is celebr
 ** Plot Points**:
 ['The procession celebrates the Feast of San Giovanni, the patron saint of Florence.', 'Tito is intrigued by a Dominican friar whose face seems familiar but cannot recall who he is.', "Various characters discuss the significance of the procession, the political situation in Florence, and Tito's romantic interest in Romola."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"There has been no great people without processions, and the man who thinks himself too wise to be moved by them to anything but contempt, is like the puddle that was proud of standing alone while the river rushed by." - Pietro Cennini']
 
 ** Chapter Keywords**:

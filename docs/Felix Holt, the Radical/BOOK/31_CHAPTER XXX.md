@@ -13,7 +13,7 @@ In this chapter, Felix Holt attends the nomination of candidates for North Loams
 **Location**:
 Duffield
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Duffield
 ** Plot Points**:
 ['Felix attends the nomination of candidates for North Loamshire', 'He criticizes the trickery and corruption involved in the election process', 'Felix argues that voting alone will not bring true political power', "Christian meets with Johnson to discuss the Transome estate and Esther's claim"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["The greatest question in the world is, how to give every man a man's share in what goes on in life.", 'We must have universal suffrage, and annual Parliaments, and the vote by ballot, and electoral districts.', "The power would lie with the seventy drunken and stupid votes; and I'll tell you what sort of men would get the power--what sort of men would end by returning whom they pleased to Parliament.", 'The power to do mischief... makes misery.', "The way to get rid of folly is to get rid of vain expectations, and of thoughts that don't agree with the nature of things."]
 
 ** Chapter Keywords**:

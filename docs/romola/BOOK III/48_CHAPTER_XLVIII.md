@@ -13,7 +13,7 @@ In this chapter, Tito confronts Romola after her outburst earlier in the day. He
 **Location**:
 ['The home of Tito and Romola in Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Late 15th century, during the time of political turmoil in Florence
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 15th century, during the time of political turmoil in Florence
 ** Plot Points**:
 ['Tito confronts Romola about her public outburst.', 'Romola expresses regret and asks Tito to be more open with her.', 'Tito warns Romola of the consequences of her interference in his affairs.', 'Romola reveals her knowledge of the mysterious old man and the chain-armour.', 'Tito dismisses her concerns and manages to regain control over her through fear.', 'Both characters feel more divided than ever, with Tito considering leaving Romola behind when he leaves Florence.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['It is enough if you will remember that the next time your generous ardour leads you to interfere in political affairs, you are likely, not to save any one from danger, but to be raising scaffolds and setting houses on fire.  (Tito to Romola)', 'Tito, if you would once tell me everything, let it be what it may—I would not mind pain—that there might be no wall between us! Is it not possible that we could begin a new life?  (Romola to Tito)', 'We need not refer to these matters again, Romola. It is enough if you will remember that the next time your generous ardour leads you to interfere in political affairs, you are likely, not to save any one from danger, but to be raising scaffolds and setting houses on fire. (Tito to Romola)']
 
 ** Chapter Keywords**:

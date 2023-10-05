@@ -14,7 +14,7 @@ In this chapter, the Dodson family gathers at Mrs. Tulliver's house. Mrs. Glegg,
 **Location**:
 Mrs. Tulliver's house
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -23,7 +23,7 @@ Unknown
 ** Plot Points**:
 ["Mrs. Glegg criticizes Mrs. Tulliver's appearance", "Mrs. Pullet shares details about Mrs. Sutton's death and inheritance", 'Mr. Tulliver announces plans to send Tom to a clergyman for education', 'Mrs. Glegg and Mrs. Tulliver argue', 'Mr. Tulliver and Mr. Deane discuss politics', 'Uncle Pullet offers his opinions']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'If you talk o’ that,' said Mr. Tulliver, 'my family’s as good as yours, and better'", "'I’ve made up my mind not to bring Tom up to my own business'", "'It’ll be the first time, then,' said Mr. Tulliver. 'It’s the only thing you’re over-ready at giving'", "'You can stay behind, and come home with the gig, and I’ll walk home'"]
 
 ** Chapter Keywords**:

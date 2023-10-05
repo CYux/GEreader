@@ -15,7 +15,7 @@ Arthur wakes up after a sleepless night and decides to go for a ride. He reflect
 **Location**:
 The Chase
 
-**Time_period**:
+**Time Period**:
 Mid 18th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Mid 18th century
 ** Plot Points**:
 ['Arthur goes for a ride to clear his mind', 'He reflects on his actions and their consequences', 'He writes a letter to Hetty and gives it to Adam to decide whether to deliver it or not']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['If there had been a possibility of making Adam tenfold amends—if deeds of gift, or any other deeds, could have restored Adam’s contentment and regard for him as a benefactor, Arthur would not only have executed them without hesitation, but would have felt bound all the more closely to Adam.', 'He must persuade himself that he had not been very much to blame; he began even to pity himself for the necessity he was under of deceiving Adam—it was a course so opposed to the honesty of his own nature.', 'Well, whatever had been amiss in him, he was miserable enough in consequence: miserable about Hetty; miserable about this letter that he had promised to write, and that seemed at one moment to be a gross barbarity, at another perhaps the greatest kindness he could do to her.']
 
 ** Chapter Keywords**:

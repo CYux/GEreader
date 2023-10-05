@@ -13,7 +13,7 @@ In this chapter, Dorothea and Celia discuss Sir James Chettam's affections towar
 **Location**:
 Tipton and Freshitt
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Tipton and Freshitt
 ** Plot Points**:
 ['Dorothea rejects the idea of marrying Sir James Chettam', "Dorothea eagerly accepts Mr. Casaubon's proposal", 'Mr. Brooke tries to provide guidance and considers the suitability of both suitors']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I admire and honor him more than any man I ever saw.'", "'I should not wish to have a husband very near my own age.'"]
 
 ** Chapter Keywords**:

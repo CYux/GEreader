@@ -14,7 +14,7 @@ The chapter introduces Lucy Deane and her suitor, Stephen Guest, as they engage 
 **Location**:
 Lucy Deane's drawing-room
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Lucy Deane's drawing-room
 ** Plot Points**:
 ['Lucy reveals that her cousin Maggie is coming to stay with her', "Stephen is asked to inform Philip about Maggie's visit", 'Stephen reflects on his choice of Lucy as his future wife']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You are going to change Minny’s diet, and give him three ratafias soaked in a dessert-spoonful of cream daily?'", "'Oh, I suppose he is like the father; he seems to be as proud as Lucifer. Not a brilliant companion, though, I should think.'", "'A man likes his wife to be pretty; well, Lucy was pretty, but not to a maddening extent. A man likes his wife to be accomplished, gentle, affectionate, and not stupid; and Lucy had all these qualifications.'"]
 
 ** Chapter Keywords**:

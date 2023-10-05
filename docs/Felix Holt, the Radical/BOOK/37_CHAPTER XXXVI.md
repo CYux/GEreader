@@ -13,7 +13,7 @@ In this chapter, Harold Transome learns about Esther's potential claim to his fa
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Transome Court
 ** Plot Points**:
 ["Harold learns of Esther's claim to his family's estate", "Harold discovers Jermyn's scheme", 'Harold considers a compromise, possibly even marriage, with Esther', 'Harold and his mother plan a visit to Esther']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["I will give you a thousand. At least, I'll give you a note to the effect I spoke of.", 'I will arrange nothing amicably with him. If he has ever done anything scandalous as our agent, let him bear the infamy.', 'Do you mean that, Harold?', 'You shall not have a daughter-in-law unless she is a pearl.']
 
 ** Chapter Keywords**:

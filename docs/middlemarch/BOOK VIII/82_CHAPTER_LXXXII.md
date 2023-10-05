@@ -13,7 +13,7 @@ Will Ladislaw considers returning to Middlemarch and visiting Dorothea. He also 
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Will Ladislaw considers returning to Middlemarch', 'He contemplates using his claim on Bulstrode for a settlement project', 'Rosamond informs Will that she has told Dorothea about their situation']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['My grief lies onward and my joy behind.', 'You will have nothing to reproach me with now. I shall not have made any difference to you.']
 
 ** Chapter Keywords**:

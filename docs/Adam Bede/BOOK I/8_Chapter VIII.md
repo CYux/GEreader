@@ -15,7 +15,7 @@ In this chapter, Dinah, a young Methodist preacher, has a conversation with Mr. 
 **Location**:
 The Poyser's farm
 
-**Time_period**:
+**Time Period**:
 Late 18th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th Century
 ** Plot Points**:
 ["Dinah's conversation with Mr. Irwine about her preaching", "Mr. Irwine's interest in Dinah's story", "Dinah learning about Thias Bede's death", "Dinah's decision to visit the Bede family"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It isn’t for men to make channels for God’s Spirit, as they make channels for the watercourses, and say, 'Flow here, but flow not there.'", 'And those were always times of great blessing, though I had never thought it could be so with me before a congregation of people.', 'That was the beginning of my preaching, sir, and I’ve preached ever since.', 'Thias Bede was drowned last night in the Willow Brook, and I’m thinking that the aged mother will be greatly in need of comfort.']
 
 ** Chapter Keywords**:

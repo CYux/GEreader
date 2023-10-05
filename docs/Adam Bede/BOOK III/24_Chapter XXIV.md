@@ -15,7 +15,7 @@ The chapter narrates a birthday celebration at which the young squire Arthur Don
 **Location**:
 The Estate
 
-**Time_period**:
+**Time Period**:
 Late 18th to early 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th to early 19th century
 ** Plot Points**:
 ['Mr. Poyser praises Arthur', "Arthur speaks about his future plans and appoints Adam Bede as the manager of the estate's woods", 'Mr. Irwine gives a speech praising Arthur and Adam', 'Hetty feels neglected by Arthur']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['And so this kindness o’ yours, I’m sure, is no debt you owe me, but a free gift, and as such I accept it and am thankful.', 'You think, if I undertake to do a bit o’ work, I’ll do it well, be my pay big or little—and that’s true.', 'Arthur, who had seemed so near to her only a few hours before, was separated from her, as the hero of a great procession is separated from a small outsider in the crowd.']
 
 ** Chapter Keywords**:

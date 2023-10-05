@@ -13,7 +13,7 @@ In this chapter, Dorothea is feeling increasingly isolated and unhappy in her ma
 **Location**:
 Via Sistina, Rome
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Via Sistina, Rome
 ** Plot Points**:
 ['Dorothea is disappointed with her marriage to Mr. Casaubon', 'Dorothea and Mr. Casaubon have a heated argument', 'Dorothea visits the Vatican with Mr. Casaubon but is preoccupied', "Naumann observes Dorothea's contemplative state"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“A child forsaken, waking suddenly,Whose gaze afeard on all things round doth rove,And seeth only that it cannot seeThe meeting eyes of love.”', '“See Rome as a bride, and live henceforth as a happy wife.”']
 
 ** Chapter Keywords**:

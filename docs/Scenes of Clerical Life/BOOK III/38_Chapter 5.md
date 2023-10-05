@@ -13,7 +13,7 @@ The chapter starts with a description of a sunny morning in Milby. The church be
 **Location**:
 Milby
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Milby
 ** Plot Points**:
 ['The Bishop is holding a Confirmation in Milby.', 'Janet Dempster is helping Mrs. Crewe with the preparations at the parsonage.', "Janet's mother, Mrs. Raynor, is worried about her daughter's future."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It seemed only natural that a rector, who was honourable, should read better than old Mr. Crewe, who was only a curate, and not honourable.'", "'I’m afraid there’s no Gospel will do that here below.'", "'But always there is seed being sown silently and unseen, and everywhere there come sweet flowers without our foresight or labour.'"]
 
 ** Chapter Keywords**:

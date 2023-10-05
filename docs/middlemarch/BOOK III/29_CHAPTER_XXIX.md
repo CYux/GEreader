@@ -13,7 +13,7 @@ In this chapter, Dorothea receives a letter from Mr. Ladislaw, which her husband
 **Location**:
 Lowick
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Lowick
 ** Plot Points**:
 ['Dorothea receives a letter from Mr. Ladislaw', 'Mr. Casaubon forbids her to read it', 'Dorothea and Mr. Casaubon argue', 'Mr. Casaubon collapses and falls ill', 'Mr. Lydgate is called to attend to him', 'Sir James expresses his concern for Dorothea']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Can you lean on me, dear?', 'It is very shocking that Mr. Casaubon should be ill; but I never did like him.', 'She is a noble creature.']
 
 ** Chapter Keywords**:

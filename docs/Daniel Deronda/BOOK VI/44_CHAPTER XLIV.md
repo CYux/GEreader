@@ -13,7 +13,7 @@ Gwendolen visits her mother and sisters, contemplating their lives compared to h
 **Location**:
 Offendene, Gadsmere
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Gwendolen visits her family and gives her mother money', 'Grandcourt visits Gadsmere, where his former mistress and children live', 'Gwendolen struggles with her feelings of humiliation and fear', "Grandcourt remains oblivious to his wife's inner turmoil"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I think I am making a very good Mrs. Grandcourt.', 'I should be allowed to come to you if you were ill, darling.', 'God forbid, child! I would not have had you marry for my sake. Your happiness by itself is half mine.']
 
 ** Chapter Keywords**:

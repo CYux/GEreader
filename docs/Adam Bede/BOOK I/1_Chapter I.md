@@ -15,7 +15,7 @@ The chapter describes the day-to-day work and interactions of a group of carpent
 **Location**:
 The carpentry workshop of Mr. Jonathan Burge in the village of Hayslope
 
-**Time_period**:
+**Time Period**:
 18th of June, 1799
 
 **Themes**:
@@ -24,7 +24,7 @@ The carpentry workshop of Mr. Jonathan Burge in the village of Hayslope
 ** Plot Points**:
 ['Introduction of the main characters', 'Depiction of the working conditions in the workshop', 'Depiction of the relationships and dynamics between the workers', 'Adam criticizing the others for leaving work exactly at the strike of six']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Awake, my soul, and with the sun Thy daily stage of duty run; Shake off dull sloth...', 'Let all thy converse be sincere, Thy conscience as the noonday clear.', 'Thee dostna believe but what the dissenters and the Methodists have got the root o’ the matter as well as the church folks.']
 
 ** Chapter Keywords**:

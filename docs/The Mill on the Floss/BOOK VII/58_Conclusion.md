@@ -14,7 +14,7 @@ Five years after the devastating flood, life has returned to normalcy. Dorlcote 
 **Location**:
 Dorlcote Mill and the churchyard
 
-**Time_period**:
+**Time Period**:
 Late 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Late 19th Century
 ** Plot Points**:
 ['The restoration of Dorlcote Mill and the town five years after the flood', 'Erection of the tomb for Tom and Maggie Tulliver', 'The visits to the tomb by two unidentified men']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Nature repairs her ravages, but not all.', "The tomb bore the names of Tom and Maggie Tulliver, and below the names it was written, 'In their death they were not divided.'"]
 
 ** Chapter Keywords**:

@@ -14,7 +14,7 @@ In this chapter, Tom Tulliver comes home to Dorlcote Mill, surprising his family
 **Location**:
 Dorlcote Mill
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Dorlcote Mill
 ** Plot Points**:
 ["Tom's return home", "Revelation of Tom's success in paying off family debts", "Mr. Tulliver's emotional reaction", "Mr. Tulliver's dream of confronting Wakem"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'No, father,' said Tom, speaking with energetic decision, though there was tremor discernible in his voice too, 'you will live to see the debts all paid. You shall pay them with your own hand.'", "'Shake hands wi’ me, my lad,' he said, suddenly putting out his hand. 'It’s a great thing when a man can be proud as he’s got a good son. I’ve had _that_ luck.'"]
 
 ** Chapter Keywords**:

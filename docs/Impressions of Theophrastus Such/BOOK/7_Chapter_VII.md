@@ -13,7 +13,7 @@ In this chapter from 'Impressions of Theophrastus Such' by George Eliot, the aut
 **Location**:
 Unspecified
 
-**Time_period**:
+**Time Period**:
 Most likely the 19th century, around the time of the Reform Bill and the Repeal of the Corn Laws.
 
 **Themes**:
@@ -22,7 +22,7 @@ Most likely the 19th century, around the time of the Reform Bill and the Repeal 
 ** Plot Points**:
 ['Spike makes his fortune in cotton manufacture, becomes a political molecule, opposes certain legislation items, and is inadvertently public-spirited.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['A small mind trained to useful occupation for the satisfying of private need becomes a representative of genuine class-needs.']
 
 ** Chapter Keywords**:

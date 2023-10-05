@@ -13,7 +13,7 @@ In this chapter, Messer Bernardo del Nero advises Bardo and Romola that the marr
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Messer Bernardo del Nero advises Bardo and Romola that the marr
 ** Plot Points**:
 ['It seems to me beauty is part of the finished language by which goodness speaks.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['marriage', 'deferment', 'Easter', 'social standing', 'library', 'debts', 'selling property']
 
 ** Chapter Keywords**:

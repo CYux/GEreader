@@ -15,7 +15,7 @@ In this chapter, Lisbeth laments the departure of Seth and Dinah. Meanwhile, Ada
 **Location**:
 The Bede family cottage and the Poyser family farm
 
-**Time_period**:
+**Time Period**:
 Late 18th or early 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th or early 19th century
 ** Plot Points**:
 ['Lisbeth expresses her wish for Dinah to stay', "Adam and his mother discuss Seth's affection for Dinah", 'Hetty arrives late at the farm', "Hetty's attempt to put Totty to bed is unsuccessful", 'Dinah steps in to put Totty to bed']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"Well, Mother, I hope thee wilt have her for a daughter; for Seth’s got a liking for her, and I hope she’ll get a liking for Seth in time."', '"An’ as for his desarving her—she’s two ’ear older nor Seth: she’s pretty near as old as thee."', '"An’ I’m sure he has a loving spirit too. I’ve noticed it often among my own people round Snowfield, that the strong, skilful men are often the gentlest to the women and children;"']
 
 ** Chapter Keywords**:

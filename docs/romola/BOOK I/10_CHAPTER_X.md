@@ -13,7 +13,7 @@ In this chapter, Tito encounters a young contadina named Tessa who is being hara
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance
 ** Plot Points**:
 ['Tito helps Tessa escape from the conjuror', 'Tito receives a message about his friend being in slavery', 'Tito is delayed in meeting Bardo and Romola']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Loose me! Holy Virgin, help me!' - Tessa", "'I am sold for a slave: I think they are going to take me to Antioch. The gems alone will serve to ransom me.' - Message on the parchment"]
 
 ** Chapter Keywords**:

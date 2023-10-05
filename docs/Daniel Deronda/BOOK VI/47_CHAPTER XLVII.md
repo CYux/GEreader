@@ -13,7 +13,7 @@ In this chapter, Mordecai and Mirah are finally reunited. Mordecai is presented 
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Mordecai is presented with new clothes', "Mrs. Meyrick and her daughters discuss Mordecai's arrival", 'Mordecai and Mirah meet and share an emotional reunion']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Ezra,' she said, in exactly the same tone as when she was telling of her mother’s call to him.", "'Yes, dear child, I shall not be long with you in the body,' was the quiet answer.", 'Mirah until now had quite forgotten that any one was by, but here she turned with the prettiest attitude, keeping one hand on her brother’s arm while she looked at Mrs. Meyrick and Deronda.']
 
 ** Chapter Keywords**:

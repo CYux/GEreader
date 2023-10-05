@@ -13,7 +13,7 @@ The chapter begins with a conversation in the Red Lion bar among the townspeople
 **Location**:
 Red Lion bar in Milby
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Red Lion bar in Milby
 ** Plot Points**:
 ['The townspeople discuss their opposition to Methodism.', 'Dempster and Tomlinson plan to visit Elmstoke Rectory.', 'Dempster receives a letter and leaves the bar.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘No!’ said lawyer Dempster, in a loud, rasping, oratorical tone, struggling against chronic huskiness, ‘as long as my Maker grants me power of voice and power of intellect, I will take every legal means to resist the introduction of demoralizing, methodistical doctrine into this parish; I will not supinely suffer an insult to be inflicted on our venerable pastor, who has given us sound instruction for half a century.’', 'Depend upon it, whenever you see a man pretending to be better than his neighbours, that man has either some cunning end to serve, or his heart is rotten with spiritual pride.']
 
 ** Chapter Keywords**:

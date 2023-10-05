@@ -13,7 +13,7 @@ In this chapter, Tito returns to Florence and informs Romola that the council ha
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Italian Renaissance (15th century)
 
 **Themes**:
@@ -22,7 +22,7 @@ Italian Renaissance (15th century)
 ** Plot Points**:
 ["Tito informs Romola about the council's decision and the possibility of an appeal.", 'He suggests seeking the help of Fra Girolamo.', 'Romola confronts Tito about his deceit and his relationship with the old man.', 'Tito tries to manipulate and threaten Romola but she remains determined.', 'Monna Brigida arrives and Romola asks to go to San Marco to see her confessor.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['It is too late, Tito. There is no killing the suspicion that deceit has once begotten. And now I know everything.']
 
 ** Chapter Keywords**:

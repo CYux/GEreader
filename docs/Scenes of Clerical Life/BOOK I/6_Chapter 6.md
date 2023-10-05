@@ -13,7 +13,7 @@ The chapter begins with Mrs. Hackit visiting Mrs. Patten, who is sick. They goss
 **Location**:
 Cross Farm, Milby Vicarage
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Cross Farm, Milby Vicarage
 ** Plot Points**:
 ["Mrs. Hackit's visit to Mrs. Patten", 'Gossip about Reverend Amos Barton and the Countess', 'Clerical meeting at Milby Vicarage', 'Discussion of Barton and the Countess among the clergy']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'What a disgraceful business this is turning out of your parson’s,'", "'I wish dining alone together may be the worst of that sad business,' said the Rev. Archibald Duke, in a tone implying that his wish was a strong figure of speech.", "'I think some of us ought to remonstrate with Mr. Barton on the scandal he is causing. He is not only imperilling his own soul, but the souls of his flock.'"]
 
 ** Chapter Keywords**:

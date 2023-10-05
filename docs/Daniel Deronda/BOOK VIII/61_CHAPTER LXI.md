@@ -13,7 +13,7 @@ Mirah's jealousy of Mrs. Grandcourt and her love for Deronda is revealed. She st
 **Location**:
 London, at the Meyrick's and Cohen's homes
 
-**Time_period**:
+**Time Period**:
 Victorian Era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian Era
 ** Plot Points**:
 ["Mirah's jealousy of Mrs. Grandcourt", "Hans's realization of Mirah's feelings", "Mordecai's excitement about Deronda's return"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['What I have read about and sung about and seen acted, is happening to me—this that I am feeling is the love that makes jealousy.', 'And yet,” said Mordecai, rather insistently, “women are specially framed for the love which feels possession in renouncing, and is thus a fit image of what I mean.', 'My sister, thou hast read too many plays, where the writers delight in showing the human passions as indwelling demons, unmixed with the relenting and devout elements of the soul. Thou judgest by the plays, and not by thy own heart, which is like our mother’s.”']
 
 ** Chapter Keywords**:

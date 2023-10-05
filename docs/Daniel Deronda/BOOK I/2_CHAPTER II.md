@@ -13,7 +13,7 @@ Gwendolen receives a letter from her mother, revealing their family is ruined du
 **Location**:
 Leubronn, Germany and Offendene, England
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Leubronn, Germany and Offendene, England
 ** Plot Points**:
 ["Gwendolen's family is ruined financially", 'Gwendolen sells a necklace to fund her return home', 'The necklace is returned to her by a stranger', 'Gwendolen returns home to Offendene']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Summon up your fortitude, my dear child; we must resign ourselves to God’s will.', 'Anything seemed more possible than that she could go on bearing miseries, great or small.', 'A stranger who has found Miss Harleth’s necklace returns it to her with the hope that she will not again risk the loss of it.']
 
 ** Chapter Keywords**:

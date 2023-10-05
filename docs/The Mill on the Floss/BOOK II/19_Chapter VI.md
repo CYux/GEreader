@@ -14,7 +14,7 @@ In this chapter, Tom Tulliver suffers from a severe foot injury, causing him to 
 **Location**:
 Tom's bedroom and the study room
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Early 19th century
 ** Plot Points**:
 ['Tom suffers a foot injury and worries about becoming lame.', 'Philip reassures Tom that he will not be lame, bringing them closer.', 'Philip spends his time out of school with Tom and Maggie.', 'Maggie and Philip develop a close friendship.', "Despite their temporary closeness, Tom and Philip's relationship eventually cools."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I say,” said Tom, “ask Mr Stelling to let you come and sit with me sometimes, till I get up again, Wakem; and tell me about Robert Bruce, you know.”', 'Should you like me to kiss you, as I do Tom? I will, if you like.”', 'Well, well,” said Mr Tulliver, “if he’s good to you, try and make him amends, and be good to _him_. He’s a poor crooked creature, and takes after his dead mother. But don’t you be getting too thick with him; he’s got his father’s blood in him too.']
 
 ** Chapter Keywords**:

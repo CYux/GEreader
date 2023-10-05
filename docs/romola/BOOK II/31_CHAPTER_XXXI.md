@@ -13,7 +13,7 @@ In this chapter, Tito plans to sell Bardo's library without Romola's knowledge, 
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 15th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Tito plans to sell Bardo's library without Romola's knowledge, 
 ** Plot Points**:
 ["Tito plans to sell Bardo's library and struggles to face Romola as he knows she would be deeply upset by this decision.", 'The French king plans to leave Florence, easing some political tensions in the city.', 'Bernardo visits Romola and they discuss the portrait of her father and his unfulfilled desires.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He was about to take a step which he knew would arouse her deep indignation; he would have to encounter much that was unpleasant before he could win her forgiveness.', 'She was the wife of his first love—he loved her still; she belonged to that furniture of life which he shrank from parting with.']
 
 ** Chapter Keywords**:

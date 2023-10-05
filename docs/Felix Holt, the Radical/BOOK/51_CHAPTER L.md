@@ -13,7 +13,7 @@ In this chapter, Mrs. Transome is found in a state of distress and sorrow by her
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Transome Court
 ** Plot Points**:
 ['Mrs. Transome expresses her despair and disappointment with her son, Harold.', 'Esther shows compassion towards Mrs. Transome and spends the night taking care of her.', 'Esther requests Harold to comfort his mother.', 'Mrs. Transome suggests that Harold could find happiness in marrying Esther.', 'Esther reveals that she loves someone else and renounces all claims to the Transome estates.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"The worst, Denner--the worst."', '"Men are selfish. They are selfish and cruel. What they care for is their own pleasure and their own pride."', '"If that dear thing will marry you, Harold, it will make up to you for a great deal."', '"I have been an unhappy woman, dear."']
 
 ** Chapter Keywords**:

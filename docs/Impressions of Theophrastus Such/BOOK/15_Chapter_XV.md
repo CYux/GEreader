@@ -13,7 +13,7 @@ In this chapter from 'Impressions of Theophrastus Such' by George Eliot, the nar
 **Location**:
 Pumpiter (a fictional town)
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Pumpiter (a fictional town)
 ** Plot Points**:
 ['The narrator visits Vorticella and is shown her book and album of critical opinions.', "Vorticella's vanity and self-importance are discussed.", 'The narrator meets Monas, who also seeks attention for his book.', 'The narrator reflects on the differences in vanity between men and women.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 Depend upon it, vanity is human, native alike to men and women; only in the male it is of denser texture, less volatile, so that it less immediately informs you of its presence, but is more massive and capable of knocking you down if you come into collision with it; while in women vanity lays by its small revenges as in a needle-case always at hand.
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Felix Holt visits Esther Lyon while her father is at chapel. Th
 **Location**:
 Mr. Lyon's house
 
-**Time_period**:
+**Time Period**:
 Mid-19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid-19th century
 ** Plot Points**:
 ['Felix visits Esther and they engage in a heated discussion.', "Felix criticizes Esther's lifestyle and priorities.", 'Felix leaves abruptly, leaving Esther confused and upset.', 'Esther begins to question her own beliefs and lifestyle.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You have enough understanding to make it wicked that you should add one more to the women who hinder men's lives from having any nobleness in them.'", "'That's what makes women a curse; and life is stunted to suit their littleness. That's why I'll never love, if I can help it; and if I love, I'll bear it, and never marry.'", "'I see I have made a fool of myself. I thought you had a more generous mind--that you might be kindled to a better ambition. But I've set your vanity aflame--nothing else. I'm going. Good-bye.'"]
 
 ** Chapter Keywords**:

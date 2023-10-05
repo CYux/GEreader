@@ -15,7 +15,7 @@ Adam learns that Hetty has not returned from her trip and becomes increasingly w
 **Location**:
 Hall Farm, Snowfield, Stoniton
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -24,7 +24,7 @@ Unknown
 ** Plot Points**:
 ['Hetty has not returned from her trip', 'Adam searches for Hetty in Snowfield and Stoniton but cannot find her', "Adam confides in Seth about Hetty's disappearance", 'Adam decides to go to Ireland to find Arthur', 'Adam plans to confide in Mr. Irwine']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“It was better it should be so,” he said, as quietly as he could, “if she felt she couldn’t like me for a husband. Better run away before than repent after.']
 
 ** Chapter Keywords**:

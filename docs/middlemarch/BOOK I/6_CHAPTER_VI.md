@@ -13,7 +13,7 @@ In this chapter, Mrs. Cadwallader informs Sir James Chettam that Dorothea is eng
 **Location**:
 Tipton Grange
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Mrs. Cadwallader informs Sir James of Dorothea's engagement", 'Sir James is upset and disappointed', 'Mrs. Cadwallader plans to find another match for Sir James', 'Sir James decides to visit Tipton Grange']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I throw her over: there was a chance, if she had married Sir James, of her becoming a sane, sensible woman.', 'He really did not like it: giving up Dorothea was very painful to him.']
 
 ** Chapter Keywords**:

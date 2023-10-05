@@ -13,7 +13,7 @@ In this chapter, Deronda prepares Mordecai for the revelation of his long-lost s
 **Location**:
 London, the Cohen's house
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Deronda reveals to Mordecai that he has found his sister, Mirah', 'Mordecai agrees to move in with Deronda and Mirah', 'Mordecai expresses his sadness about leaving the Cohens', 'Deronda reassures Mordecai that he can still visit the Cohens']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I have just been telling Mordecai of an event that makes a great change in his life,'", "'I am as one who had clad himself beforehand in his shroud, and used himself to making the grave his bed, when the divine command sounded in his ears, ‘Arise, and go forth; the night is not yet come.’'", "'In my ears I have the prayers of generations past and to come. My life is as nothing to me but the beginning of fulfilment. And yet I am only another prayer—which you will fulfil.'"]
 
 ** Chapter Keywords**:

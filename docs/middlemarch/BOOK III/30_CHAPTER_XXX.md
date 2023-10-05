@@ -13,7 +13,7 @@ Mr. Casaubon's health is improving, but Lydgate warns that he must be careful no
 **Location**:
 Lowick Manor
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Lowick Manor
 ** Plot Points**:
 ["Mr. Casaubon's health improves but he must be cautious", 'Dorothea seeks advice from Lydgate', 'Lydgate advises Dorothea to be cautious and not to agitate her husband', "Dorothea hides Will's letters from Mr. Casaubon", "Dorothea asks Mr. Brooke to inform Will about Mr. Casaubon's illness", 'Mr. Brooke decides to invite Will to Tipton Grange']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Help me, pray,” she said, at last, in the same low voice as before. “Tell me what I can do.”', '“To be sure, I will write, my dear. He’s a very clever young fellow—this young Ladislaw—I dare say will be a rising young man. It’s a good letter—marks his sense of things, you know. However, I will tell him about Casaubon.”']
 
 ** Chapter Keywords**:

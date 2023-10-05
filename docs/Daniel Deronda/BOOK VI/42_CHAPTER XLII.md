@@ -13,7 +13,7 @@ In this chapter of the novel, Daniel Deronda visits the Cohen family and finds M
 **Location**:
 The Cohen family's home
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Deronda visits the Cohen family', 'Mordecai expresses his desire for a new Jewish polity', 'Mordecai shares his vision for a restored sense of national identity', 'The chapter ends with Mordecai in a state of contemplation']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The heart of Israel is beating in the pulses of millions', 'Let the torch of visible community be lit!', 'The divine principle of our race is action, choice, resolved memory']
 
 ** Chapter Keywords**:

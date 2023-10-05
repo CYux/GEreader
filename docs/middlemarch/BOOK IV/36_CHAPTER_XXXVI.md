@@ -13,7 +13,7 @@ In Chapter XXXVI of Middlemarch, Mr. Vincy's opinion of Fred's idleness becomes 
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Mr. Vincy becomes more critical of Fred's idleness", 'Rosamond and Lydgate plan their future together', "Rosamond hopes that her family's financial situation won't affect Lydgate's high-born relatives", 'Lydgate relies on the submissiveness of women']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I hope you’ve made up your mind now to go up next term and pass your examination.', "Don't be hard on the poor boy, Vincy.", 'I shall like so much to know your family, which of your uncles do you like best?', 'I should think he would do something handsome. A thousand or two can be nothing to a baronet.']
 
 ** Chapter Keywords**:

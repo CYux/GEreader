@@ -15,7 +15,7 @@ In this chapter, the community learns of Squire Donnithorne's death and Arthur's
 **Location**:
 Stoniton, Hall Farm, Broxton and Hayslope
 
-**Time_period**:
+**Time Period**:
 18th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Stoniton, Hall Farm, Broxton and Hayslope
 ** Plot Points**:
 ["Squire Donnithorne's death", 'Arthur inherits the estate', "News of Hetty's crime spreads", "Adam stays in Stoniton for Hetty's trial", 'Poyser family considers moving', 'Bartle closes his school to support Adam']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“You’ve been worried by this law business that you’ve been to Stoniton about. What in the world is it, that you can’t tell me?”', '“Ah, and it’s right people should know how she was tempted into the wrong way,” said Adam, with bitter earnestness.', '“We’d better ha’ sent for Dinah, if we’d known where she is,” said Mr. Poyser;']
 
 ** Chapter Keywords**:

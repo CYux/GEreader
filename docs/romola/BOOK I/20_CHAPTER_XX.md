@@ -13,7 +13,7 @@ In this chapter, Tito Melema is preparing for his betrothal to Romola. On his wa
 **Location**:
 ['Tito Melema', 'Romola', 'Tessa']
 
-**Time_period**:
+**Time Period**:
 Florence, Italy
 
 **Themes**:
@@ -22,7 +22,7 @@ Florence, Italy
 ** Plot Points**:
 ['Love', 'Betrayal', 'Secrets', 'Superstition']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Tessa!...Why are you here? You must not follow me—you must not stand about door-places waiting for me.', "'But it is still there—it is only hidden,' said Romola, in a low tone, hardly conscious that she spoke."]
 
 ** Chapter Keywords**:

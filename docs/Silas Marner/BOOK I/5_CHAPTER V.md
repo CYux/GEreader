@@ -13,7 +13,7 @@ Silas Marner returns home from a delivery, excited for his pork supper and his u
 **Location**:
 Silas Marner's Cottage and the village of Raveloe
 
-**Time_period**:
+**Time Period**:
 19th Century, around 1860s
 
 **Themes**:
@@ -22,7 +22,7 @@ Silas Marner's Cottage and the village of Raveloe
 ** Plot Points**:
 ['Silas Marner returns home after a delivery, excited for his supper and to admire his gold.', 'Silas discovers his gold is missing.', 'Overwhelmed with despair, Silas frantically searches his home.', 'Silas suspects Jem Rodney to be the thief.', 'Silas decides to report the theft to the village authorities.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The sense of security more frequently springs from habit than from conviction, and for this reason it often subsists after such a change in the conditions as might have been expected to suggest alarm.', 'His gold, as he hung over it and saw it grow, gathered his power of loving together into a hard isolation like its own.', 'Again he put his trembling hands to his head, and gave a wild ringing scream, the cry of desolation.']
 
 ** Chapter Keywords**:

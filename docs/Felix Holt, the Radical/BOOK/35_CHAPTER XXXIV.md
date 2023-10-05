@@ -13,7 +13,7 @@ In this chapter, Harold Transome is dealing with the aftermath of the Treby riot
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Transome Court
 ** Plot Points**:
 ["Harold's loss in the election", "Harold's decision to punish his agents for their actions during the election", "Mrs. Transome's anxiety about the impending confrontation between Harold and Jermyn"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The disappointments of life can never, any more than its pleasures, be estimated singly', 'Harold felt himself a victim. Could he hinder the tricks of his agents?', 'She was thinking of what might be brought, not by death, but by life.']
 
 ** Chapter Keywords**:

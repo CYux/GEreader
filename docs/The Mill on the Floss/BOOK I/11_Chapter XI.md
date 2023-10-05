@@ -14,7 +14,7 @@ Maggie tries to run away from home and decides to join the gypsies. She encounte
 **Location**:
 Dorlcote Mill
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -23,7 +23,7 @@ Unknown
 ** Plot Points**:
 ['Maggie decides to run away and join the gypsies', 'She encounters two men on her way', 'Maggie finds the gypsies and is offered food', 'Her father finds her and takes her home']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'That’s pretty; come, then. Why, what a nice little lady you are, to be sure!' - Gypsy woman", "'We’ve got nothing nice for a lady to eat,' said the old woman, in her coaxing tone. 'And she’s so hungry, sweet little lady.' - Gypsy woman", "'Here, then, my man,' said Mr. Tulliver, taking out five shillings. 'It’s the best day’s work _you_ ever did.' - Mr. Tulliver"]
 
 ** Chapter Keywords**:

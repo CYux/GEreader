@@ -13,7 +13,7 @@ Esther continues to enjoy her time at Transome Court, becoming closer to Harold 
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Transome Court
 ** Plot Points**:
 ["Esther's growing bond with the Transome family", "Harold's consideration of marriage to Esther", "Esther's desire to visit her father"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['A woman ought never to have any trouble. There should always be a man to guard her from it.', "I am wondering whether you have any deep wishes and secrets that I can't guess.", 'I do know one wish distinctly. I want to go and see my father.']
 
 ** Chapter Keywords**:

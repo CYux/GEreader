@@ -14,7 +14,7 @@ Tom discovers that Maggie has been secretly meeting Philip Wakem in the Red Deep
 **Location**:
 The Red Deeps and the Tulliver's home
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ The Red Deeps and the Tulliver's home
 ** Plot Points**:
 ["Tom discovers Maggie's secret meetings with Philip Wakem", 'Tom confronts Maggie and demands she renounces all private contact with Philip', "Maggie agrees to Tom's demand to protect their father", 'Tom and Maggie confront Philip, leading to a heated exchange', 'Tom and Maggie have a heated argument, revealing their deep ideological differences']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I did,—at some risk, perhaps. But I wished her to have a friend for life,—who would cherish her, who would do her more justice than a coarse and narrow-minded brother, that she has always lavished her affections on.'", "'I will submit even to what is unreasonable from my father, but I will not submit to it from you.'", "'Very well; that is your view of things.' said Tom, more coldly than ever; 'you need say no more to show me what a wide distance there is between us. Let us remember that in future, and be silent.'"]
 
 ** Chapter Keywords**:

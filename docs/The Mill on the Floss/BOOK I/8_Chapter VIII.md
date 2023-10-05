@@ -14,7 +14,7 @@ Mr. Tulliver visits his sister Mrs. Moss to demand repayment of a loan. Mrs. Mos
 **Location**:
 Mrs. Moss's farm
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Mrs. Moss's farm
 ** Plot Points**:
 ['Mr. Tulliver demands repayment of a loan from his sister Mrs. Moss', 'Mrs. Moss expresses her inability to repay the loan', 'Mr. Tulliver softens and decides to let his sister keep the money a little longer']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I'll allays be a good brother to you.'", "'Poor little wench! she'll have nobody but Tom, belike, when I'm gone.'"]
 
 ** Chapter Keywords**:

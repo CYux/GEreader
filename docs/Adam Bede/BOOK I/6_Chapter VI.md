@@ -15,7 +15,7 @@ In this chapter, the reader is introduced to the setting of Hall Farm, a once gr
 **Location**:
 Hall Farm
 
-**Time_period**:
+**Time Period**:
 Not specified
 
 **Themes**:
@@ -24,7 +24,7 @@ Not specified
 ** Plot Points**:
 ['Mrs. Poyser scolds Molly the housemaid', "Mrs. Poyser expresses concerns about Dinah's preaching", 'Captain Donnithorne admires the farm']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'And then you might get married to some decent man, and there’d be plenty ready to have you, if you’d only leave off that preaching.'", "'I think yours is the prettiest farm on the estate, though; and do you know, Mrs. Poyser, if I were going to marry and settle, I should be tempted to turn you out, and do up this fine old house, and turn farmer myself.'"]
 
 ** Chapter Keywords**:

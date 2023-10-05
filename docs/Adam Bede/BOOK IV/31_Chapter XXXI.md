@@ -15,7 +15,7 @@ Hetty Sorrel, a young woman in Mrs. Poyser’s household, receives a letter from
 **Location**:
 Mrs. Poyser’s household
 
-**Time_period**:
+**Time Period**:
 Early 19th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Early 19th Century
 ** Plot Points**:
 ['Hetty receives a letter from Arthur, breaking off their relationship due to their different social standings.', 'Hetty contemplates running away but lacks the courage.', "Hetty considers becoming a lady's maid, but her family disapproves.", 'Hetty thinks about marrying Adam Bede.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['DEAREST HETTY—I have spoken truly when I have said that I loved you, and I shall never forget our love. I shall be your true friend as long as life lasts, and I hope to prove this to you in many ways.', 'Why, what’s put that into your head, my wench? It wouldn’t be half so good for your health, nor for your luck i’ life. I’d like you to stay wi’ us till you’ve got a good husband.', 'Why should she not marry Adam? She did not care what she did, so that it made some change in her life.']
 
 ** Chapter Keywords**:

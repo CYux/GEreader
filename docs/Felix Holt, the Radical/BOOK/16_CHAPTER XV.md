@@ -13,7 +13,7 @@ In this chapter, Mr. Lyon struggles with his past decisions and the anxiety of p
 **Location**:
 Mr. Lyon's home and study
 
-**Time_period**:
+**Time Period**:
 1860s
 
 **Themes**:
@@ -22,7 +22,7 @@ Mr. Lyon's home and study
 ** Plot Points**:
 ['Mr. Lyon decides to challenge Reverend Augustus Debarry to a public debate on the true nature of the Church.', 'Esther reflects on her encounter with Felix Holt and questions his intentions and her feelings towards him.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['In a mind of any nobleness, a lapse into transgression against an object still regarded as supreme, issues in a new and purer devotedness, chastised by humility and watched over by a passionate regret.', 'Esther was beginning to lose her complacency at her own wit and criticism; to lose the sense of superiority in an awakening need of reliance on one whose vision was wider, whose nature was purer and stronger than her own.']
 
 ** Chapter Keywords**:

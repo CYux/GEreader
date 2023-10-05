@@ -13,7 +13,7 @@ In this chapter, Mr. Lyon reveals to Esther that he is not her biological father
 **Location**:
 Mr. Lyon's house
 
-**Time_period**:
+**Time Period**:
 Mid 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid 19th century
 ** Plot Points**:
 ['Mr. Lyon reveals to Esther that he is not her biological father', "Mr. Lyon shares the story of Esther's mother and his own past", 'Esther shows sympathy and promises to love Mr. Lyon more', 'Mr. Lyon shares recent developments regarding Christian and Mr. Jermyn']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Father, father! forgive me if I have not loved you enough. I will--I will!', "That must be the best life, father. That where one bears and does everything because of some great and strong feeling--so that this and that in one's circumstances don't signify.", "I have little confidence in this man's allegations. He bears the stamp of one who has never conceived aught of more sanctity than the lust of the eye and the pride of life."]
 
 ** Chapter Keywords**:

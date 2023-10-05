@@ -13,7 +13,7 @@ In this chapter of George Eliot's "Romola", Tito and Romola have a chance encoun
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Late 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 15th century
 ** Plot Points**:
 ['Tito encounters Romola and Monna Brigida on the street', "Romola reveals that she is going to visit her dying brother, Fra Luca, against her father's wishes", 'Tito worries about the consequences of Romola learning the truth about his past', 'Romola and Tito part ways, with Tito left feeling uncertain about his future']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["It cost me a struggle to act in opposition to my father's feeling, which I have always held to be just. I am almost sure you will think I have chosen rightly, Tito, because I have noticed that your nature is less rigid than mine, and nothing makes you angry: it would cost you less to be forgiving."]
 
 ** Chapter Keywords**:

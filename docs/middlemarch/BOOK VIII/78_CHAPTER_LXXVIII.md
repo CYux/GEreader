@@ -13,7 +13,7 @@ In this chapter, Will and Rosamond have a heated argument after Dorothea leaves.
 **Location**:
 
 
-**Time_period**:
+**Time Period**:
 
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Will and Rosamond have a heated argument after Dorothea leaves.
 ** Plot Points**:
 ['Will expresses his anger and disappointment towards Rosamond', "Rosamond is hurt by Will's words", 'Rosamond faints and Lydgate takes care of her']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Don’t touch me!' he said, with an utterance like the cut of a lash", "'Explain! Tell a man to explain how he dropped into hell! Explain my preference! I never had a preference for her, any more than I have a preference for breathing. No other woman exists by the side of her.'"]
 
 ** Chapter Keywords**:

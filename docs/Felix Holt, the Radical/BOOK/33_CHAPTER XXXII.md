@@ -13,7 +13,7 @@ The chapter begins with the town of Treby in chaos due to an election. Felix Hol
 **Location**:
 Town of Treby
 
-**Time_period**:
+**Time Period**:
 Mid 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid 19th century
 ** Plot Points**:
 ['Election causing chaos in Treby', 'Felix Holt going to check the situation', "Felix's visit to Esther Lyon", 'The emotional conversation between Felix and Esther']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I want you to tell me--once--that you know it would be easier to me to give myself up to loving and being loved, as other men do, when they can, than to----'", "'What you have chosen to do has only convinced me that your love would be the better worth having.'", "'We shall always be the better for thinking of each other,'"]
 
 ** Chapter Keywords**:

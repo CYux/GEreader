@@ -13,7 +13,7 @@ In this chapter, Tito's desire for political activity in Florence grows as he be
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Late 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 15th century
 ** Plot Points**:
 ["Tito becomes more involved in Florence's political struggles", 'Romola remains distant from Tito', 'Savonarola preaches about the Great Council']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Choose the Great Council, and the Great Council is the will of God']
 
 ** Chapter Keywords**:

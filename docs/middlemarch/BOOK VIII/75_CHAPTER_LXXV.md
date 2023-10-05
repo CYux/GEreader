@@ -13,7 +13,7 @@ Rosamond feels a gleam of cheerfulness after their creditors are paid, but is st
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Rosamond receives a letter from Will Ladislaw', 'Lydgate tries to talk to Rosamond about the rumors', 'Rosamond insists on leaving Middlemarch']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Men and women make sad mistakes about their own symptoms, taking their vague uneasy longings, sometimes for genius, sometimes for religion, and oftener still for a mighty love.']
 
 ** Chapter Keywords**:

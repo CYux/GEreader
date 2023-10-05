@@ -13,7 +13,7 @@ In this chapter, George Eliot discusses the detrimental effects of debasing mora
 **Location**:
 Not applicable
 
-**Time_period**:
+**Time Period**:
 1879
 
 **Themes**:
@@ -22,7 +22,7 @@ Not applicable
 ** Plot Points**:
 ['Not applicable']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['This is what I call debasing the moral currency: lowering the value of every inspiring fact and tradition so that it will command less and less of the spiritual products, the generous motives which sustain the charm and elevation of our social existence.']
 
 ** Chapter Keywords**:

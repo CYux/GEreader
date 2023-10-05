@@ -13,7 +13,7 @@ In this chapter, sixteen years have passed since Silas Marner found Eppie on his
 **Location**:
 Raveloe
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Silas and Eppie discuss the possibility of having a garden', 'Silas reflects on his past and the betrayal of his friend', 'Eppie suggests building a stone wall for the garden', 'They notice that the nearby pit has dried up', "Eppie asks Silas about getting married and he suggests asking Mrs. Winthrop and Aaron's mother for their opinion", 'They meet Mrs. Winthrop and Aaron']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I wish we had a little garden, father, with double daisies in, like Mrs. Winthrop’s.”', '“And should you like that, Eppie?” said Silas, looking at her.', '“I’ll not be the man to say no, Eppie,” said Silas, emphatically; “but we’ll ask your godmother. She’ll wish the right thing by you and her son too.”']
 
 ** Chapter Keywords**:

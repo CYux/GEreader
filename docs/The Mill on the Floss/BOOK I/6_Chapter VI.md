@@ -14,7 +14,7 @@ In this chapter, Mrs. Tulliver is preparing for a family party and is reluctant 
 **Location**:
 The Tulliver family home and surrounding area
 
-**Time_period**:
+**Time Period**:
 Unclear, but likely set in the 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Unclear, but likely set in the 19th century
 ** Plot Points**:
 ['Mrs. Tulliver prepares for a family party', 'Tom and Maggie fight over a puff pastry', 'Tom ends his friendship with Bob Jakin']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I’d as lief not invite sister Deane this time,” said Mrs Tulliver', '“My children need be beholding to nobody.”', '“You give me the halfpenny now,” said Tom.', '“You get out wi’ you,” said Bob, giving Tom a kick.']
 
 ** Chapter Keywords**:

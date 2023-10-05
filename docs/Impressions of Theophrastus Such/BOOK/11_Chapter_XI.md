@@ -13,7 +13,7 @@ In this chapter, George Eliot discusses the idea of plagiarism, the claiming of 
 **Location**:
 Not specified
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified
 ** Plot Points**:
 ["Euphorion's views on intellectual property", 'Difficulties in proving plagiarism', 'Influence of names in judgment', 'Fable of animals determining the creator of a honeycomb']
 
-** Significant Quotes**:
+** Significant Quotations**:
 To lay false claim to an invention or discovery which has an immediate market value; to vamp up a professedly new book of reference by stealing from the pages of one already produced at the cost of much labour and material; to copy somebody else's poem and send the manuscript to a magazine, or hand it about among friends as an original 'effusion;' to deliver an elegant extract from a known writer as a piece of improvised eloquence:--these are the limits within which the dishonest pretence of originality is likely to get hissed or hooted and bring more or less shame on the culprit.
 
 ** Chapter Keywords**:

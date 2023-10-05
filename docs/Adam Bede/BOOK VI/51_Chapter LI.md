@@ -15,7 +15,7 @@ In this chapter of Adam Bede, Lisbeth expresses her sorrow at Dinah leaving the 
 **Location**:
 Hall Farm
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -24,7 +24,7 @@ Unknown
 ** Plot Points**:
 ['Lisbeth expresses her desire for Dinah to marry Adam', 'Dinah tries to avoid the topic and focuses on housework', 'Seth assures Lisbeth that Dinah is not interested in marrying him', "Lisbeth remains convinced of Dinah's love for Adam", 'Adam goes for a walk and discusses his feelings with Seth', 'Seth suggests that Adam ask Dinah directly about her feelings', 'Adam decides to visit Dinah at the farm instead of going to church']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“For a long while,” Dinah had said, for she had told Lisbeth of her resolve.', '“Then it’ll be for all my life, an’ I shall ne’er see thee again,” said Lisbeth.', '“Thee couldstna put up wi’ Seth,” she said.', '“He isna cliver enough for thee, happen, but he’d ha’ been very good t’ thee', '“But he’d be a fine husband for anybody, be they who they will, so looked-on an’ so cliver as he is.', '“Thee mightst do as I should ha’ somebody wi’ me to comfort me a bit, an’ wait on me when I’m bad, an’ be good to me.”', '“But I’ve no right t’ hinder her, if she thinks well,” said Adam.', '“What dost say such things for, Mother, when thee’st got no foundation for ’em? Thee know’st nothing as gives thee a right to say that.”', '“It ’ud be wrong of me to say nothing ’ud turn her,” he answered.', '“But if thee mean’st it about myself, I’ve given up all thoughts as she can ever be my wife.', '“But suppose there was a man as ’ud let her do just the same and not interfere with her—she might do a good deal o’ what she does now, just as well when she was married as when she was single.', '“But is it o’ any use to think of her?” said Adam.', '“She says she’s sure Dinah feels for me more than common, and ’ud be willing t’ have me.', '“Then I’ll go this afternoon; for if I go to church, my thoughts ’ull be with her all the while.', '“They must sing th’ anthem without me to-day.”']
 
 ** Chapter Keywords**:

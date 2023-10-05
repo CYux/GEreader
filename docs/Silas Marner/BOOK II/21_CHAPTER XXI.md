@@ -13,7 +13,7 @@ Silas Marner and Eppie decide to visit Silas's hometown, Lantern Yard. However, 
 **Location**:
 Lantern Yard, Silas's hometown, now a large manufacturing town
 
-**Time_period**:
+**Time Period**:
 Early 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th Century
 ** Plot Points**:
 ["Silas and Eppie's decision to visit Lantern Yard", 'Their journey and arrival in the changed town', 'Their discovery that Lantern Yard has been replaced by a factory', "Silas's failed attempts to learn about his old friends or Mr. Paston", "Silas's conversation with Dolly Winthrop upon their return"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“It’s gone, child,” he said, at last, in strong agitation—“Lantern Yard’s gone. It must ha’ been here, because here’s the house with the o’erhanging window—I know that—it’s just the same; but they’ve made this new opening; and see that big factory! It’s all gone—chapel and all.”', '“The old place is all swep’ away,” Silas said to Dolly Winthrop on the night of his return—“the little graveyard and everything. The old home’s gone; I’ve no home but this now.', '“No,” said Silas, “no; that doesn’t hinder. Since the time the child was sent to me and I’ve come to love her as myself, I’ve had light enough to trusten by; and now she says she’ll never leave me, I think I shall trusten till I die.”']
 
 ** Chapter Keywords**:

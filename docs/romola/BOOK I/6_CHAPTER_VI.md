@@ -13,7 +13,7 @@ In this chapter, Tito Melema is introduced to Bardo, Romola's blind father, by N
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance
 ** Plot Points**:
 ['Tito is introduced to Bardo and Romola', 'Bardo offers to help Tito with his book', 'Tito discusses his gems and Bardo suggests he visit Bartolommeo Scala', 'Bernardo warns Bardo to be cautious with Tito']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'He must be very unlike thy brother, Romola: and it is the better. You see no visions, I trust, my young friend?' - Bardo", "'Remember, Bardo, thou hast a rare gem of thy own; take care no one gets it who is not likely to pay a worthy price.' - Bernardo"]
 
 ** Chapter Keywords**:

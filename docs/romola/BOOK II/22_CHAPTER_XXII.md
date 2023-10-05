@@ -13,7 +13,7 @@ In the Piazza del Duomo, which is covered in festive decorations, a group of wel
 **Location**:
 ['Piazza del Duomo', 'Florence']
 
-**Time_period**:
+**Time Period**:
 15th century, during the French invasion of Italy
 
 **Themes**:
@@ -22,7 +22,7 @@ In the Piazza del Duomo, which is covered in festive decorations, a group of wel
 ** Plot Points**:
 ['Tito Melema and his companions discuss the upcoming royal procession in the festively decorated Piazza del Duomo.', 'Three prisoners are paraded through the streets by French soldiers, bound and forced to beg for their ransom.', 'The crowds become increasingly hostile towards the French soldiers and eventually help the prisoners escape.', "The eldest prisoner, Baldassarre, runs into the piazza and, in his desperation, clutches Tito's arm.", 'The two men recognize each other, but Tito denies knowing Baldassarre, calling him a madman.', 'Baldassarre releases Tito and disappears into the church.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Fools! It will be for the good and glory of Florence.', 'Some madman, surely.']
 
 ** Chapter Keywords**:

@@ -14,7 +14,7 @@ The chapter 'The Golden Gates Are Passed' details the sudden financial ruin and 
 **Location**:
 King’s Lorton, Miss Firniss’s boarding-school in Laceham on the Floss, and Tulliver's home
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ King’s Lorton, Miss Firniss’s boarding-school in Laceham on the Floss, and T
 ** Plot Points**:
 ['Mr. Tulliver loses his lawsuit, leading to financial ruin and mental breakdown', "Maggie leaves her school to inform Tom about their father's condition", 'Tom and Maggie return home together, ready to face their new harsh reality']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The golden gates of their childhood had forever closed behind them.', 'Oh, Tom, he will lose the mill and the land and everything; he will have nothing left.', 'They had gone forth together into their life of sorrow, and they would never more see the sunshine undimmed by remembered cares.']
 
 ** Chapter Keywords**:

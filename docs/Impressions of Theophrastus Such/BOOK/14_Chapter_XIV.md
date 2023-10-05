@@ -13,7 +13,7 @@ Theophrastus Such, Pepin
 **Location**:
 Not specified
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Excessive writing, conceit, loss of perception, public conscience, authorship
 ** Plot Points**:
 ['The narrator discusses the negative consequences of excessive writing.', 'Pepin is used as an example of a writer who has fallen into this trap.', 'The author argues that such writers can become conceited and lose their ability to perceive the world accurately.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 We cannot command veracity at will: the power of seeing and reporting truly is a form of health that has to be delicately guarded, and as an ancient Rabbi has solemnly said, 'The penalty of untruth is untruth.'
 
 ** Chapter Keywords**:

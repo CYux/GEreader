@@ -13,7 +13,7 @@ The chapter opens with a lively conversation at the Rainbow, a local pub, where 
 **Location**:
 The Rainbow pub
 
-**Time_period**:
+**Time Period**:
 Mid 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid 19th Century
 ** Plot Points**:
 ['Discussion about the quality of a cow', 'The story of the Warren stables being haunted', "Mr. Dowlas's bet to disprove the ghostly rumors", "The landlord's speculation about the nature of seeing ghosts"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Some folks ’ud say that was a fine beast you druv in yesterday, Bob?'", "'I know what’s right, nor only so, But also practise what I know.'", "'I should think there did—a _very_ partic’lar thing,'", "'I aren’t a turn-tail cur.'", "'As if ghos’es ’ud want to be believed in by anybody so ignirant!'"]
 
 ** Chapter Keywords**:

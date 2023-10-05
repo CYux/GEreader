@@ -13,7 +13,7 @@ Fred falls ill with typhoid fever and is attended to by Dr. Lydgate. Mrs. Vincy 
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Fred falls ill with typhoid fever', "Dr. Wrench's negligence and refusal to continue treatment", "Lydgate becomes the Vincy family's new medical attendant", 'Speculation and gossip in Middlemarch']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I shall soon be all right. I must have taken cold in that nasty damp ride.', 'He’s an uncommonly unfortunate lad, is Fred. He’d need have some luck by and by to make up for all this—else I don’t know who’d have an eldest son.', 'To be puffed by ignorance was not only humiliating, but perilous, and not more enviable than the reputation of the weather-prophet.']
 
 ** Chapter Keywords**:

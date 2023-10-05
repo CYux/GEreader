@@ -15,7 +15,7 @@ In this chapter, Adam Bede is hopeful about his future, and is offered a share i
 **Location**:
 The Poyser household, The Chase Farm
 
-**Time_period**:
+**Time Period**:
 Late 18th to early 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th to early 19th century
 ** Plot Points**:
 ["Adam is offered a share in Jonathan Burge's business.", 'Adam notices a change in Hetty and believes her feelings for Arthur were not as deep as he thought.', 'Adam contemplates proposing to Hetty in the near future.', 'Adam hints at moving out of their small house due to the good fortune in business.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Adam himself watched her at first with trembling anxiety, which gave way to surprise and delicious hope.', 'Adam would be able to take a separate house now, and provide for his mother in the old one; his prospects would justify his marrying very soon.', 'He could not help preparing her gently for the coming change by talking of the old house being too small for them all to go on living in it always.']
 
 ** Chapter Keywords**:

@@ -15,7 +15,7 @@ In this chapter, the village of Hayslope is filled with excitement as the inhabi
 **Location**:
 Hayslope
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -24,7 +24,7 @@ Unknown
 ** Plot Points**:
 ['Dinah Morris delivers a sermon on the Green in Hayslope', 'The villagers are moved by her words', 'The stranger listens to the sermon and rides away']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Dear friends, come and take this blessedness; it is offered to you; it is the good news that Jesus came to preach to the poor. It is not like the riches of this world, so that the more one gets the less the rest can have. God is without end; his love is without end—”']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ Christian, Mr. Debarry's servant, delivers a letter to Reverend Rufus Lyon, expl
 **Location**:
 Reverend Lyon's study
 
-**Time_period**:
+**Time Period**:
 October 3, 1832
 
 **Themes**:
@@ -22,7 +22,7 @@ October 3, 1832
 ** Plot Points**:
 ['Christian delivers a letter to Lyon claiming the lost items.', "Lyon suspects Christian to be his wife's former husband and Esther's father.", 'Lyon questions Christian, who dismisses his inquiries.', 'Christian leaves with his belongings, leaving Lyon anxious and uncertain.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['His power of fulfilling it must depend on what he saw in this visitor, of whose coming he had a horrible dread, at the very time he was writing to demand it.', 'How was it possible to lay bare the sad and sacred past in answer to such a call as this?', 'Nothing could be done to-day; everything must be deferred. He answered Christian in a low apologetic tone.']
 
 ** Chapter Keywords**:

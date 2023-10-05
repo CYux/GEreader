@@ -15,7 +15,7 @@ In this chapter, Dinah is helping Mrs. Poyser with chores at the Hall Farm when 
 **Location**:
 Hall Farm
 
-**Time_period**:
+**Time Period**:
 1801
 
 **Themes**:
@@ -24,7 +24,7 @@ Hall Farm
 ** Plot Points**:
 ['Dinah reveals her plan to return to Snowfield', 'Adam Bede asks Dinah to visit his sick mother', 'Dinah and Adam leave the farm together']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I never saw the like to you, Dinah,' Mrs. Poyser was saying, 'when you've once took anything into your head: there's no more moving you than the rooted tree.'", "'It's an errand to you brought me, Dinah,' said Adam, 'mother's a bit ailing, and she's set her heart on your coming to stay the night with her, if you'll be so kind.'"]
 
 ** Chapter Keywords**:

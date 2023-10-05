@@ -13,7 +13,7 @@ In this chapter, Harold Transome asks Esther to marry him. However, due to a fam
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 1860s
 
 **Themes**:
@@ -22,7 +22,7 @@ Transome Court
 ** Plot Points**:
 ['Harold Transome proposes to Esther.', 'Harold reveals a family scandal that might tarnish his reputation.', 'Esther is torn between her feelings for Harold and Felix.', "Harold informs Esther about the growing support for Felix's memorial.", 'Esther discovers Mrs. Transome pacing the corridors late at night.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"What is to be done now is, that we should proceed at once to the necessary legal measures for putting you in possession of your own, and arranging mutual claims. After that I shall probably leave England."', '"I can\'t speak. I can\'t say anything to-night. A great decision has to be made: I must wait--till to-morrow."', '"You will be glad to hear that we shall get a very powerfully signed memorial to the Home Secretary about young Holt. I think your speaking for him helped a great deal. You made all the men wish what you wished."']
 
 ** Chapter Keywords**:

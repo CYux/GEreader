@@ -13,7 +13,7 @@ The chapter starts with a Confirmation ceremony held at Milby Church, led by a B
 **Location**:
 Milby Church, The Parsonage, and the Red Lion bar
 
-**Time_period**:
+**Time Period**:
 Not specified, but the novel was published in 1858
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified, but the novel was published in 1858
 ** Plot Points**:
 ['The Confirmation ceremony at Milby Church', "The Bishop's meeting at the Parsonage to discuss the evening lecture", "The conversation at the Red Lion bar revealing the Bishop's decision and the locals' discontent"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Any coward can fight a battle when he’s sure of winning; but give me the man who has pluck to fight when he’s sure of losing. That’s my way, sir; and there are many victories worse than a defeat, as Mr. Tryan shall learn to his cost.’ - Mr. Dempster", "'Depend upon it, he’ll find the climate of Milby too hot for him.’ - Mr. Dempster"]
 
 ** Chapter Keywords**:

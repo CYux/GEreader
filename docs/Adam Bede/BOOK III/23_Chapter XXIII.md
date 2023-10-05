@@ -15,7 +15,7 @@ Adam Bede receives an invitation from Captain Donnithorne to dine upstairs with 
 **Location**:
 Dinner at Captain Donnithorne's estate
 
-**Time_period**:
+**Time Period**:
 Late 18th to early 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th to early 19th century
 ** Plot Points**:
 ['Adam receives an invitation to dine with the large tenants', "Adam and Bartle discuss Adam's new appointment over the woods", 'Debate about the seating arrangement at the dinner', "Adam's presence at the dinner is noticed by Mr. Casson", "Adam is charmed by Hetty's pettishness and they share a moment of flirtation"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Seth, lad,” he said, “the captain has sent to say I’m to dine upstairs—he wishes it particular, Mr. Mills says, so I suppose it ’ud be behaving ill for me not to go. But I don’t like sitting up above thee and mother, as if I was better than my own flesh and blood.', '“Nay, nay, lad,” said Seth, “thy honour’s our honour; and if thee get’st respect, thee’st won it by thy own deserts.', '“Well, Mr. Bede, you’re one o’ them as mounts hup’ards apace,” he said, when Adam sat down. “You’ve niver dined here before, as I remember.', '“Oh dear, Aunt, I wish you’d speak to Totty; she keeps putting her legs up so, and messing my frock.']
 
 ** Chapter Keywords**:

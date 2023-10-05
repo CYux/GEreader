@@ -13,7 +13,7 @@ Gwendolen, mourning her husband's death, is consoled by Daniel Deronda. She conf
 **Location**:
 Unknown
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Gwendolen's confession of guilt and relief", "Deronda's promise not to forsake Gwendolen", "Mention of Sir Hugo Mallinger's arrival", "Gwendolen's contemplation of her future"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You cannot bear to look at me any more. You think I am too wicked. You do not believe that I can become any better—worth anything—worthy enough—I shall always be too wicked to—' - Gwendolen", "'I believe that you may become worthier than you have ever yet been—worthy to lead a life that may be a blessing. No evil dooms us hopelessly except the evil we love, and desire to continue in, and make no effort to escape from. You _have_ made efforts—you will go on making them.' - Deronda"]
 
 ** Chapter Keywords**:

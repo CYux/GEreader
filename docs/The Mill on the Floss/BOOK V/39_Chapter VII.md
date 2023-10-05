@@ -14,7 +14,7 @@ In this chapter, Mr. Tulliver, after having triumphed over his creditors, has a 
 **Location**:
 Dorlcote Mill
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Dorlcote Mill
 ** Plot Points**:
 ["Mr. Tulliver's violent encounter with Mr. Wakem", "Mr. Tulliver's illness and eventual death", "Mr. Tulliver's last wishes to his children"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Tom, my lad, it's come upon me as I sha'n't get up again. This world's been too many for me, my lad, but you've done what you could to make things a bit even. Shake hands wi' me again, my lad, before I go away from you.'", "'You must take care of her, Tom—don't you fret, my wench—there'll come somebody as'll love you and take your part—and you must be good to her, my lad.'", "'Does God forgive raskills?—but if He does, He won't be hard wi' me.'", "'Tom, forgive me—let us always love each other'; and they clung and wept together."]
 
 ** Chapter Keywords**:

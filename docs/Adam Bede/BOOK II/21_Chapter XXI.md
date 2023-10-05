@@ -15,7 +15,7 @@ In this chapter, Adam Bede visits Bartle Massey's school and observes the studen
 **Location**:
 Bartle Massey's house on the edge of a common
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -24,7 +24,7 @@ Unknown
 ** Plot Points**:
 ["Adam observes Bartle Massey's school", 'Adam reflects on his past experiences as a student', 'Adam and Bartle discuss the possibility of Adam becoming the manager of the woods', 'Bartle talks to his dog, Vixen, about her puppies']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You must learn to deal with odd and even in life, as well as in figures.'", "'I’ve got nothing to do but to trust to my own hands and my own head-piece.'", "'The strongest calf must have something to suck at.'"]
 
 ** Chapter Keywords**:

@@ -14,7 +14,7 @@ In the midst of the family's financial troubles, an old acquaintance, Bob Jakin,
 **Location**:
 Tulliver's home
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Tulliver's home
 ** Plot Points**:
 ['Bob Jakin visits Tom and offers him nine sovereigns', 'Tom refuses to accept the money', 'Maggie promises to let Bob know if they ever need his help']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I should be taking your little fortune from you, and they wouldn't do me much good either.'", "'Oh, I'm so sorry, Bob; I never thought you were so good. Why, I think you're the kindest person in the world!'"]
 
 ** Chapter Keywords**:

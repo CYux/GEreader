@@ -13,7 +13,7 @@ In this chapter, Romola encounters an old man named Baldassarre, who appears to 
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Romola encounters an old man named Baldassarre, who appears to 
 ** Plot Points**:
 ['Romola meets Baldassarre, an old man who seems to be a former prisoner.', 'She offers him help, but he refuses to enter her home.', 'Baldassarre buys a weapon with the money Romola gives him.', "Romola struggles with her suspicions about her husband and Baldassarre's connection to him.", 'She finds solace and inspiration in the teachings of Savonarola.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['No soul is desolate as long as there is a human being for whom it can feel trust and reverence.', 'It is not force of intellect which causes ready repulsion from the aberration and eccentricities of greatness, any more than it is force of vision that causes the eye to explore the warts on a face bright with human expression; it is simply the negation of high sensibilities.']
 
 ** Chapter Keywords**:

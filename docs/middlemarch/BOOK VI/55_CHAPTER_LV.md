@@ -13,7 +13,7 @@ In this chapter, Dorothea and Will Ladislaw part ways and she reflects on their 
 **Location**:
 Freshitt
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Freshitt
 ** Plot Points**:
 ['Dorothea and Will Ladislaw part ways', 'Conversation about second marriages', "Dorothea's determination to pursue her own plans", "Sir James's acceptance of Dorothea's decision"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I am sure your dress must make you feel ill.', 'A woman could not be married in a widow’s cap.', 'I shall never marry again.', 'Sir James made no remark.']
 
 ** Chapter Keywords**:

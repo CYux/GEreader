@@ -13,7 +13,7 @@ Dorothea meets Will Ladislaw, a young relative of Mr. Casaubon's, who expresses 
 **Location**:
 Rome
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Rome
 ** Plot Points**:
 ['Dorothea meets Will Ladislaw and learns about his interest in art', "Will expresses his disagreement with Mr. Casaubon's scholarly pursuits", 'Dorothea feels pity and regret for her husband', 'Mr. Casaubon invites Will to dine with them', 'Dorothea worries about the consequences of their conversation']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘who with repentance is not satisfied, is not of heaven nor earth:’', '‘I regretted it especially because of my gratitude and respect towards my cousin’', '‘I am glad that you feel that, my dear’']
 
 ** Chapter Keywords**:

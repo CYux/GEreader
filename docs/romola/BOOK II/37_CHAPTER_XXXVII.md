@@ -13,7 +13,7 @@ In this chapter, Romola decides to leave her husband Tito and Florence, as she f
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Renaissance Italy
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance Italy
 ** Plot Points**:
 ['Romola writes letters to Tito and Bernardo, explaining her decision to leave', 'She disguises herself as a religious figure and leaves the city', 'Romola encounters two monks on her journey, making her feel uneasy in her disguise', 'She takes a moment to rest and reflects on her newfound freedom and solitude']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Tito, my love for you is dead; and therefore, so far as I was yours, I too am dead.', 'The Romola you married can never return.']
 
 ** Chapter Keywords**:

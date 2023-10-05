@@ -13,7 +13,7 @@ The chapter provides a glimpse into the past love life of Mr. Gilfil, contrastin
 **Location**:
 Shepperton Vicarage
 
-**Time_period**:
+**Time Period**:
 Late 18th to early 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 18th to early 19th Century
 ** Plot Points**:
 ["Mr. Gilfil's past passionate love and sorrow are revealed.", "Contrast between Mr. Gilfil's past and his present old age is drawn.", "Mr. Gilfil's character traits, including his faults and oddities, are linked to a past sorrow.", "Despite his faults, Mr. Gilfil's noble nature is evident in his actions."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Rich brown locks, passionate love, and deep early sorrow, strangely different as they seem from the scanty white hairs, the apathetic content, and the unexpectant quiescence of old age, are but part of the same life’s journey.', 'But it is with men as with trees: if you lop off their finest branches, into which they were pouring their young life-juice, the wounds will be healed over with some rough boss, some odd excrescence; and what might have been a grand tree expanding into liberal shade, is but a whimsical misshapen trunk.', 'Many an irritating fault, many an unlovely oddity, has come of a hard sorrow, which has crushed and maimed the nature just when it was expanding into plenteous beauty.', 'there was the main trunk of the same brave, faithful, tender nature that had poured out the finest, freshest forces of its life-current in a first and only love--the love of Tina.']
 
 ** Chapter Keywords**:

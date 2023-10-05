@@ -14,7 +14,7 @@ In this chapter, Maggie returns to Dorlcote Mill, seeking refuge with her brothe
 **Location**:
 Dorlcote Mill and Bob Jakin's house
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Dorlcote Mill and Bob Jakin's house
 ** Plot Points**:
 ["Maggie's return to Dorlcote Mill", 'Tom disowns Maggie', 'Mrs. Tulliver decides to accompany Maggie', 'Bob Jakin offers Maggie and Mrs. Tulliver shelter']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You will find no home with me,' he answered, with tremulous rage. 'You have disgraced us all. You have disgraced my father’s name.'", "'My child! I’ll go with you. You’ve got a mother.'", "'I want you to go to Dr Kenn’s, and ask to speak to him, and tell him that I am here, and should be very grateful if he would come to me while my mother is away.'"]
 
 ** Chapter Keywords**:

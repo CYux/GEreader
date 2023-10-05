@@ -13,7 +13,7 @@ Silas Marner, a weaver, is isolated from society after leaving his hometown and 
 **Location**:
 Raveloe
 
-**Time_period**:
+**Time Period**:
 Early 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th Century
 ** Plot Points**:
 ['Silas Marner moves to Raveloe and lives a solitary life', 'Locals believe Marner to be a healer but later ostracize him when he fails to provide a cure', 'Marner starts hoarding his earnings, finding joy in counting his money', "Marner's precious brown pot breaks, symbolizing a break from his past", "A significant change occurs in Marner's life during the fifteenth Christmas in Raveloe"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['His life had reduced itself to the functions of weaving and hoarding, without any contemplation of an end towards which the functions tended.', 'No wonder his thoughts were still with his loom and his money when he made his journeys through the fields and the lanes to fetch and carry home his work']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Godfrey Cass confesses to his wife, Nancy, about his past. He r
 **Location**:
 The Cass's home
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th century
 ** Plot Points**:
 ['Godfrey reveals that Dunstan robbed Silas Marner', "Godfrey confesses that his deceased wife is Eppie's mother and that Eppie is his child", 'Nancy expresses regret for not being able to raise Eppie from the start, but accepts the responsibility to do so now']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Everything comes to light, Nancy, sooner or later. When God Almighty wills it, our secrets are found out.'", "'Godfrey, if you had but told me this six years ago, we could have done some of our duty by the child.'", "'I can’t say what I should have done about that, Godfrey. I should never have married anybody else. But I wasn’t worth doing wrong for—nothing is in this world.'"]
 
 ** Chapter Keywords**:

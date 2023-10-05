@@ -13,7 +13,7 @@ The chapter introduces Silas Marner, a linen-weaver living in Raveloe, who is vi
 **Location**:
 Raveloe village and Lantern Yard
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th century
 ** Plot Points**:
 ['Introduction of Silas Marner and his lifestyle', 'Silas being falsely accused of theft', "Silas's expulsion from the Lantern Yard community", "Silas's departure from the town"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'God will clear me: I know nothing about the knife being there, or the money being gone. Search me and my dwelling; you will find nothing but three pound five of my own savings.'", "'You stole the money, and you have woven a plot to lay the sin at my door. But you may prosper, for all that: there is no just God that governs the earth righteously, but a God of lies, that bears witness against the innocent.'"]
 
 ** Chapter Keywords**:

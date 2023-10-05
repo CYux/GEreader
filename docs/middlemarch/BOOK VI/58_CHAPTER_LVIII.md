@@ -13,7 +13,7 @@ In this chapter, Mr. Vincy predicts that Rosamond will be driven to make an appe
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Mr. Vincy predicts Rosamond's appeal for financial help", 'Captain Lydgate visits and flirts with Rosamond', 'Tertius reveals their financial troubles to Rosamond', 'Rosamond suggests leaving Middlemarch but Tertius insists on facing the situation']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I wish you would talk more to the Captain at dinner, Tertius,” said Rosamond', '“We must brace ourselves to do what is necessary. It is I who have been in fault: I ought to have seen that I could not afford to live in this way.', '“Certainly not,” said Rosamond; “I shall do everything it becomes me to do.”']
 
 ** Chapter Keywords**:

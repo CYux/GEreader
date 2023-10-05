@@ -13,7 +13,7 @@ The chapter describes the character of Mr. Gilfil, the local vicar of Shepperton
 **Location**:
 Shepperton
 
-**Time_period**:
+**Time Period**:
 Late 18th to early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Late 18th to early 19th century
 ** Plot Points**:
 ["Mr. Gilfil's respected position in Shepperton", "Description of Mr. Gilfil's personal habits and lifestyle", "Mention of Mr. Gilfil's wife and her death", "The locked-up chamber in Mr. Gilfil's house, representing his secret sorrows"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Some folks can't a-bear to put off their colours,' she remarked; 'but that was never the way i' _my_ family.'", "'A bit o' company's meat an' drink too, an' he follers me about, and grunts when I spake to'm, just like a Christian.'", "'Mr. Gilfil was a bachelor, then?'"]
 
 ** Chapter Keywords**:

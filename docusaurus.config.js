@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'GEORGE ELIOT ARCHIVE',
+  title: 'George Eliot Archive',
   tagline: 'Reader',
   favicon: 'img/favicon.ico',
 

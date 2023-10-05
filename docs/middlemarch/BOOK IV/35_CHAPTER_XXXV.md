@@ -13,7 +13,7 @@ In this chapter, the funeral procession of Peter Featherstone takes place, and t
 **Location**:
 Stone Court
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Stone Court
 ** Plot Points**:
 ["Peter Featherstone's funeral procession", 'Reading of the will', 'Shocking contents of the will', 'Revelation of a second will']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Non, je ne comprends pas de plus charmant plaisir...', 'The same sort of temptation befell the Christian Carnivora...', 'The will I hold in my hand...']
 
 ** Chapter Keywords**:

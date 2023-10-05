@@ -13,7 +13,7 @@ Esther Lyon attends Felix Holt's trial and becomes determined to testify on his 
 **Location**:
 The Court
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Esther testifies on behalf of Felix Holt', 'Felix is found guilty of manslaughter', 'Felix is sentenced to four years in prison']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'He is really a fine young fellow,' said Harold, coming to speak to Esther after a colloquy with the prisoner's solicitor.", "'I entreat you, for God's sake,' said Esther, in that low tone of urgent beseeching which is equivalent to a cry; and with a look of appeal more penetrating still, 'I would rather die than not do it.'", "'I am Esther Lyon, the daughter of Mr. Lyon, the Independent minister at Treby, who has been one of the witnesses for the prisoner. I know Felix Holt well...'", "'Yes,' she said, drawing down her veil, 'let us go.'"]
 
 ** Chapter Keywords**:

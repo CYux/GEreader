@@ -13,7 +13,7 @@ In this chapter, Baldassarre is waiting by the river, hoping for some sort of ch
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Baldassarre is waiting by the river, hoping for some sort of ch
 ** Plot Points**:
 ['Baldassarre waits by the river, still seeking revenge on Tito.', "The Compagnacci plan an attack on Tito's house.", 'Tito, about to leave Florence, is caught by the mob and pushed into the river.', 'Tito swims away and is found by Baldassarre, who strangles him.', 'The two bodies are discovered and recognized by various characters.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He desired to live; and therefore he crept out in the grey light, and seated himself in the long grass, and watched the waters that had a faint promise in them.']
 
 ** Chapter Keywords**:

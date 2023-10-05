@@ -13,7 +13,7 @@ In this chapter, Mr. Gilfil finds Caterina, who is alive but in a state of deep 
 **Location**:
 Daniel Knott's house
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Daniel Knott's house
 ** Plot Points**:
 ['Mr. Gilfil finds Caterina alive but mentally unstable', 'Caterina confesses her intention to kill Captain Wybrow', 'Mr. Gilfil comforts Caterina and encourages her to recover', 'Caterina falls asleep, showing signs of potential recovery', 'Mr. Gilfil plans to place Caterina under the care of his sister']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'My Tina, we have all our secret sins; and if we knew ourselves, we should not judge each other harshly.'", "'But I had had such wicked feelings for a long while. I was so angry, and I hated Miss Assher so, and I didn’t care what came to anybody, because I was so miserable myself. I was full of bad passions. No one else was ever so wicked.'", "'Our thoughts are often worse than we are, just as they are often better than we are. And God sees us as we are altogether, not in separate feelings or actions, as our fellow-men see us.'"]
 
 ** Chapter Keywords**:

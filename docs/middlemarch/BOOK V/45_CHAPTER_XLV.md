@@ -13,7 +13,7 @@ In this chapter, Lydgate faces opposition and criticism from other doctors in Mi
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ['Lydgate faces opposition and criticism from other doctors in Middlemarch', 'He discusses his plans for the New Fever Hospital with Dorothea', "Rosamond expresses her dislike for Lydgate's profession"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['A man conscious of enthusiasm for worthy aims is sustained under petty hostilities', 'The medical aversion to Lydgate was hardly disguised now', 'He had his long legs stretched on the sofa, his head thrown back, and his hands clasped behind it according to his favorite ruminating attitude']
 
 ** Chapter Keywords**:

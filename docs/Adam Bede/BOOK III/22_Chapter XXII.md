@@ -15,7 +15,7 @@ The chapter unfolds in the mid-summer on the day of Captain Donnithorne's 21st b
 **Location**:
 Hayslope and Broxton
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Hayslope and Broxton
 ** Plot Points**:
 ['Hetty Sorrel admires her new earrings, a gift from Arthur Donnithorne.', "The preparations for Captain Donnithorne's 21st birthday celebration are underway.", 'Arthur reveals to Mr. Irwine that Adam Bede will be employed as a supervisor of the woods.', 'Hetty anticipates seeing Arthur at the celebration.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['It is too painful to think that she is a woman, with a woman’s destiny before her—a woman spinning in young ignorance a light web of folly and vain hopes which may one day close round her and press upon her, a rancorous poisoned garment, changing all at once her fluttering, trivial butterfly sensations into a life of deep human anguish.', 'Ah, my boy, it is not only woman’s love that is ἀπέρωτος ἒρως as old Æschylus calls it. There’s plenty of ‘unloving love’ in the world of a masculine kind.']
 
 ** Chapter Keywords**:

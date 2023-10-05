@@ -13,7 +13,7 @@ On a snowy New Year's Eve, Molly, the wife of Godfrey Cass and mother of his chi
 **Location**:
 Raveloe
 
-**Time_period**:
+**Time Period**:
 Early 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th Century
 ** Plot Points**:
 ["Molly decides to reveal her and Godfrey's child at the New Year's Eve party at the Red House.", 'Molly dies from cold and opium overdose.', "Molly's child wanders into Silas Marner's cottage.", 'Silas discovers the child and takes care of her.', "Silas discovers Molly's body in the snow."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['But she would mar his pleasure: she would go in her dingy rags, with her faded face, once as handsome as the best, with her little child that had its father’s hair and eyes, and disclose herself to the Squire as his eldest son’s wife.', 'Gold!—his own gold—brought back to him as mysteriously as it had been taken away!', 'He felt his heart begin to beat violently, and for a few moments he was unable to stretch out his hand and grasp the restored treasure.', 'The little one, accustomed to be left to itself for long hours without notice from its mother, squatted down on the sack, and spread its tiny hands towards the blaze, in perfect contentment, gurgling and making many inarticulate communications to the cheerful fire, like a new-hatched gosling beginning to find itself comfortable.']
 
 ** Chapter Keywords**:

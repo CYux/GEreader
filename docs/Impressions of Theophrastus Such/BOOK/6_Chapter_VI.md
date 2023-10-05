@@ -13,7 +13,7 @@ This chapter discusses the issue of bad temper and its effects on a person's cha
 **Location**:
 Unspecified
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Unspecified
 ** Plot Points**:
 ["Touchwood's bad temper causes difficulties in his relationships", "Touchwood's attempts to apologize for his behavior often seem insincere", 'High character cannot coexist with such a temper']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["I doubt the possibility that a high order of character can coexist with a temper like Touchwood's.", 'It is essential to what is worthy to be called high character, that it may be safely calculated on, and that its qualities shall have taken the form of principles or laws habitually, if not perfectly, obeyed.']
 
 ** Chapter Keywords**:

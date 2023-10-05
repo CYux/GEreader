@@ -13,7 +13,7 @@ In this chapter, Mr. Vincy visits Mr. Bulstrode to discuss a rumor about his son
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Mr. Vincy asks Mr. Bulstrode to write a letter denying the rumor about Fred', "Mr. Bulstrode refuses and expresses concerns about Fred's financial actions", 'The conversation becomes heated and Mr. Vincy accuses Mr. Bulstrode of being ungenerous', 'They agree to reflect on the matter and continue the discussion later']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I shall know better what to do then.', 'I consider it unhandsome.', "It's this sort of thing makes a man’s name stink."]
 
 ** Chapter Keywords**:

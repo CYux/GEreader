@@ -13,7 +13,7 @@ In Chapter LVI of Middlemarch, Dorothea continues to gain confidence in Caleb Ga
 **Location**:
 Lowick parish and Frick
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Lowick parish and Frick
 ** Plot Points**:
 ["Dorothea continues to trust Caleb Garth's knowledge and asks for his help with business matters", 'The construction of railways becomes a topic of concern in the community', 'Fred Vincy confides in Mr. Farebrother about his feelings for Mary Garth and decides to pursue a different career path', 'Fred approaches Caleb for help in learning the business', 'Tension arises between Fred and his father when he informs him about his decision']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“How happy is he born and taught...And having nothing yet hath all.”—SIR HENRY WOTTON', '“The best way would be to say nothing, and set somebody on to send ’em away with a flea in their ear, when they came spying and measuring,” said Solomon.', '“But them are fools as meddle, and so I told the chaps here. This is the big folks’s world, this is. But yo’re for the big folks, Muster Garth, yo are.”']
 
 ** Chapter Keywords**:

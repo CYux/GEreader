@@ -13,7 +13,7 @@ In this chapter, Deronda has a final meeting with his mother, the Princess Halm-
 **Location**:
 Princess Halm-Eberstein's room
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Deronda has a second interview with his mother, where she remains unrepentant and indifferent to her duties as a mother and to her Jewish heritage.', 'Deronda tries to argue the importance and significance of their Jewish heritage, but his mother dismisses it.', 'She gives Deronda a miniature of herself in her youth and asks him to make his love understand her.', 'The meeting ends with a goodbye and a final kiss.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I am not a loving woman. That is the truth. It is a talent to love—I lack it. Others have loved me—and I have acted their love. I know very well what love makes of men and women—it is subjection.', 'But you love your other children, and they love you?', 'You are the grandson he wanted. You speak as men do—as if you felt yourself wise. What does it all mean?']
 
 ** Chapter Keywords**:

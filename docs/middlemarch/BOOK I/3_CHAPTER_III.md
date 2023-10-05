@@ -13,7 +13,7 @@ Dorothea continues to be captivated by Mr. Casaubon and their conversations. She
 **Location**:
 Tipton
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Dorothea becomes more enamored with Mr. Casaubon and his intellect', "Sir James Chettam shows interest in Dorothea's plans for building cottages", 'Dorothea is oblivious to the possibility of a romantic relationship with Sir James']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I should learn everything then,' she said to herself", "'They are too helpless: their lives are too frail'", "'I think we deserve to be beaten out of our beautiful houses with a scourge of small cords'", "'He thinks that Dodo cares about him, and she only cares about her plans'", "'It is difficult to say whether there was or was not a little wilfulness in her continuing blind to the possibility that another sort of choice was in question in relation to her'"]
 
 ** Chapter Keywords**:

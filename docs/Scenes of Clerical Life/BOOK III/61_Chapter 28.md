@@ -13,7 +13,7 @@ The chapter narrates the burial of Edgar Tryan, a beloved curate, who is mourned
 **Location**:
 Orchard Street and Milby Churchyard
 
-**Time_period**:
+**Time Period**:
 Not specified, but likely mid to late 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified, but likely mid to late 19th century
 ** Plot Points**:
 ["Edgar Tryan's funeral", "Janet's return to her home after the funeral", 'Janet living a life of gratitude and patient effort', 'Janet is seen as a living memorial of Edgar Tryan']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Every heart there was filled with the memory of a man who, through a self-sacrificing life and in a painful death, had been sustained by the faith which fills that form with breath and substance.', 'Life to her could never more have any eagerness; it was a solemn service of gratitude and patient effort.', 'But there is another memorial of Edgar Tryan, which bears a fuller record: it is Janet Dempster, rescued from self-despair, strengthened with divine hopes, and now looking back on years of purity and helpful labour.']
 
 ** Chapter Keywords**:

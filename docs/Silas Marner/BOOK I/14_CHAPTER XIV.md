@@ -13,7 +13,7 @@ In this chapter, Silas Marner decides to keep the child he found and names her E
 **Location**:
 Raveloe
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Silas decides to keep the child', 'Dolly helps Silas with clothes for Eppie', 'Silas bonds with Eppie and takes her on his journeys', 'The villagers show interest in Eppie', 'Silas finds purpose in providing for Eppie']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'But I want to do things for it myself, else it may get fond o’ somebody else, and not fond o’ me.'", "'But I can teach ’em this little un, Master Marner, when she gets old enough.'", "'For if the child ever went anyways wrong, and you hadn’t done your part by it, Master Marner...it ’ud be a thorn i’ your bed for ever o’ this side the grave.'"]
 
 ** Chapter Keywords**:

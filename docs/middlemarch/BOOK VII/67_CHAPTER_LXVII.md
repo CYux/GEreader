@@ -13,7 +13,7 @@ In this chapter, Lydgate contemplates asking for financial help from Mr. Bulstro
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Lydgate considers asking Mr. Bulstrode for financial help', 'Bulstrode suggests bankruptcy as a solution', 'Lydgate refuses to declare bankruptcy']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I have slipped into money difficulties which I can see no way out of, unless some one who trusts me and my future will advance me a sum without other security.']
 
 ** Chapter Keywords**:

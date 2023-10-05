@@ -15,7 +15,7 @@ In this chapter, Adam Bede receives a visit from Dinah, the young Methodist woma
 **Location**:
 Stoniton, prison
 
-**Time_period**:
+**Time Period**:
 18th Century
 
 **Themes**:
@@ -24,7 +24,7 @@ Stoniton, prison
 ** Plot Points**:
 ['Adam receives a visit from Dinah who requests him to visit Hetty in prison', 'Adam initially refuses but eventually agrees to see Hetty', "During their meeting, Hetty asks for Adam's forgiveness, which he grants", "The chapter concludes with the preparations for Hetty's execution"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Be comforted, Adam Bede, the Lord has not forsaken her.'", "'I _will_ come, Dinah... to-morrow morning... if it must be. I may have more strength to bear it, if I know it _must_ be. Tell her, I forgive her; tell her I will come—at the very last.'", "'Adam... I’m very sorry... I behaved very wrong to you... will you forgive me... before I die?'"]
 
 ** Chapter Keywords**:

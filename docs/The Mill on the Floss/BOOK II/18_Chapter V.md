@@ -14,7 +14,7 @@ In this chapter, Maggie visits Tom at school, where he has had a falling out wit
 **Location**:
 Mr Stelling's school
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Mr Stelling's school
 ** Plot Points**:
 ['Maggie visits Tom at school', 'Tom and Philip are no longer friends', 'Maggie feels sympathy for Philip', 'Tom shows Maggie a sword and accidentally cuts himself']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I think Philip Wakem seems a nice boy, Tom,' she said", "'I'm the Duke of Wellington! March!' stamping forward with the right leg a little bent, and the sword still pointing toward Maggie", 'She thought he was dead, poor child! and yet she shook him, as if that would bring him back to life.']
 
 ** Chapter Keywords**:

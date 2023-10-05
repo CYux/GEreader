@@ -13,7 +13,7 @@ In this chapter, Bulstrode examines Raffles's pockets and finds evidence that he
 **Location**:
 Stone Court, Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Stone Court, Middlemarch
 ** Plot Points**:
 ["Bulstrode examines Raffles's pockets and finds evidence that he has stayed away from Middlemarch", 'Bulstrode stays up all night with Raffles', 'Lydgate arrives and confirms that Raffles is getting worse', 'Bulstrode lets Mrs. Abel take care of Raffles and goes to bed', 'Raffles dies', 'Bulstrode reveals that he has given Lydgate a loan of a thousand pounds', 'Lydgate plans to start anew and set up a surgery']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

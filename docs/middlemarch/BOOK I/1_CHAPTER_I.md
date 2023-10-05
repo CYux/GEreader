@@ -13,7 +13,7 @@ In Chapter I of Middlemarch, the main character, Miss Brooke, is introduced. She
 **Location**:
 Tipton Grange
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Tipton Grange
 ** Plot Points**:
 ['Introduction of Miss Brooke and Celia', 'Description of their background and upbringing', "The sisters' differing attitudes towards material possessions"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'She was usually spoken of as being remarkably clever, but with the addition that her sister Celia had more common-sense.'", "'Certainly such elements in the character of a marriageable girl tended to interfere with her lot, and hinder it from being decided according to custom, by good looks, vanity, and merely canine affection.'"]
 
 ** Chapter Keywords**:

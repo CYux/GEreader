@@ -13,7 +13,7 @@ In this chapter, Harold Transome, who is currently examining some papers, receiv
 **Location**:
 Harold Transome's home
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Harold Transome's home
 ** Plot Points**:
 ['Jermyn visits Harold to discuss the Transome estate.', 'Jermyn reveals the existence of an heir to the Bycliffes, who could claim the Transome estate.', 'Jermyn offers Harold a choice - to use his knowledge in his favor or against him.', 'Harold agrees to suspend proceedings against Jermyn and requests time to consider his options.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"Simply, whether you will choose to retain the family estates, or lay yourself open to be forthwith legally deprived of them." - Jermyn', '"No. I think you will approve of my stating in your own ear first of all, that it depends on my will whether you remain an important landed proprietor in North Loamshire, or whether you retire from the country with the remainder of the fortune you have acquired in trade." - Jermyn', '"I must have time to think of this," said Harold, conscious of a terrible pressure.']
 
 ** Chapter Keywords**:

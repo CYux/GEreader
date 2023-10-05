@@ -13,7 +13,7 @@ In this chapter, Felix Holt tries to lead the rioting crowd out of town to preve
 **Location**:
 Trebians Town, Treby Manor
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Trebians Town, Treby Manor
 ** Plot Points**:
 ['Felix attempts to lead the rioters out of town to prevent further destruction.', 'The rioters instead decide to head to Treby Manor.', 'Felix follows the crowd to the Manor, intending to warn the inhabitants.', 'The military arrives and Felix is shot in the shoulder.', 'Felix is arrested and charged with multiple crimes.', 'Thomas Transome is trampled to death in the chaos.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Mischief, thou art afoot.', "It is true that none grieved much for the other dead man, unless it be grief to say, 'Poor old fellow!'"]
 
 ** Chapter Keywords**:

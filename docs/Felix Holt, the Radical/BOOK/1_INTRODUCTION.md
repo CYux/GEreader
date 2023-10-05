@@ -13,7 +13,7 @@ The chapter provides a vivid description of rural England in the 19th century, d
 **Location**:
 Rural England, Transome Court
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Rural England, Transome Court
 ** Plot Points**:
 ['Introduction of Transome Court and the impoverished Durfeys', 'Discussion of the socio-political conditions in rural England', 'Introduction of the impact of railways on rural life']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He knew whose the land was wherever he drove; what noblemen had half-ruined themselves by gambling; who made handsome returns of rent; and who was at daggers-drawn with his eldest son.', 'There are glances of hatred that stab and raise no cry of murder; robberies that leave man or woman forever beggared of peace and joy, yet kept secret by the sufferer--committed to no sound except that of low moans in the night, seen in no writing except that made on the face by the slow months of suppressed anguish and early morning tears.']
 
 ** Chapter Keywords**:

@@ -14,7 +14,7 @@ In this chapter, Maggie visits her aunt Pullet at Garum Firs, where a family par
 **Location**:
 Garum Firs
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Garum Firs
 ** Plot Points**:
 ['Lucy reveals that Philip Wakem influenced his father to help the Tullivers.', "Mrs Pullet and Mrs Glegg discuss their contributions to Tom's household.", "Tom's prejudice against the Wakems remains, despite their assistance.", "Lucy's attempts to reconcile the family differences are unsuccessful."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I don’t say as I won’t do it,' said Mrs Pullet, 'for now Tom’s so lucky, it’s nothing but right his friends should look on him and help him.'", "'You carry it too far, Sophy,—that locking in and out,' said Mrs Glegg, in a tone of some disgust at this folly.", "'Thus, all that Lucy had effected by her zealous mediation was to fill Tom’s mind with the expectation that Maggie’s perverse resolve to go into a situation again would presently metamorphose itself, as her resolves were apt to do, into something equally perverse, but entirely different,—a marriage with Philip Wakem.'"]
 
 ** Chapter Keywords**:

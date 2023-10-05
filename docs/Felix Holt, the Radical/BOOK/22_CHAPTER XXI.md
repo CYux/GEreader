@@ -13,7 +13,7 @@ Christian, also known as Henry Scaddon, meets with attorney Jermyn, who reveals 
 **Location**:
 Jermyn's house
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Jermyn's house
 ** Plot Points**:
 ['Jermyn confronts Christian with his past', "Jermyn pressures Christian into revealing details about Bycliffe's past", 'Jermyn writes to Johnson instructing him to investigate further']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I think you're too clever, Mr. Jermyn, not to perceive that I'm not a man to be made a fool of.'", "'Well--a--it may perhaps be a still better guarantee for you,' said Jermyn, smiling, 'that I see no use in attempting that--a--metamorphosis.'"]
 
 ** Chapter Keywords**:

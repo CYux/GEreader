@@ -13,7 +13,7 @@ The chapter begins with a conversation between Mr. Gilfil and Sir Christopher ab
 **Location**:
 The Manor's library and the Rookery
 
-**Time_period**:
+**Time Period**:
 1850s
 
 **Themes**:
@@ -22,7 +22,7 @@ The Manor's library and the Rookery
 ** Plot Points**:
 ['Sir Christopher and Mr. Gilfil discuss their life plans and the upcoming marriage of Anthony', "Caterina bursts into the room with the news of Anthony's death", "Mr. Gilfil finds a dagger in Caterina's pocket", "Sir Christopher finds Anthony's lifeless body in the Rookery", 'Sir Christopher sends for help and medical assistance']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘Yes, Maynard,’ said Sir Christopher, chatting with Mr. Gilfil in the library, ‘it really is a remarkable thing that I never in my life laid a plan, and failed to carry it out. I lay my plans well, and I never swerve from them--that’s it. A strong will is the only magic.', 'Anthony ... the Rookery ... dead ... in the Rookery', 'Still he might only have fainted; it might only be a fit. Sir Christopher knelt down, unfastened the cravat, unfastened the waistcoat, and laid his hand on the heart. It might be syncope; it might not--it could not be death. No! that thought must be kept far off.']
 
 ** Chapter Keywords**:

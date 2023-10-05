@@ -13,7 +13,7 @@ In this chapter, Harold Transome confronts Jermyn and his election agent Johnson
 **Location**:
 Jermyn's office
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th century
 ** Plot Points**:
 ['Harold Transome learns about the bribing in Sproxton', 'Johnson defends his actions and explains the necessity of such tactics', 'Harold orders an end to the bribing', 'Jermyn warns Harold about his treatment of Johnson']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I have simply to complain,' said Felix, 'that one of your agents has been sent on a bribing expedition to Sproxton--with what purpose you, sir, may know better than I do. Mr. Transome, it appears, was ignorant of the affair, and does not approve it.'", "'Mr. Holt, I know, is an excellent Liberal,' said Jermyn, 'but he is perhaps too inexperienced to be aware that no canvass--a--can be conducted without the action of able men, who must--a--be trusted, and not interfered with.'"]
 
 ** Chapter Keywords**:

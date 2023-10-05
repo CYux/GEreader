@@ -13,7 +13,7 @@ In this chapter, Esther finds it impossible to speak explicitly about Felix Holt
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Esther struggles with her feelings for Felix Holt and her growing relationship with Harold Transome', 'Mrs. Holt pleads with Harold for help in getting Felix released from prison', 'Esther manages to calm the tense situation between Mrs. Holt and Harold']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'He's quite an apostolic sort of fellow, then,' was the self-quieting answer he gave to her last words.", "'It's well you can feel for the orphin child, Miss Lyon,' said Mrs. Holt, choosing an indirect answer rather than to humble herself by confessing fatigue before gentlemen who seemed to be taking her too lightly.", "'I assure you, Mrs. Holt,' said Harold, coming to the rescue--'I assure you that enough has been said to make me use my best efforts for your son.'", "'I think I didn't see the meaning of anything fine--I didn't even see the value of my father's character, until I had been taught a little by hearing what Felix Holt said, and seeing that his life was like his words.'"]
 
 ** Chapter Keywords**:

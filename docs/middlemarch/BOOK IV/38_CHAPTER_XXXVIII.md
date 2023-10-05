@@ -13,7 +13,7 @@ In this chapter, Sir James Chettam and Mrs. Cadwallader express their concerns a
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Sir James and Mrs. Cadwallader express concerns about Mr. Brooke's political involvement", 'They discuss potential consequences, such as attacks from the press', 'Sir James suggests hiring Garth to manage the estate', "Mrs. Cadwallader contemplates using the 'Trumpet' to pressure Mr. Brooke", 'Mr. Brooke defends his leniency towards tenants', 'Tension arises between Sir James and Mr. Brooke']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘He may do that afterwards,’ said Mrs. Cadwallader—‘when he has come out on the other side of the mud with an ague.’', '‘What we good stingy people don’t like, is having our sixpences sucked away from us.’', '‘Pelting is nothing to their finding holes in one’s coat.’']
 
 ** Chapter Keywords**:

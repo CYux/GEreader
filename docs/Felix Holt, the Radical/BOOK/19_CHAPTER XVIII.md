@@ -13,7 +13,7 @@ Jermyn visits Mr. Lyon to discuss the man named Maurice Christian. Mr. Lyon reve
 **Location**:
 Treby Magna
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Treby Magna
 ** Plot Points**:
 ["Jermyn's visit to Mr. Lyon and their discussion about Maurice Christian's identity.", "The town's anticipation of Harold Transome's arrival and speech.", "Esther's wish to see and hear Transome's speech.", "Esther's strained relationship with Felix Holt and her attempts to mend it."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"This, I conceive, is the principle on which my friend Felix Holt acts; and I cannot but think the light comes from the true fount, though it shines through obstructions."', '"I should have liked to hear Mr. Transome speak, but I suppose it is too late to get a place now."', '"I am not sure, I would fain have you go if you desire it, my dear," said Mr. Lyon, who could not bear to deny Esther any lawful wish.']
 
 ** Chapter Keywords**:

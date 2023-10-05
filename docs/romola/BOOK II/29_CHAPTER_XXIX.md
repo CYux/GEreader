@@ -13,7 +13,7 @@ In this chapter of 'Romola', Tito Melema is forced by a crowd to share the news 
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 late 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ late 15th century
 ** Plot Points**:
 ['Tito shares the news of the treaty', 'The crowd celebrates Piero Capponi', "Tito is haunted by Baldassarre's reappearance"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['If you sound your trumpets, we will ring our bells!']
 
 ** Chapter Keywords**:

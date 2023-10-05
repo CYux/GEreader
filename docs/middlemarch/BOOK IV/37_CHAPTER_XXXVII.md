@@ -13,7 +13,7 @@ In this chapter, Dorothea and Will Ladislaw discuss the proposal for Will to sta
 **Location**:
 Lowick Manor
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Lowick Manor
 ** Plot Points**:
 ['Dorothea suggests that Will should be provided for', 'Mr. Casaubon receives a letter from Will declining his offer of assistance', 'Mr. Casaubon contemplates how to handle the situation']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

@@ -14,7 +14,7 @@ In this chapter, Tom and his uncle, Mr. Deane, discuss Tom's future in the famil
 **Location**:
 The private room at the Bank
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ The private room at the Bank
 ** Plot Points**:
 ['Mr. Deane offers Tom a share in the business', "Tom expresses his desire to buy back the family's old Mill", "Mr. Deane promises to consider Tom's proposal"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I’ve a strong feeling about it. It was my father’s dying wish that I should try and get it back again whenever I could; it was in his family for five generations.', 'I’d give up a much greater chance in life for the sake of having the Mill again,—I mean having it in my own hands, and gradually working off the price.']
 
 ** Chapter Keywords**:

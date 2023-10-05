@@ -13,7 +13,7 @@ In this chapter, Mirah's estranged father, Lapidoth, follows her home and begs h
 **Location**:
 Brompton
 
-**Time_period**:
+**Time Period**:
 Victorian Era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian Era
 ** Plot Points**:
 ['Lapidoth follows Mirah and begs her for money', 'Mirah gives her father some money and promises to bring him to meet Ezra', 'Mirah confides in Ezra about the encounter with their father', 'Both siblings fear that Lapidoth will continue to beg from Mirah']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"Seest thou," he presently added, "our lot is the lot of Israel. The grief and the glory are mingled as the smoke and the flame. It is because we children have inherited the good that we feel the evil. These things are wedded for us, as our father was wedded to our mother."']
 
 ** Chapter Keywords**:

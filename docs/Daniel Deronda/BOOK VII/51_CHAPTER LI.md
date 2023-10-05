@@ -13,7 +13,7 @@ In this chapter of "Daniel Deronda" by George Eliot, Daniel meets his mother for
 **Location**:
 The Italia apartment
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Daniel meets his mother for the first time', 'His mother reveals that she never wanted a child and gave him up to be raised as an Englishman', 'She explains that she did it for his own good, to spare him the shame and prejudice of being Jewish', 'She reveals that she has a fatal illness and may not have much time left', 'Daniel offers his love and support, but his mother insists that they must part again']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I am your mother. But you can have no love for me."', '"I have thought of you more than of any other being in the world," said Deronda, his voice trembling nervously.', '"I am not like what you thought I was," said the mother decisively.', '"I used to think that you might be suffering," said Deronda, anxious above all not to wound her.', '"I did well for you, and I gave you your father’s fortune. Do I seem now to be revoking everything?"', '"No," she said decisively. "I will confess it all, now that I have come up to it."']
 
 ** Chapter Keywords**:

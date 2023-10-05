@@ -13,7 +13,7 @@ Felix Holt, in his journey back from Sproxton to Treby, finds a large leather po
 **Location**:
 Treby
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Treby
 ** Plot Points**:
 ['Felix finds a pocket-book and chain', 'Mr. Lyon recognizes a name in the pocket-book', 'Esther and Mr. Lyon reconcile']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Fear not; I will do what is needful with these things. You may trust them to me.'", "'Child, what has happened? You have become the image of your mother to-night'", "'She did not reject my affection. She thought not scorn of my love. She would have forgiven me, if I had erred against her, from very tenderness. Could you forgive me, child?'", "'Father, I have not been good to you; but I will be, I will be,'"]
 
 ** Chapter Keywords**:

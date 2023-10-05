@@ -14,7 +14,7 @@ In this chapter, Dr. Kenn attempts to defend Maggie from the judgement and gossi
 **Location**:
 St. Ogg's
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ St. Ogg's
 ** Plot Points**:
 ["Dr. Kenn defends Maggie against the town's gossip.", 'Dr. Kenn hires Maggie as a governess for his children.', 'Rumors spread about a potential marriage between Dr. Kenn and Maggie.', 'Lucy hears of the rumors and visits Maggie.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"Maggie, dear, be comforted," said Lucy now, putting her cheek against Maggie’s again. "Don’t grieve."', '"Lucy," Maggie began again, "_he_ struggled too. He wanted to be true to you. He will come back to you. Forgive him—he will be happy then——"']
 
 ** Chapter Keywords**:

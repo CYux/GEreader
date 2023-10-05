@@ -13,7 +13,7 @@ Dorothea, still reeling from her encounter with Will Ladislaw, tries to distract
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Dorothea tries to distract herself by visiting the Farebrother family', 'She is reminded of her lost love and is overcome with grief', 'Dorothea decides to visit Rosamond and Will', 'She sets off to Middlemarch']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Oh, I did love him!', 'What should I do—how should I act now, this very day, if I could clutch my own pain, and compel it to silence, and think of those three?']
 
 ** Chapter Keywords**:

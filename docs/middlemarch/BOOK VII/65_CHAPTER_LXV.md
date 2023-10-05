@@ -13,7 +13,7 @@ In this chapter, Rosamond eagerly awaits a response to her plea for financial he
 **Location**:
 
 
-**Time_period**:
+**Time Period**:
 
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Rosamond eagerly awaits a response to her plea for financial he
 ** Plot Points**:
 []
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In Chapter XVII of Middlemarch, Lydgate visits the Rev. Camden Farebrother at hi
 **Location**:
 The old parsonage
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The old parsonage
 ** Plot Points**:
 ['Lydgate visits Farebrother at his home', 'They discuss their views on humoring others and maintaining independence', 'Farebrother shows Lydgate his collection of insects', 'They discuss their respective hobbies and interests']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'A man might see good arguments for changing once, and not see them for changing again,' said Lydgate", "'If you vote for me you will offend Bulstrode. You will not offend me, you know,' said Farebrother", "'I can't spare you. You are a sort of circumnavigator come to settle among us, and will keep up my belief in the antipodes,' said Farebrother"]
 
 ** Chapter Keywords**:

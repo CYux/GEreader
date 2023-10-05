@@ -13,7 +13,7 @@ In this chapter, Will Ladislaw joins Dorothea and Mr. Casaubon for dinner and im
 **Location**:
 Rome
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Rome
 ** Plot Points**:
 ['Will impresses Dorothea and Mr. Casaubon with his conversation skills', "They visit Naumann's studio", "Will becomes jealous of Naumann's interest in painting Dorothea", "Dorothea promises not to speak negatively about Mr. Casaubon's writings", 'Mr. Casaubon is indifferent to the situation']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I am so glad you are come. Perhaps you understand all about cameos, and can tell me if these are really good.'", "'I like you very much.'", "'I shall not see you again.'"]
 
 ** Chapter Keywords**:

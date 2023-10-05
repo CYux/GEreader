@@ -13,7 +13,7 @@ Dorothea is distressed by the growing alienation between her husband and his cou
 **Location**:
 Church, Dorothea's boudoir, library, garden
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Church, Dorothea's boudoir, library, garden
 ** Plot Points**:
 ['Dorothea is distressed by the growing alienation between her husband and Will Ladislaw', 'Mr. Casaubon asks Dorothea to promise to carry out his wishes after his death', 'Dorothea hesitates and struggles with the decision', 'Dorothea agrees to fulfill his wishes but falls ill', 'Dorothea becomes delirious and Lydgate attends to her']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

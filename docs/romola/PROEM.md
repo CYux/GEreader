@@ -13,7 +13,7 @@ This chapter provides setting details and historical context for the novel that 
 **Location**:
 ['Florence, Italy']
 
-**Time_period**:
+**Time Period**:
 15th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ This chapter provides setting details and historical context for the novel that 
 ** Plot Points**:
 ['Introduction to the setting and era', "Contemplation of man's life and society over centuries"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The great river-courses which have shaped the lives of men have hardly changed; and those other streams, the life-currents that ebb and flow in human hearts, pulsate to the same great needs, the same great loves and terrors.', 'The human soul is hospitable, and will entertain conflicting sentiments and contradictory opinions with much impartiality.', 'are not the well-remembered buildings all there? The changes have not been so great in those uncounted years. I will go down and hear—I will tread the familiar pavement, and hear once again the speech of Florentines.']
 
 ** Chapter Keywords**:

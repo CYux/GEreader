@@ -13,7 +13,7 @@ In this chapter, Romola, disillusioned with her life and disappointed in her hus
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 Renaissance Italy
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance Italy
 ** Plot Points**:
 ['Romola decides to leave Tito and start a new life elsewhere.', 'She disguises herself as a Pinzochera in order to travel without attracting attention.', "Romola reflects upon her brother Dino's vision and the role of religious experiences in the lives of others."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Her life could never be happy any more, but it must not, could not, be ignoble.', 'She had endured and forborne because she loved: maxims which told her to feel less, and not to cling close lest the onward course of great Nature should jar her, had been as powerless on her tenderness as they had been on her father’s yearning for just fame.']
 
 ** Chapter Keywords**:

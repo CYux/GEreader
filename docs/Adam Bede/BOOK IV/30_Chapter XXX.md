@@ -15,7 +15,7 @@ In this chapter, Adam joins the Poysers on their way out of church and hopes for
 **Location**:
 The church and the Poysers' farm
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -24,7 +24,7 @@ Unknown
 ** Plot Points**:
 ["Adam expresses his concerns about Hetty's relationship with Arthur", 'Adam gives Hetty a letter from Arthur', "Hetty is hopeful that the letter will contradict Adam's words", 'Seth gives Adam a letter from Dinah']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Come, you’ll go on with us, Adam,” Mr. Poyser said when they reached the turning; and as soon as they were in the fields Adam ventured to offer his arm to Hetty.', '“You’ve no right to say as I love him,” she said, faintly, but impetuously, plucking another rough leaf and tearing it up.', '“Nay, but her feelings may grow different. A woman may get to love by degrees—the best fire dosna flare up the soonest.', '“She’ll be none displeased,” said Adam emphatically, getting up and throwing off his coat. “It might be a great happiness to us all if she’d have thee, for mother took to her so wonderful and seemed so contented to be with her.”']
 
 ** Chapter Keywords**:

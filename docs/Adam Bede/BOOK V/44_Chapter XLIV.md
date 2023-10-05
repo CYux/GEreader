@@ -15,7 +15,7 @@ Arthur Donnithorne, the new heir to his grandfather's estate, returns home after
 **Location**:
 Arthur's estate and the village of Hayslope
 
-**Time_period**:
+**Time Period**:
 Mid 18th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Mid 18th century
 ** Plot Points**:
 ["Arthur's return to his estate", "Arthur learning of Hetty's engagement to Adam", "Arthur receiving the news of Hetty's imprisonment", "Arthur's immediate departure for Stoniton"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Now his real life was beginning; now he would have room and opportunity for action, and he would use them.'", "'Hetty Sorrel is in prison, and will be tried on Friday for the crime of child-murder.'", "'Tell them I’m gone—gone to Stoniton,'"]
 
 ** Chapter Keywords**:

@@ -14,7 +14,7 @@ Tom Tulliver returns home from school, his arrival being eagerly awaited by his 
 **Location**:
 The Tulliver's house and the nearby countryside
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Early 19th century
 ** Plot Points**:
 ["Tom's arrival from school", "Tom's gifts to Maggie", "Maggie's forgetfulness causing the death of Tom's rabbits", 'Their quarrel and reconciliation', 'Their shared fishing experience']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'There he is, my sweet lad! But, Lord ha’ mercy! he’s got never a collar on; it’s been lost on the road, I’ll be bound, and spoilt the set.'", "'Maggie,' said Tom, confidentially, taking her into a corner, as soon as his mother was gone out to examine his box and the warm parlour had taken off the chill he had felt from the long drive, 'you don’t know what I’ve got in _my_ pockets,'", "'I don’t love you, Maggie. You sha’n’t go fishing with me to-morrow. I told you to go and see the rabbits every day.'", "'Oh, please forgive me, Tom; my heart will break,'", "'Come along, Magsie, and have tea,' said Tom at last, when there was no more cake except what was down-stairs."]
 
 ** Chapter Keywords**:

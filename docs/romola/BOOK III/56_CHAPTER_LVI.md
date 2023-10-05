@@ -13,7 +13,7 @@ In this chapter of "Romola," Romola finds a lost child, Lillo, and brings him ba
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter of "Romola," Romola finds a lost child, Lillo, and brings him ba
 ** Plot Points**:
 ['Romola finds a lost child and brings him back to his mother, Tessa.', 'Romola discovers that Tessa is married to her own husband, Tito.', 'Romola decides to confront Tito about his other wife and possibly leave him.', "Tito reveals that Romola's godfather has been imprisoned along with other important men."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"You are certainly an amiable wife, my Romola," said Tito, with the coldest irony. "Yes; I am safe."']
 
 ** Chapter Keywords**:

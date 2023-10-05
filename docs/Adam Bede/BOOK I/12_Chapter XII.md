@@ -15,7 +15,7 @@ The chapter is centered around Arthur Donnithorne, a young man who is dealing wi
 **Location**:
 The Chase
 
-**Time_period**:
+**Time Period**:
 Not specified
 
 **Themes**:
@@ -24,7 +24,7 @@ Not specified
 ** Plot Points**:
 ["Arthur's decision to go to Eagledale", "Arthur's reflection on his character", 'Encounter with Hetty', "Arthur's decision to distance himself from Hetty"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I mean to go to Eagledale and fish for a week or so,”', '“No! I’m a devil of a fellow for getting myself into a hobble, but I always take care the load shall fall on my own shoulders.”', '“Perhaps Craig, the gardener, comes to take care of you?”', '“I have been hindering you; I must not keep you any longer now. You will be expected at the house. Good-bye.”']
 
 ** Chapter Keywords**:

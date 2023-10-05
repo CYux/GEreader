@@ -13,7 +13,7 @@ The chapter portrays a brutal episode in the life of Janet Dempster, whose husba
 **Location**:
 Orchard Street, in the Dempster's house
 
-**Time_period**:
+**Time Period**:
 Mid 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid 19th Century
 ** Plot Points**:
 ['Janet is forced by her husband to prepare a dinner party despite her distressed state.', "Janet's mother, Mrs. Raynor, provides emotional support and assistance throughout the day.", 'After the dinner party, Dempster, heavily drunk, expels Janet from their house into the cold night.', 'Janet is left alone on the doorstep, contemplating her bleak future.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Mother! why don’t you speak to me?’ Janet burst out at last; ‘you don’t care about my suffering; you are blaming me because I feel--because I am miserable.’", "'Thankful for life! Why should I be thankful? God has made me with a heart to feel, and He has sent me nothing but misery.'", "'If you don’t come, I’ll kill you.’", 'This, then, was what she had been travelling towards through her long years of misery! Not yet death. O! if she had been brave enough for it, death would have been better.']
 
 ** Chapter Keywords**:

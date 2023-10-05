@@ -13,7 +13,7 @@ The chapter explores the past and present life of Countess Czerlaski, revealing 
 **Location**:
 Milby
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Milby
 ** Plot Points**:
 ["Countess Czerlaski's ambition to marry a wealthy man", 'The friendship between the Countess and the Bartons', "The implication of a forthcoming change in the Countess's plans"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Nice distinctions are troublesome. It is so much easier to say that a thing is black, than to discriminate the particular shade of brown, blue, or green, to which it really belongs.', 'A woman always knows where she is utterly powerless, and shuns a coldly satirical eye as she would shun a Gorgon.', 'Thus there was really not much affectation in her sweet speeches and attentions to Mr. and Mrs. Barton.']
 
 ** Chapter Keywords**:

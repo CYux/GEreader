@@ -15,7 +15,7 @@ In this chapter, Adam Bede and Dinah have a deep conversation about her decision
 **Location**:
 Hall Farm
 
-**Time_period**:
+**Time Period**:
 Late 18th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th century
 ** Plot Points**:
 ['Adam and Dinah discuss her decision to leave the Hall Farm.', "Adam expresses his respect for Dinah's decision, despite his feelings for her.", "Dinah helps in Adam's household, showcasing her domestic skills and caring nature.", 'Adam questions if Dinah is displeased with him, she assures him that she is not.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You know best, Dinah,' said Adam. 'I don’t believe you’d go against the wishes of them that love you, and are akin to you, without a good and sufficient reason in your own conscience.'", "'It’s wonderful she doesn’t love th’ lad,' Adam had said sometimes to himself, 'for anybody ’ud think he was just cut out for her.'", "'Dinah, you’re not displeased with me for anything, are you? I’ve not said or done anything to make you think ill of me?'"]
 
 ** Chapter Keywords**:

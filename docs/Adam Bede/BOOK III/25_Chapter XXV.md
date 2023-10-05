@@ -15,7 +15,7 @@ The chapter describes a grand dance and various games being held at the Irwine f
 **Location**:
 Irwine family estate
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Irwine family estate
 ** Plot Points**:
 ['The chapter begins with the preparations for a grand dance.', 'Various games and races take place.', 'Wiry Ben performs a solo dance.', 'The gentry leave for dinner.', 'Mr. Poyser suggests checking on Adam Bede.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"Well, I won’t forgive you if she’s not handsome. I can’t be put off with amiability, which is always the excuse people are making for the existence of plain people."', '"What a pity such beauty as that should be thrown away among the farmers, when it’s wanted so terribly among the good families without fortune!"', '"But, as an example of what I was saying, that pretty Methodist preacher I mentioned just now told me that she had preached to the roughest miners and had never been treated with anything but the utmost respect and kindness by them. The reason is—though she doesn’t know it—that there’s so much tenderness, refinement, and purity about her."']
 
 ** Chapter Keywords**:

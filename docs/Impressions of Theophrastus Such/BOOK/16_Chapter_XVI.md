@@ -13,7 +13,7 @@ Summary: In this chapter, George Eliot criticizes the narrow and misleading use 
 **Location**:
 Unspecified
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Unspecified
 ** Plot Points**:
 ["The narrator discusses the misuse of the words 'morality' and 'morals' with Melissa.", 'Melissa expresses pity for Sir Gavial Mantrap, despite his immoral actions.', 'The narrator argues for a broader understanding of morality and its implications on society.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Until we have altered our dictionaries and have found some other word than _morality_ to stand in popular use for the duties of man to man, let us refuse to accept as moral the contractor who enriches himself by using large machinery to make pasteboard soles pass as leather for the feet of unhappy conscripts fighting at miserable odds against invaders.']
 
 ** Chapter Keywords**:

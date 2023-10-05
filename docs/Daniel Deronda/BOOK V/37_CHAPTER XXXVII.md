@@ -13,7 +13,7 @@ In this chapter of "Daniel Deronda", Deronda returns to London and finds his fri
 **Location**:
 London
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Hans plans to paint a series of pictures featuring Mirah as the model', 'Deronda arranges a meeting for Mirah with the pianist Klesmer', 'Lady Mallinger wants to invite Mirah to sing at her house', 'Deronda reflects on his own uncertainties about his origins']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I have been used to be frowned at and not praised," said Mirah.', '"If Cohen will not do, I will keep the name I have been called by. I will not hide myself. I have friends to protect me."']
 
 ** Chapter Keywords**:

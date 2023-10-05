@@ -13,7 +13,7 @@ In this chapter, Godfrey Cass waits to speak to his father, the Squire, about a 
 **Location**:
 The Red House
 
-**Time_period**:
+**Time Period**:
 Mid 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid 19th century
 ** Plot Points**:
 ['Godfrey reveals to his father that Wildfire is dead, eliminating his means to repay his father.', 'Godfrey admits that he gave the money meant for the Squire to Dunsey.', 'The Squire threatens to disinherit his sons and remarry.', 'Godfrey worries about his father discovering his secret marriage to Molly Farren.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“What, sir! haven’t _you_ had your breakfast yet?”', '“There’s been a cursed piece of ill-luck with Wildfire,” he began; “happened the day before yesterday.”', '“You let Dunsey have it, sir? And how long have you been so thick with Dunsey that you must _collogue_ with him to embezzle my money? Are you turning out a scamp? I tell you I won’t have it. I’ll turn the whole pack of you out of the house together, and marry again.', '“I don’t see how I can think of it at present, sir. You wouldn’t like to settle me on one of the farms, I suppose, and I don’t think she’d come to live in this house with all my brothers. It’s a different sort of life to what she’s been used to.”']
 
 ** Chapter Keywords**:

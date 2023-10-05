@@ -13,7 +13,7 @@ In this chapter, Deronda visits his friends Mirah and Ezra Lapidoth, who are now
 **Location**:
 Brompton, London
 
-**Time_period**:
+**Time Period**:
 Victorian Era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian Era
 ** Plot Points**:
 ['Lapidoth tries to ingratiate himself with his children and Deronda', "Deronda's relationship with Mirah is strained by Lapidoth's presence", "Hans reveals his knowledge of Deronda's feelings for Mirah and encourages him to act on them"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I am become calm in beholding him now,' Ezra ended, 'and I try to think it possible that my sister’s tenderness, and the daily tasting a life of peace, may win him to remain aloof from temptation.'", "'I have taken up some of Mordecai’s ideas, and I mean to try and carry them out, so far as one man’s efforts can go. I dare say I shall by and by travel to the East and be away for some years.'", "'The upshot is, that Mirah is jealous of the duchess, and the sooner you relieve your mind the better. There! I’ve cleared off a score or two, and may be allowed to swear at you for getting what you deserve—which is just the very best luck I know of.'"]
 
 ** Chapter Keywords**:

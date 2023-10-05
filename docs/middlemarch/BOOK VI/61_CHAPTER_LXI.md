@@ -13,7 +13,7 @@ In this chapter, Mr. Bulstrode's past comes back to haunt him as a man named Raf
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Mr. Bulstrode's past comes back to haunt him", 'He tries to protect his reputation by offering money to Will Ladislaw', 'Will rejects the offer and expresses his disdain for Mr. Bulstrode']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Nicholas,' she said, fixing her honest eyes upon him anxiously, 'there has been such a disagreeable man here asking for you—it has made me quite uncomfortable.'", "'What kind of man, my dear,' said Mr. Bulstrode, dreadfully certain of the answer.'A red-faced man with large whiskers, and most impudent in his manner.'"]
 
 ** Chapter Keywords**:

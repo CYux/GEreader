@@ -13,7 +13,7 @@ In this chapter of "Romola," Tito Melema visits Bartolommeo Scala, the secretary
 **Location**:
 ['Florence', "Italy (Scala's Palace near the Porta Pinti)"]
 
-**Time_period**:
+**Time Period**:
 15th century
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter of "Romola," Tito Melema visits Bartolommeo Scala, the secretary
 ** Plot Points**:
 ['Tito Melema visits Bartolommeo Scala to discuss his gems and seek his favor.', 'The two men converse about classical tastes, studies, and the works of Politian.', "Tito impresses Scala with his knowledge and critiques of Politian's work.", 'Scala invites Tito to return for another visit.', 'Tito feels optimistic about his future prospects, as fortune seems to be favoring him.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"He was in this position on the day when he had granted the desired interview to Tito Melema."', '"But Tito was assured that he himself was more interesting than his gems."']
 
 ** Chapter Keywords**:

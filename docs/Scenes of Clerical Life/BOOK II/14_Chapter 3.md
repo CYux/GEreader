@@ -13,7 +13,7 @@ This chapter delves into the backstory of the character Caterina, revealing her 
 **Location**:
 Cheverel Manor in England and Milan, Italy
 
-**Time_period**:
+**Time Period**:
 Summer of 1788
 
 **Themes**:
@@ -22,7 +22,7 @@ Summer of 1788
 ** Plot Points**:
 ['Sir Christopher and Lady Cheverel visit Milan where they meet Sarti.', 'Sarti falls ill and dies, leaving his daughter Caterina orphaned.', 'Lady Cheverel decides to take Caterina back to England and raise her in Cheverel Manor.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['The poor bird was beginning to flutter and vainly dash its soft breast against the hard iron bars of the inevitable.', 'She was smitten with some compassion at the sight of poor Sarti, who struck her as the mere battered wreck of a vessel that might have once floated gaily enough on its outward voyage to the sound of pipes and tabors.', 'That was the thought which haunted his feeble brain as soon as he began to fear that his illness would end in death. She had wealth--she was kind--she would surely do something for the poor orphan.']
 
 ** Chapter Keywords**:

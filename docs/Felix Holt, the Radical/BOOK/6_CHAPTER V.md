@@ -13,7 +13,7 @@ In this chapter, Felix Holt meets with Mr. Lyon, a minister, and his daughter Es
 **Location**:
 Unknown
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Felix objects to his mother selling questionable medicines', 'Felix rejects middle-class employment', 'Esther defends her admiration for Byron', 'Mr. Lyon invites Felix to accompany him to Sproxton']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'If I allowed the sale of those medicines to go on... I should be a rascal.' - Felix Holt", "'I have a great admiration for Byron.' - Esther Lyon", "'A real fine-lady does not wear clothes that flare in people's eyes, or use importunate scents, or make a noise as she moves.' - Esther Lyon"]
 
 ** Chapter Keywords**:

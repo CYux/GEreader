@@ -13,7 +13,7 @@ Deronda contemplates leaving Genoa, but decides to stay. He spends time reflecti
 **Location**:
 Genoa
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Deronda decides to stay in Genoa', 'He reflects on his Jewish heritage', 'He learns about the boating accident', 'He sees Gwendolen brought to shore', 'He arranges for her medical care and informs others of the tragedy']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'It is come, it is come! He is dead!' - Gwendolen", "'Hush, hush!' - Deronda"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ Rev. Amos Barton and his wife visit Camp Villa, home to the Countess Czerlaski a
 **Location**:
 Camp Villa, Milby
 
-**Time_period**:
+**Time Period**:
 Mid 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid 19th Century
 ** Plot Points**:
 ['Bartons visit Camp Villa', 'Countess flatters Rev. Barton', "Gravy is spilled on Mrs. Barton's dress", 'Mr. Farquhar and Mr. Ely discuss the Bartons and their association with the Countess']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['And there is such a pretty rectory, Milly; shouldn’t I like to see you the mistress of it?’', 'Well,’ suggested John, humbly, ‘you should wet the bottom of the _duree_ a bit, to hold it from slippin’.’', 'Mysteries of the tender passion,’ said Mr. Ely. ‘I am not initiated yet, you know.’']
 
 ** Chapter Keywords**:

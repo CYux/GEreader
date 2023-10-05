@@ -13,7 +13,7 @@ In this chapter, Tito visits the eccentric painter Piero di Cosimo to commission
 **Location**:
 ["Piero di Cosimo's home and studio in Florence", 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th Century (Renaissance era)
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Tito visits the eccentric painter Piero di Cosimo to commission
 ** Plot Points**:
 ['Tito decides to commission a painting from Piero di Cosimo.', 'Piero asks Tito to convince Bardo and Romola to sit for a painting of Oedipus and Antigone.', 'Piero reveals he already has a portrait of Tito, which he will use as a reference for Bacchus.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I find it enough to live, without spinning lies to account for life. Fowls cackle, asses bray, women chatter, and philosophers spin false reasons - that\'s the effect the sight of the world brings out of them. Well, I am an animal that paints instead of cackling, or braying, or spinning lies." (Piero di Cosimo)']
 
 ** Chapter Keywords**:

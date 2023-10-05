@@ -13,7 +13,7 @@ Ganymede, the narrator
 **Location**:
 Unspecified
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Illusion of youth, self-perception, societal expectations, aging
 ** Plot Points**:
 ["Ganymede's early success as a writer", "The narrator's observations of Ganymede's changing appearance", "The reinforcement of Ganymede's illusion of youth by others", "Ganymede's continued belief in his youthfulness despite evidence to the contrary"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['He was the last born of his family, and from his earliest memory was accustomed to be commended as such to the care of his elder brothers and sisters.', "He has continued to be productive both of schemes and writings, being perhaps helped by the fact that his 'Comparative Estimate' did not greatly affect the currents of European thought.", 'It is not so easy, with our rates and taxes and need for economy in all directions, to cast away an epithet or remark that turns up cheaply, and to go in expensive search after more genuine substitutes.']
 
 ** Chapter Keywords**:

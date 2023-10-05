@@ -13,7 +13,7 @@ In this chapter, Fred Vincy is dealing with a debt to Mr. Bambridge, a horse-dea
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ["Fred has a debt to Mr. Bambridge and renews the bill with Caleb Garth's signature", 'Fred seeks advice and financial assistance from Caleb', 'Fred tries to sell his horse to raise money']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

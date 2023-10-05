@@ -13,7 +13,7 @@ In this chapter, Caterina is consumed by guilt and despair after Anthony's death
 **Location**:
 The Manor
 
-**Time_period**:
+**Time Period**:
 Not specified
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified
 ** Plot Points**:
 ["Caterina is consumed by guilt after Anthony's death.", 'She recalls their past interactions and blames herself for his actions.', 'Caterina decides to leave the Manor to escape the painful memories and her own guilt.', 'She prepares for her departure, taking with her a few cherished items.', 'The chapter ends with Caterina waiting for the dawn to make her escape.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['She would like to confess how wicked she had been, that they might punish her; she would like to humble herself to the dust before every one--before Miss Assher even.', 'She was too wicked ever to be pardoned.', 'She could not bear to part with them; it seemed as if they had some of Sir Christopher’s love in them. She would like them to be buried with her.']
 
 ** Chapter Keywords**:

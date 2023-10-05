@@ -13,7 +13,7 @@ In this chapter, Gwendolen meets Mirah, the Jewish singer, at a social event and
 **Location**:
 London, at a social event in Grosvenor Square
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Gwendolen meets Mirah', 'Gwendolen and Deronda have a conversation about her progress', 'Grandcourt breaks a promise to Gwendolen about Mr. Lush']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'If you despair of me, I shall despair. Your saying that I should not go on being selfish and ignorant has been some strength to me. If you say you wish you had not meddled—that means you despair of me and forsake me. And then you will decide for me that I shall not be good. It is you who will decide; because you might have made me different by keeping as near to me as you could, and believing in me.'", "'Lush will dine with us among the other people to-morrow. You will treat him civilly.'"]
 
 ** Chapter Keywords**:

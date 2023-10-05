@@ -13,7 +13,7 @@ In this chapter, the investigation into the robbery continues, but no progress i
 **Location**:
 Raveloe village
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Investigation into the robbery continues with no progress', 'Silas Marner grieves in his loneliness', 'Villagers try to console Silas', 'Christmas Day is celebrated in the village', "Godfrey Cass looks forward to Nancy's arrival for the New Year's Eve dance"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Well, Master Marner, you’re no worse off nor other poor folks, after all; and if you was to be crippled, the parish ’ud give you a ’lowance.'", "'Come, Master Marner, why, you’ve no call to sit a-moaning. You’re a deal better off to ha’ lost your money, nor to ha’ kep it by foul means.'", "'Nay, nay,' he said, 'I know nothing o’ church. I’ve never been to church.'", "'That’s Christmas music,' she said, when Aaron had ended, and had secured his piece of cake again. 'There’s no other music equil to the Christmas music—“Hark the erol angils sing.'"]
 
 ** Chapter Keywords**:

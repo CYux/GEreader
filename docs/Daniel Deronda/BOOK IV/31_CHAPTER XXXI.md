@@ -13,7 +13,7 @@ On Gwendolen's wedding day to Grandcourt, she maintains a facade of excitement a
 **Location**:
 Ryelands, Grandcourt's estate
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ["Gwendolen and Grandcourt's wedding", 'Arrival at Ryelands', "Gwendolen receives Lydia's letter", "Gwendolen's hysterical fit upon seeing Grandcourt"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['These diamonds, which were once given with ardent love to Lydia Glasher, she passes on to you. You have broken your word to her, that you might possess what was hers.', 'He had meant to marry me. He would have married me at last, if you had not broken your word.', 'The willing wrong you have done me will be your curse.']
 
 ** Chapter Keywords**:

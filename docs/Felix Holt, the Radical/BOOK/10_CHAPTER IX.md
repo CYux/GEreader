@@ -13,7 +13,7 @@ Matthew Jermyn visits Mrs. Transome, seeking information about her son Harold's 
 **Location**:
 Mrs. Transome's residence
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mrs. Transome's residence
 ** Plot Points**:
 ["Jermyn's visit to Mrs. Transome", "Mrs. Transome's request for Jermyn not to quarrel with Harold", "Jermyn's reflections on his actions"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Harold is remarkably acute and clever,' he began at last, since Mrs. Transome did not speak.", "'Oh, to be sure--good as men are disposed to be to women, giving them cushions and carriages, and recommending them to enjoy themselves, and then expecting them to be contented under contempt and neglect. I have no power over him--remember that--none.'", "'I should be ready to do so now, if it were possible.'", "'Let me take your arm.'", "'I shall use him as he uses me.'"]
 
 ** Chapter Keywords**:

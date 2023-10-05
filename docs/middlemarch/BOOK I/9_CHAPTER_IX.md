@@ -13,7 +13,7 @@ In this chapter, Dorothea visits Mr. Casaubon's home, the manor-house in Lowick.
 **Location**:
 Lowick manor-house
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Lowick manor-house
 ** Plot Points**:
 ["Dorothea visits Mr. Casaubon's home", 'Celia finds the house less appealing', "They meet Mr. Casaubon's cousin, Will Ladislaw", "Mr. Casaubon discusses Ladislaw's lack of direction", 'Dorothea suggests Ladislaw may have a vocation', 'Celia teases Dorothea about her impatience']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

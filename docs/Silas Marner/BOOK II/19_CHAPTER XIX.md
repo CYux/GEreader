@@ -13,7 +13,7 @@ In this chapter, Godfrey and his wife Nancy visit Silas and Eppie at their cotta
 **Location**:
 Silas and Eppie's cottage
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th century
 ** Plot Points**:
 ['Godfrey and Nancy visit Silas and Eppie', 'Godfrey reveals to Eppie that he is her biological father', 'Godfrey and Nancy offer to adopt Eppie and provide her with a life of luxury', 'Eppie declines their offer and affirms her love for Silas', 'Eppie reveals that she is engaged to a working man who will live with them and help take care of Silas']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["Eppie: 'I can't leave my father, nor own anybody nearer than him. And I don't want to be a lady—thank you all the same.'", "Silas: 'When a man turns a blessing from his door, it falls to them as take it in.'", "Eppie: 'I can't feel as I've got any father but one.'", "Eppie: 'I'm promised to marry a working-man, as'll live with father, and help me to take care of him.'"]
 
 ** Chapter Keywords**:

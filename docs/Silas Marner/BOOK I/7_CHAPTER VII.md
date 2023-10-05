@@ -13,7 +13,7 @@ In this chapter, Silas Marner, a weaver, enters a tavern full of townspeople and
 **Location**:
 The local tavern in the village of Raveloe
 
-**Time_period**:
+**Time Period**:
 The early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ The early 19th century
 ** Plot Points**:
 ['Silas Marner enters the tavern, startling the patrons', 'Marner declares that he has been robbed', 'Marner accuses Jem Rodney of the theft, but later retracts his accusation', 'Marner tells his story to the townspeople', "The townspeople decide to go to the constable's house to report the robbery"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Robbed!' said Silas, gaspingly. 'I’ve been robbed!'", "'If it was you stole my money,' said Silas, clasping his hands entreatingly, and raising his voice to a cry, 'give it me back—and I won’t meddle with you. I won’t set the constable on you.'", "'Two hundred and seventy-two pounds, twelve and sixpence, last night when I counted it,' said Silas, seating himself again, with a groan."]
 
 ** Chapter Keywords**:

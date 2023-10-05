@@ -14,7 +14,7 @@ Mr Tulliver wants his son Tom to get a good education and has plans to send him 
 **Location**:
 Dorlcote Mill
 
-**Time_period**:
+**Time Period**:
 Mid 19th Century
 
 **Themes**:
@@ -23,7 +23,7 @@ Mid 19th Century
 ** Plot Points**:
 ["Mr Tulliver's decision to give Tom a better education", "Mrs Tulliver's concern about Tom's well-being and Maggie's unruly nature", "Discussion on Maggie's rebellious character and lack of interest in typical feminine activities"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['What I want is to give Tom a good eddication; an eddication as’ll be a bread to him', 'I want Tom to be such a sort o’ man as Riley, you know,—as can talk pretty nigh as well as if it was all wrote out for him', 'It’s an uncommon puzzling thing to know what school to pick', 'It’s foolish work, tearing things to pieces to sew ’em together again. And I don’t want to do anything for my aunt Glegg. I don’t like her']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, the news of Gwendolen's engagement to Grandcourt spreads, and h
 **Location**:
 Offendene, Diplow
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Gwendolen's family learns of her engagement to Grandcourt", 'Gwendolen reflects on her decision to marry him', 'Lush suggests to Sir Hugo that Deronda should visit Diplow', 'Deronda agrees to the visit']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"But I have no doubt that Mr. Grandcourt would have behaved quite as handsomely if you had not gone away to Germany, Gwendolen, and had been engaged to him, as you no doubt might have been, more than a month ago," said Mrs. Gascoigne', '"I am not at all sure that I do, aunt," said Gwendolen, with saucy gravity. "I don’t know everything it is proper to feel on being engaged."', '"I suppose you intend to remain here." "We shall go to Ryelands for a little while; but we shall return here for the sake of the hunting."']
 
 ** Chapter Keywords**:

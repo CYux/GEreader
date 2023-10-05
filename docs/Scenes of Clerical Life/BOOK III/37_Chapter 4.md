@@ -13,7 +13,7 @@ This chapter describes a premeditated protest in Milby, orchestrated by Dempster
 **Location**:
 Milby
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Milby
 ** Plot Points**:
 ["Dempster organizes a protest against Mr. Tryan's sermon.", 'The crowd displays caricatures of Mr. Tryan and cheers against his sermon.', 'Dempster, heavily intoxicated, returns home after the protest.', "Janet, Dempster's wife, appears to be under the influence of alcohol.", 'Dempster physically abuses Janet.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Fellow-townsmen! It gives us the sincerest pleasure--I speak for my respected colleagues as well as myself--to witness these strong proofs of your attachment to the principles of our excellent Church, and your zeal for the honour of our venerable pastor.'", "'Curse you! you creeping idiot! Come faster, can’t you?'", "'I’ll teach you to keep me waiting in the dark, you pale staring fool!' he said, advancing with his slow drunken step. 'What, you’ve been drinking again, have you? I’ll beat you into your senses.'"]
 
 ** Chapter Keywords**:

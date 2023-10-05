@@ -13,7 +13,7 @@ In this chapter of 'Impressions of Theophrastus Such' by George Eliot, the narra
 **Location**:
 Unspecified
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Unspecified
 ** Plot Points**:
 ['The narrator struggles with understanding their own character.', 'The narrator acknowledges their weaknesses and the judgment of others.', 'They explore the nature of consolation and egoism.', 'The narrator seeks a balance between personal interest and sympathy for others.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['We sing an exquisite passage out of tune and innocently repeat it for the greater pleasure of our hearers.', 'If the human race has a bad reputation, I perceive that I cannot escape being compromised.', 'Is it not possible for me to enjoy the scenery of the earth without saying to myself, I have a cabbage-garden in it?']
 
 ** Chapter Keywords**:

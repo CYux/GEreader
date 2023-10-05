@@ -13,7 +13,7 @@ This chapter primarily focuses on Mrs. Transome's deepening sense of despair and
 **Location**:
 Transome Court
 
-**Time_period**:
+**Time Period**:
 Mid 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mid 19th Century
 ** Plot Points**:
 ["Mrs. Transome's reflection on her aging and life", "Revelation of Esther's true heritage and her right to the Transome estate", "Discussion about Harold's potential marriage to Esther", "Mrs. Transome's deepening despair"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["A woman's love is always freezing into fear. She wants everything, she is secure of nothing.", 'God was cruel when He made women.', 'If I could choose at this moment, I would choose that Harold should never have been born.']
 
 ** Chapter Keywords**:

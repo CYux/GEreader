@@ -13,7 +13,7 @@ Will Ladislaw debates whether his decision to settle in Middlemarch was a mistak
 **Location**:
 Lowick Church
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Lowick Church
 ** Plot Points**:
 ['Will decides to go to Lowick Church to see Dorothea', 'He feels uncomfortable and realizes he made a blunder', 'Dorothea and Mr. Casaubon leave without acknowledging Will']
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

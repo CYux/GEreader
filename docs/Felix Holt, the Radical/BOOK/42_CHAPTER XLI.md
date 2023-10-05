@@ -13,7 +13,7 @@ In this chapter, Esther visits her father, Mr. Lyon, and they discuss her inheri
 **Location**:
 Malthouse Lane
 
-**Time_period**:
+**Time Period**:
 Early 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th Century
 ** Plot Points**:
 ['Esther visits her father', 'Mr. Lyon hopes Esther will use her wealth for their religious community', "Esther is upset by Felix's prediction that she will marry Harold", 'Esther is upset by the implication that Harold has a calculated intent to marry her']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Then she will marry Transome; that is what Transome means.'", "'I contemplate with hopeful satisfaction your remaining attached to that body of congregational Dissent.'", "'I think I shall be obliged to run away from you, not to keep the carriage too long.'"]
 
 ** Chapter Keywords**:

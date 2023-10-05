@@ -13,7 +13,7 @@ In this chapter, Janet attends her husband's funeral and is viewed with pity by 
 **Location**:
 Milby
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Milby
 ** Plot Points**:
 ["Janet attends her husband's funeral", 'Janet resists the temptation of alcohol', 'Janet seeks comfort from Mr. Tryan', 'Janet plans to move Mrs. Pettifer into her house and persuades Mr. Tryan to lodge with her']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘That woman has a tender heart,’ he was frequently heard to observe in his morning rounds about this time. ‘I used to think there was a great deal of palaver in her, but you may depend upon it there’s no pretence about her.', 'She wanted to summon up the vision of the past; she wanted to lash the demon out of her soul with the stinging memories of the bygone misery.', 'Infinite Love was caring for her. She felt like a little child whose hand is firmly grasped by its father, as its frail limbs make their way over the rough ground; if it should stumble, the father will not let it go.']
 
 ** Chapter Keywords**:

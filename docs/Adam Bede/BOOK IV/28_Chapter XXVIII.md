@@ -15,7 +15,7 @@ Adam finds Arthur in a state of unconsciousness. After reviving him, they have a
 **Location**:
 The Grove and Arthur's furnished retreat, the Hermitage
 
-**Time_period**:
+**Time Period**:
 Late 18th century
 
 **Themes**:
@@ -24,7 +24,7 @@ Late 18th century
 ** Plot Points**:
 ['Adam finds Arthur unconscious and revives him', "They discuss their fight and Arthur's relationship with Hetty", 'Adam insists Arthur must confess his deception or make amends', 'Arthur reluctantly promises to fix things', 'Adam helps Arthur home and they agree to meet again the next day']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['I ask you to write a letter—you may trust to my seeing as she gets it. Tell her the truth, and take blame to yourself for behaving as you’d no right to do to a young woman as isn’t your equal.', 'I can do what I think needful in the matter, without giving promises to you. I shall take what measures I think proper.', 'You won’t see her again! Either tell me she can never be my wife—tell me you’ve been lying—or else promise me what I’ve said.']
 
 ** Chapter Keywords**:

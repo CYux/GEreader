@@ -13,7 +13,7 @@ In this chapter, Daniel Deronda visits the Cohen family, intending to pawn a rin
 **Location**:
 Mr. Cohen's house
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Deronda visits the Cohens', 'Deronda observes Jewish Sabbath rituals', 'Deronda pawns his ring', 'Deronda is intrigued by Mordecai']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I’ve had something else to do than to get book-learning,' said Mr. Cohen,—'I’ve had to make myself knowing about useful things. I know stones well,'", "'I have studied,' was the quiet answer. 'And you?—You know German by the book you were buying.'"]
 
 ** Chapter Keywords**:

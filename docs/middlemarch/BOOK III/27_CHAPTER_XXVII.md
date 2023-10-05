@@ -13,7 +13,7 @@ In this chapter, the focus is on Rosamond and Lydgate's growing intimacy. Rosamo
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ['Rosamond and Lydgate flirt and spend time together', "Fred's recovery", "Mrs. Vincy's concern for Fred and Lydgate"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 []
 
 ** Chapter Keywords**:

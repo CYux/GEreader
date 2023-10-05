@@ -14,7 +14,7 @@ The chapter chronicles the family dispute involving the Tulliver family and Mrs.
 **Location**:
 The Tulliver's home
 
-**Time_period**:
+**Time Period**:
 Mid 19th century
 
 **Themes**:
@@ -23,7 +23,7 @@ Mid 19th century
 ** Plot Points**:
 ["Mrs Glegg's reconsideration of the family feud", "Mr Tulliver's decision to repay the loan", "Mrs Tulliver's optimism", "Tom's impending departure to school", "Maggie's sorrow"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I shall bear no malice, and when Mr Tulliver speaks civil to me, I’ll speak civil to him.'", "'I’m not going to behave ill because folks behave ill to me; I know it’s my place, as the eldest, to set an example in every respect, and I do it.'", "'Bessy must bear the consequence o’ having such a husband, though I’m sorry for her.'"]
 
 ** Chapter Keywords**:

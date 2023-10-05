@@ -14,7 +14,7 @@ In this chapter, Mr. Tulliver's condition continues to improve while his financi
 **Location**:
 Dorlcote Mill
 
-**Time_period**:
+**Time Period**:
 Unclear
 
 **Themes**:
@@ -23,7 +23,7 @@ Unclear
 ** Plot Points**:
 ["Mr. Tulliver's condition continues to improve", 'The bills for the sale of the mill and land are posted', 'Mrs. Tulliver attempts to convince Mr. Wakem not to bid on the mill', 'Mr. Wakem decides to purchase the mill', "The Tulliver family's future becomes uncertain"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'And if you’d please not to say as I’ve been to speak to you, for my son ’ud be very angry with me for demeaning myself, I know he would, and I’ve trouble enough without being scolded by my children.'", "'That is a sort of revenge which falls into the scale of virtue, and Wakem was not without an intention of keeping that scale respectably filled.'"]
 
 ** Chapter Keywords**:

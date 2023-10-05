@@ -13,7 +13,7 @@ In this chapter of 'Impressions of Theophrastus Such' by George Eliot, the narra
 **Location**:
 English countryside, London
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ English countryside, London
 ** Plot Points**:
 ["The narrator's childhood memories of their father and rural life", 'reflections on the changes in English society', "the narrator's life in London"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["On the whole, though there is some rash boasting about enlightenment, and an occasional insistence on an originality which is that of the present year's corn-crop, we seem too much disposed to indulge, and to call by complimentary names, a greater charity for other portions of the human race than for our contemporaries."]
 
 ** Chapter Keywords**:

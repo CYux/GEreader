@@ -13,7 +13,7 @@ In this chapter, Fred Vincy visits Mrs. Garth to assure himself that she accepts
 **Location**:
 Mrs. Garth's orchard and parsonage
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Fred visits Mrs. Garth to discuss their new relationship', 'Mrs. Garth hints that Mary may have feelings for Mr. Farebrother', 'Fred confronts Mary about it and she reassures him of her love', 'Mary goes home the next day']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I wish you would tell me that you could not possibly ever think of him,” said Fred.', '“Never dare to mention this any more to me, Fred,” said Mary, getting serious again.']
 
 ** Chapter Keywords**:

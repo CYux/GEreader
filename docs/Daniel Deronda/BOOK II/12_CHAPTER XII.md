@@ -13,7 +13,7 @@ In this chapter, Mr. Henleigh Mallinger Grandcourt and Mr. Lush discuss Grandcou
 **Location**:
 Grandcourt's residence
 
-**Time_period**:
+**Time Period**:
 Victorian era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian era
 ** Plot Points**:
 ['Mr. Lush suggests that Grandcourt marry Miss Arrowpoint for her wealth', "Grandcourt reveals his intention to marry 'the other girl'", "Mr. Lush expresses concern over Grandcourt's decision"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I am not going to marry a million.'", "'I am going to marry the other girl.'", "'She is a young lady with a will of her own, I fancy. Extremely well fitted to make a rumpus. She would know what she liked.'"]
 
 ** Chapter Keywords**:

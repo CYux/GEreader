@@ -13,7 +13,7 @@ Gwendolen reflects on her marriage to Grandcourt and her feelings of unease and 
 **Location**:
 The Abbey
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Gwendolen's unhappiness in her marriage to Grandcourt", 'Her longing for guidance and understanding from Deronda', "Grandcourt's control over Gwendolen", "Gwendolen's regret and desire for escape"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I suppose you can see every line of them with your eyes shut,” said Juliet Fenn.', '“I wish he could know everything about me without my telling him,” was one of her thoughts']
 
 ** Chapter Keywords**:

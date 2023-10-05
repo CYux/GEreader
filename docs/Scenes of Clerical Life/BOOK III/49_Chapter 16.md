@@ -13,7 +13,7 @@ In this chapter, Janet Dempster, who has fled her abusive husband, is taken in b
 **Location**:
 Mrs. Pettifer's house
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mrs. Pettifer's house
 ** Plot Points**:
 ['Janet is taken in by Mrs. Pettifer after fleeing her abusive husband.', 'Janet struggles with her past and fears her future, feeling trapped and hopeless.', 'Janet considers seeking help from Mr. Tryan, a clergyman known for his empathy.', 'Janet decides to meet Mr. Tryan.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Her husband had so long overshadowed her life that her imagination could not keep hold of a condition in which that great dread was absent.', 'There was a darker shadow over her life than the dread of her husband--it was the shadow of self-despair.', 'That short interview with Mr. Tryan had come back upon her--his voice, his words, his look, which told her that he knew sorrow.', 'She wanted _strength_ to do right--she wanted something to rely on besides her own resolutions.']
 
 ** Chapter Keywords**:

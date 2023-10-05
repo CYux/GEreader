@@ -13,7 +13,7 @@ Rex is in love with his cousin Gwendolen, but she does not return his feelings. 
 **Location**:
 Offendene
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Rex confesses his love to Gwendolen', 'Gwendolen rejects Rex', 'Rex leaves', 'Gwendolen is overcome with despair']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"I hope you are not much hurt, Rex; I deserve that you should reproach me for your accident." - Gwendolen', '"I can\'t bear any one to be very near me but you." - Gwendolen']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Romola, having decided to stay with her husband and renounce he
 **Location**:
 ['Florence']
 
-**Time_period**:
+**Time Period**:
 1494
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Romola, having decided to stay with her husband and renounce he
 ** Plot Points**:
 ['Romola meets her new spiritual guide', 'Romola destroys her parting letters and resumes her previous life']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['Rise, my daughter,” said Fra Girolamo at last. “Your servant is waiting not far off with the mules. It is time that I should go onward to Florence.”', '“I will instruct my brother concerning you, that he may guide you into that path of labour for the suffering and the hungry to which you are called as a daughter of Florence in these times of hard need.']
 
 ** Chapter Keywords**:

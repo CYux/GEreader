@@ -14,7 +14,7 @@ In this chapter, Philip and Maggie have a heartfelt reunion and discuss their ch
 **Location**:
 Unknown
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -23,7 +23,7 @@ Unknown
 ** Plot Points**:
 ['Philip and Maggie rekindle their friendship', 'Stephen becomes interested in Maggie', 'Lucy tries to bring Philip and Maggie closer together', 'Lucy suggests that Philip may be able to help the Tullivers regain their mill']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I told my brother I wished to see you, Philip; I asked him to release me from my promise, and he consented.”', '“Then there is nothing to hinder our being friends, Philip,—seeing each other and talking to each other while I am here; I shall soon go away again. I mean to go very soon, to a new situation.”', '“Now you are returning to your old thought in a new form, Maggie,—the thought I used to combat,” said Philip, with a slight tinge of bitterness.', '“But, papa, I believe, if you will let me take Philip Wakem into our confidence,—let me tell him all about your wish to buy, and what it’s for; that my cousins wish to have it, and why they wish to have it,—I believe Philip would help to bring it about. I know he would desire to do it.”']
 
 ** Chapter Keywords**:

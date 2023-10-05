@@ -13,7 +13,7 @@ In this chapter, the main character, Daniel Deronda, reflects on his childhood a
 **Location**:
 England
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Daniel questions his own identity and seeks answers from his uncle', 'Daniel forms a close friendship with Hans Meyrick', 'Daniel decides to leave Cambridge and pursue further studies abroad']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“Mr. Fraser, how was it that the popes and cardinals always had so many nephews?”', '“Yes, you can; you are to be a first-rate fellow. I call that a first-rate investment of my luck.”']
 
 ** Chapter Keywords**:

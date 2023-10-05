@@ -13,7 +13,7 @@ In this chapter, Miss Nancy Lammeter arrives at the Red House on a snowy day, dr
 **Location**:
 The Red House
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Miss Nancy Lammeter arrives at the Red House', 'Mr. Godfrey Cass expresses his feelings for Nancy', 'Nancy remains firm and cold towards Godfrey']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Moreover, it was quite plain he had no real love for her, else he would not let people have that to say of him which they did say.'", "'That’s very ill-natured of you,' said Godfrey, standing by her without any sign of intended departure, 'to be sorry you’ve danced with me.'", "'I think those have the least feeling that act wrong to begin with,' said Nancy, sending out a flash in spite of herself."]
 
 ** Chapter Keywords**:

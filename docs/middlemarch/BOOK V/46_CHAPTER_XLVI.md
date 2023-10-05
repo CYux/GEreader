@@ -13,7 +13,7 @@ In this chapter, the town of Middlemarch becomes more politically active as the 
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Middlemarch becomes more politically active', 'Will emphasizes the importance of supporting Reform', 'Lydgate and Will have a disagreement about political motives', 'Rosamond is upset by their argument']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Things will grow and ripen as if it were a comet year,' said Will.", "'If you go in for the principle of Reform, you must be prepared to take what the situation offers,' said Will.", "'Men may help to cure themselves off the face of the land without knowing it,' said Will.", "'Disputation is not amusing to cherubs,' said Rosamond."]
 
 ** Chapter Keywords**:

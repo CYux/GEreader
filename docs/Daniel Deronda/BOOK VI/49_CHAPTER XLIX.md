@@ -13,7 +13,7 @@ The chapter reveals a significant turning point in the life of Daniel Deronda. S
 **Location**:
 Sir Hugo's study
 
-**Time_period**:
+**Time Period**:
 Victorian Era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian Era
 ** Plot Points**:
 ['Sir Hugo reveals to Daniel the truth about his parentage.', "Daniel's mother is alive and wishes to see him.", "Daniel's father is confirmed to be dead.", 'Sir Hugo hands Daniel a letter from his mother with her instructions.', 'Both Daniel and Sir Hugo express their mutual affection despite the unsettling revelation.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"There have been reasons why I have never told you anything about your parentage. But I have striven in every way not to make that an injury to you."', '"Is my father also living?" - "No."', '"Perhaps I was wrong, Dan, to undertake what I did. And perhaps I liked it a little too well—having you all to myself. But if you have had any pain which I might have helped, I ask you to forgive me."']
 
 ** Chapter Keywords**:

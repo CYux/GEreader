@@ -13,7 +13,7 @@ In this chapter, Bulstrode's past catches up with him as Raffles, a man who know
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ["Raffles returns to Middlemarch and stays at Bulstrode's house", 'Bulstrode tries to control Raffles but eventually sends him away', 'Bulstrode plans to leave Middlemarch and transfer his affairs to Caleb Garth', 'Garth comes up with a plan to let Fred Vincy live at Stone Court']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“That change of plan and shifting of interest which Bulstrode stated or betrayed in his conversation with Lydgate, had been determined in him by some severe experience which he had gone through since the epoch of Mr. Larcher’s sale, when Raffles had recognized Will Ladislaw, and when the banker had in vain attempted an act of restitution which might move Divine Providence to arrest painful consequences.”', '“Who can know how much of his most inward life is made up of the thoughts he believes other men to have about him, until that fabric of opinion is threatened with ruin?”']
 
 ** Chapter Keywords**:

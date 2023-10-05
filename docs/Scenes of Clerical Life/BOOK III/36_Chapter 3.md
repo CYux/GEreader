@@ -13,7 +13,7 @@ The chapter opens with the gathering of ladies at Mrs. Linnet’s house, where t
 **Location**:
 Mrs. Linnet’s parlour in Paddiford Common
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mrs. Linnet’s parlour in Paddiford Common
 ** Plot Points**:
 ['Mr. Dempster and his colleagues return from their mission to Elmstoke Rectory.', 'The ladies work on books for the Paddiford Lending Library and discuss the evening lecture.', "Mr. Tryan reveals that the town is in uproar due to Dempster's efforts to undermine him.", 'Mr. Tryan vows to appeal to the Bishop and continue his work.']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["‘But his triumph will be a short one. If he thinks he can intimidate me by obloquy or threats, he has mistaken the man he has to deal with. Mr. Dempster and his colleagues will find themselves checkmated after all.'", '‘The Bishop will be coming shortly, I suppose,’ said Miss Pratt, ‘to hold a confirmation?’']
 
 ** Chapter Keywords**:

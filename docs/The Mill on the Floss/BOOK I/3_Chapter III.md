@@ -14,7 +14,7 @@ Mr. Tulliver seeks Mr. Riley's advice on finding a good school for his son, Tom.
 **Location**:
 Unknown
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -23,7 +23,7 @@ Unknown
 ** Plot Points**:
 ['Mr. Tulliver seeks advice on finding a school for Tom', 'Mr. Riley recommends Mr. Stelling', 'Mrs. Tulliver and Maggie express concerns', 'Mr. Riley promises to contact Mr. Stelling']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I want my son to know figures, and write like print, and see into things quick, and know what folks mean, and how to wrap things up in words as aren’t actionable. It’s an uncommon fine thing, that is.'", "'Father, is it a long way off where Tom is to go? Sha’n’t we ever go to see him?'", "'Oh, a long, long way off,' that gentleman answered, being of opinion that children, when they are not naughty, should always be spoken to jocosely.", "'I’ve secured a good pupil for your son-in-law.'"]
 
 ** Chapter Keywords**:

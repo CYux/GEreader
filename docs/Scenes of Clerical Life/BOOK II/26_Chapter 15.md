@@ -13,7 +13,7 @@ The chapter begins with Caterina regaining consciousness and Mr. Gilfil tending 
 **Location**:
 Mr. Bates’s cottage, the Rookery, the dining-room
 
-**Time_period**:
+**Time Period**:
 Not specified
 
 **Themes**:
@@ -22,7 +22,7 @@ Not specified
 ** Plot Points**:
 ['Caterina regaining consciousness', "Mr. Warren's arrival with terrible news", "Caterina's discovery of Anthony's apparent death", 'The procession to Mr. Bates’s cottage', "Caterina's change of feelings towards Anthony"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['It is a wonderful moment, the first time we stand by one who has fainted, and witness the fresh birth of consciousness spreading itself over the blank features, like the rising sunlight on the alpine summits that lay ghastly and dead under the leaden twilight.', 'At the sight of Anthony lying dead, her nature had rebounded from its new bias of resentment and hatred to the old sweet habit of love.']
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Daniel Deronda decides to confess his love to Mirah and ask for
 **Location**:
 Ezra's home
 
-**Time_period**:
+**Time Period**:
 Victorian Era
 
 **Themes**:
@@ -22,7 +22,7 @@ Victorian Era
 ** Plot Points**:
 ['Deronda decides to propose to Mirah', "Lapidoth steals Deronda's ring", 'Deronda confesses his love to Mirah', "Mirah reciprocates Deronda's feelings", 'They decide to comfort Ezra together']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'Mirah, let me think that he is my father as well as yours—that we can have no sorrow, no disgrace, no joy apart. I will rather take your grief to be mine than I would take the brightest joy of another woman. Say you will not reject me—say you will take me to share all things with you. Say you will promise to be my wife—say it now. I have been in doubt so long—I have had to hide my love so long. Say that now and always I may prove to you that I love you with complete love.'"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ In this chapter, Baldassarre wanders around Florence and eventually finds a chea
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 Renaissance
 
 **Themes**:
@@ -22,7 +22,7 @@ Renaissance
 ** Plot Points**:
 ['- Baldassarre finds a cheap shelter and meets Tessa and Monna Lisa\n- Tessa shares her life story with Baldassarre and shows him her baby\n- Monna Lisa allows Baldassarre to stay in their outhouse in exchange for help with chores']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['- "Poor thing! poor thing!" - Baldassarre, showing pity for Tessa and her innocent life\n- "And don\'t you be unhappy, for we\'ll be good to you." - Tessa, showing kindness to Baldassarre']
 
 ** Chapter Keywords**:

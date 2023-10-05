@@ -13,7 +13,7 @@ In this chapter, Romola visits the painter Piero di Cosimo to check the progress
 **Location**:
 ['Florence', 'Italy']
 
-**Time_period**:
+**Time Period**:
 15th century (Renaissance period)
 
 **Themes**:
@@ -22,7 +22,7 @@ In this chapter, Romola visits the painter Piero di Cosimo to check the progress
 ** Plot Points**:
 ["Romola visits Piero di Cosimo to check on the progress of her father's portrait.", 'She discovers a sketch of Tito with a prisoner and questions Piero about it.', 'Piero dismisses the sketch as a coincidence and unrelated to Tito.', "Romola leaves the painter's house with lingering doubts about her husband's connection to the prisoner."]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['"It means nothing," she tried to assure herself. "It was a mere coincidence. Shall I ask Tito about it?" Her mind said at last, "No: I will not question him about anything he did not tell me spontaneously. It is an offence against the trust I owe him." Her heart said, "I dare not ask him."']
 
 ** Chapter Keywords**:

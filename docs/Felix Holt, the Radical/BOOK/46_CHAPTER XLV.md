@@ -13,7 +13,7 @@ In this chapter, Esther Lyon visits Felix Holt in prison with her father. Felix 
 **Location**:
 Loamford Assizes (prison)
 
-**Time_period**:
+**Time Period**:
 Early 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Early 19th century
 ** Plot Points**:
 ['Esther visits Felix in prison', 'They share a deep conversation about their beliefs and life paths', 'Felix urges Esther to find happiness', 'They share an emotional farewell with a kiss']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'The only failure a man ought to fear is failure in cleaving to the purpose he sees to be best.'", "'All your tastes are gratified now,' he went on innocently. 'But you'll remember the old pedagogue and his lectures?'", "'I shall want the news that you have a happiness worthy of you.'"]
 
 ** Chapter Keywords**:

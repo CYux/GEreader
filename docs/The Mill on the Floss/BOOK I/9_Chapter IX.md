@@ -14,7 +14,7 @@ In this chapter, Maggie experiences a series of unfortunate events, starting wit
 **Location**:
 Garum Firs
 
-**Time_period**:
+**Time Period**:
 Not specified
 
 **Themes**:
@@ -23,7 +23,7 @@ Not specified
 ** Plot Points**:
 ["Maggie's hair is criticized by the hairdresser", 'Maggie and Tom have a quarrel', 'The children visit Garum Firs and enjoy the farm animals', 'Mrs. Tulliver and Mrs. Pullet discuss their family troubles', 'An unexpected guest startles the family']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'I know a great many things you don't.' - Maggie", "'It's well if they ever fill three.' - Mrs. Pullet", "'I won't be behindhand in doing you a good turn.' - Mrs. Pullet"]
 
 ** Chapter Keywords**:

@@ -13,7 +13,7 @@ Sir James Chettam and Mr. Brooke discuss how to handle the situation regarding D
 **Location**:
 Library at Lowick Grange
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Sir James is upset about the codicil and wants Ladislaw sent away', 'Mr. Brooke is hesitant to take immediate action', "They agree that Dorothea should go to Celia's house"]
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“I wish to God we could hinder Dorothea from knowing this,” said Sir James Chettam', '“It’s all very well for Ladislaw to put that color on it,” said Sir James', '“Well, it would have been worse if he had made the codicil to hinder her from marrying again at all, you know.”']
 
 ** Chapter Keywords**:

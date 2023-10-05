@@ -13,7 +13,7 @@ Dorothea feels restless and spends her time in the library trying to focus on he
 **Location**:
 The library at Lowick
 
-**Time_period**:
+**Time Period**:
 Unknown
 
 **Themes**:
@@ -22,7 +22,7 @@ Unknown
 ** Plot Points**:
 ['Dorothea agrees to see Will Ladislaw', 'They have a heartfelt conversation about their feelings', 'Dorothea expresses her willingness to give up her wealth']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['“If I love him too much it is because he has been used so ill.”', '“I did not believe that you would let any circumstance of my birth create a prejudice in you against me, though it was sure to do so in others.”', '“I would rather share all the trouble of our parting.”', '“You may see beyond the misery of it, but I don’t. It is unkind—it is throwing back my love for you as if it were a trifle, to speak in that way in the face of the fact. We can never be married.”', '“I hate my wealth.”']
 
 ** Chapter Keywords**:

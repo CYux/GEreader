@@ -13,7 +13,7 @@ In this chapter, Dorothea summons Lydgate to discuss the Hospital issue. Lydgate
 **Location**:
 Middlemarch
 
-**Time_period**:
+**Time Period**:
 19th century
 
 **Themes**:
@@ -22,7 +22,7 @@ Middlemarch
 ** Plot Points**:
 ['Dorothea offers to help Lydgate financially', 'Lydgate expresses his doubts and plans to leave Middlemarch', 'Dorothea plans to visit Rosamond']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ["'You have never done anything vile. You would not do anything dishonorable.'", "'It is impossible for me now to do anything—to take any step without considering my wife’s happiness.'", "'You will do me another great kindness, then, and come to see my wife?'"]
 
 ** Chapter Keywords**:

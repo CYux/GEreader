@@ -13,7 +13,7 @@ Janet, having sought refuge from her abusive husband, Robert Dempster, with her 
 **Location**:
 Mrs. Pettifer's house
 
-**Time_period**:
+**Time Period**:
 19th Century
 
 **Themes**:
@@ -22,7 +22,7 @@ Mrs. Pettifer's house
 ** Plot Points**:
 ['Janet decides to stay with Mrs. Pettifer to avoid her abusive husband', "Janet agrees to Mr. Tryan's advice to send for her mother", 'Mr. Tryan suggests that a trusted friend should mediate between Janet and her husband', 'Janet shows remorse for her past behavior towards her mother', 'Mrs. Raynor is fetched by Mrs. Pettifer', 'Janet promises to not cause her mother further grief']
 
-** Significant Quotes**:
+** Significant Quotations**:
 ['‘Do not wound her,’ he said, ‘by shutting her out any longer from your troubles. It is right that you should be with her.’', '‘You will not be left to yourself. God is with you. If I have been able to give you any comfort, it is because His power and love have been present with us.', '‘Mother, dear mother!’ Janet cried, clasping her closely. ‘I have not been a good tender child to you, but I will be--I will not grieve you any more.’']
 
 ** Chapter Keywords**:
